@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>OverRuled - Trade | SDN Heat Map</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-store, max-age=0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="OverRuled presented by Akin Gump.">
+    <meta name="author" content="Akin Gump IT Solutions">
+    <link id="icon" rel="icon" sizes="16x16 32x32 64x64" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://use.typekit.net/irw3akf.css">
+    <script type="text/javascript">
+
+        if (_isIE()) {
+            var redirectUrl = window.location.href;
+            window.location.href = "IncompatibleBrowser.html?redirectUrl=" + redirectUrl;
+        }
+
+        function _isIE() {
+            var ua = window.navigator.userAgent;
+
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+                // IE 10 or older => return version number
+                return true;
+            }
+
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+                // IE 11 => return version number
+                return true
+            }
+
+            // other browser
+            return false;
+        }
+    </script>
+</head>
+<body>
+
+    <nav class="sidenav navbar navbar-vertical nv-pt-0 fixed fixed-left  navbar-expand-xs navbar-primary" id="sidenav-main">
+
+    </nav>
+    <div class="main-content" id="panel" style="display: none;">
+        <div class="header">
+        </div>
+        <div class="row flex-grow-1 overflow-hidden  main mt-1">
+
+            <div id="centerDiv" style="width:100vw;" class="col mh-100 overflow-auto py-2 ml-2 mr-2">
+                <div id="worldMap" style="width: 100%; height: 100%;" class="map-legend-bl"></div>
+
+            </div>
+
+        </div>
+        <div class="footer fixed-bottom">
+        </div>
+
+
+    </div>
+
+    <script src="js/sdn.js" type="text/javascript"></script>
+
+</body>
+</html>

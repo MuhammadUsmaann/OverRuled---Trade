@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "1A001",
+    "Value": "1A001",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A004",
+    "Value": "1A004",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A005",
+    "Value": "1A005",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A607",
+    "Value": "1A607",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A613",
+    "Value": "1A613",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A984",
+    "Value": "1A984",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A985",
+    "Value": "1A985",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  },
+  {
+    "ID": "1A995",
+    "Value": "1A995",
+    "ObjectType": "ECCN",
+    "HasChildren": false
+  }
+]

@@ -1,0 +1,3722 @@
+{
+  "listings": {
+    "SearchLogID": -1,
+    "Results": [
+      {
+        "SanctioningAgency": 1,
+        "SanctionID": 5765,
+        "SanctionNumber": "20220930TAN1",
+        "EnforcementDate": "2022-09-30T00:00:00",
+        "RespondentName": "Tango Card, Inc.",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "N/A",
+        "DestinationCountryCodes": " N1",
+        "StatutoryRegimes": "IEEPA; TWEA",
+        "RegulatoryRegimes": "ITSR; NKSR; CACR; SySR",
+        "Industries": "Consumer Goods",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "510.206; 515.201; 542.207; 560.204; E.O. 13685",
+        "AggravatingFactors": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country; Reason to Know",
+        "MitigatingFactors": "Remedial Response; Cooperation with Investigation; Prior Enforcement History; Tolling Agreement; Voluntary Self-Disclosure",
+        "ItemTypes": "",
+        "TargetedPersons": null,
+        "NumberOfViolations": 27720,
+        "VoluntaryDisclosure": 1,
+        "VoluntaryDisclosureDisplay": "Yes",
+        "EgregiousCase": 0,
+        "EgregiousCaseDisplay": "No",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 116048.6000,
+        "Source": "https://home.treasury.gov/system/files/126/20220930_tango_card.pdf",
+        "AlternativeSource": "20220930_tango_card.pdf",
+        "LocalSource": "/sanctions/OFAC/20220930_tango_card.pdf",
+        "Quadrant": "VYEN"
+      },
+      {
+        "SanctioningAgency": 1,
+        "SanctionID": 5764,
+        "SanctionNumber": "20220926CAI1",
+        "EnforcementDate": "2022-09-26T00:00:00",
+        "RespondentName": "CA Indosuez (Switzerland) S.A.",
+        "RespondentNationalities": "Switzerland",
+        "RespondentCountryCodes": " CH",
+        "Destinations": "N/A",
+        "DestinationCountryCodes": " N1",
+        "StatutoryRegimes": "IEEPA; TWEA",
+        "RegulatoryRegimes": "ITSR; CACR; SySR; SSR",
+        "Industries": "Financial Services",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "515.201; 538.205; 542.207; 560.203; 560.204; E.O. 13685",
+        "AggravatingFactors": "Harm to U.S. National Security or Foreign Policy; Economic or Other Benefit to the Sanctioned Individual, Entity, or Country; Reason to Know",
+        "MitigatingFactors": "Remedial Response; Cooperation with Investigation; Prior Enforcement History; Tolling Agreement",
+        "ItemTypes": "",
+        "TargetedPersons": null,
+        "NumberOfViolations": 273,
+        "VoluntaryDisclosure": 1,
+        "VoluntaryDisclosureDisplay": "Yes",
+        "EgregiousCase": 0,
+        "EgregiousCaseDisplay": "No",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 720258.0000,
+        "Source": "https://home.treasury.gov/system/files/126/20220926_CAIS.pdf",
+        "AlternativeSource": "20220926_CAIS.pdf",
+        "LocalSource": "/sanctions/OFAC/20220926_CAIS.pdf",
+        "Quadrant": "VYEN"
+      },
+      {
+        "SanctioningAgency": 1,
+        "SanctionID": 5763,
+        "SanctionNumber": "20220926CFM1",
+        "EnforcementDate": "2022-09-26T00:00:00",
+        "RespondentName": "CFM Indosuez Wealth",
+        "RespondentNationalities": "Monaco",
+        "RespondentCountryCodes": " MC",
+        "Destinations": "N/A",
+        "DestinationCountryCodes": " N1",
+        "StatutoryRegimes": "IEEPA; TWEA",
+        "RegulatoryRegimes": "ITSR; CACR; SySR",
+        "Industries": "Financial Services",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "515.201; 542.207; 560.203; 560.204",
+        "AggravatingFactors": "Harm to U.S. National Security or Foreign Policy; Economic or Other Benefit to the Sanctioned Individual, Entity, or Country; Reason to Know",
+        "MitigatingFactors": "Remedial Response; Cooperation with Investigation; Prior Enforcement History; Tolling Agreement",
+        "ItemTypes": "",
+        "TargetedPersons": null,
+        "NumberOfViolations": 426,
+        "VoluntaryDisclosure": 1,
+        "VoluntaryDisclosureDisplay": "Yes",
+        "EgregiousCase": 0,
+        "EgregiousCaseDisplay": "No",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 401039.0000,
+        "Source": "https://home.treasury.gov/system/files/126/20220926_CFM.pdf",
+        "AlternativeSource": "20220926_CFM.pdf",
+        "LocalSource": "/sanctions/OFAC/20220926_CFM.pdf",
+        "Quadrant": "VYEN"
+      },
+      {
+        "SanctioningAgency": 1,
+        "SanctionID": 5762,
+        "SanctionNumber": "20220721MID1",
+        "EnforcementDate": "2022-07-21T00:00:00",
+        "RespondentName": "MidFirst Bank",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "N/A",
+        "DestinationCountryCodes": " N1",
+        "StatutoryRegimes": "IEEPA",
+        "RegulatoryRegimes": "WMDPSR",
+        "Industries": "Financial Services",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "544.201",
+        "AggravatingFactors": "Harm to U.S. National Security or Foreign Policy; Reason to Know",
+        "MitigatingFactors": "Remedial Response; Cooperation with Investigation; Prior Enforcement History; Recent SDN Changes; Totality of the Circumstances",
+        "ItemTypes": "",
+        "TargetedPersons": "SDN",
+        "NumberOfViolations": 34,
+        "VoluntaryDisclosure": -1,
+        "VoluntaryDisclosureDisplay": "Unknown",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 0.0000,
+        "Source": "https://home.treasury.gov/system/files/126/20220721_midfirst.pdf",
+        "AlternativeSource": "20220721_midfirst.pdf",
+        "LocalSource": "/sanctions/OFAC/20220721_midfirst.pdf",
+        "Quadrant": "VUEU"
+      },
+      {
+        "SanctioningAgency": 1,
+        "SanctionID": 5761,
+        "SanctionNumber": "20220715AME1",
+        "EnforcementDate": "2022-07-15T00:00:00",
+        "RespondentName": "American Express National Bank",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "N/A",
+        "DestinationCountryCodes": " N1",
+        "StatutoryRegimes": "FNKDA",
+        "RegulatoryRegimes": "FNKSR",
+        "Industries": "Financial Services",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "598.202",
+        "AggravatingFactors": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country; Commercial Sophistication",
+        "MitigatingFactors": "Cooperation with Investigation; Remedial Measures",
+        "ItemTypes": "",
+        "TargetedPersons": "SDNTK",
+        "NumberOfViolations": 214,
+        "VoluntaryDisclosure": 0,
+        "VoluntaryDisclosureDisplay": "No",
+        "EgregiousCase": 0,
+        "EgregiousCaseDisplay": "No",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 430500.0000,
+        "Source": "https://home.treasury.gov/system/files/126/20220715_amex.pdf",
+        "AlternativeSource": "20220715_amex.pdf",
+        "LocalSource": "/sanctions/OFAC/20220715_amex.pdf",
+        "Quadrant": "VNEN"
+      }
+    ],
+    "Stats": {
+      "VoluntaryYEgregiousN": 3,
+      "VoluntaryNEgregiousN": 1,
+      "VoluntaryYEgregiousY": 0,
+      "VoluntaryNEgregiousY": 0,
+      "AverageNumberOfViolations": 5733.4,
+      "AveragePenalty": 333569.1200,
+      "TopMitigating": "Cooperation with Investigation (5); Remedial Response (4); Prior Enforcement History (4)",
+      "TopAggravating": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country (4); Reason to Know (4); Harm to U.S. National Security or Foreign Policy (3)"
+    }
+  },
+  "details": [
+    {
+      "OFACSanctionID": 5765,
+      "OFACNumber": "20220930TAN1",
+      "EnforcementDate": "2022-09-30T00:00:00",
+      "CompanyName": "Tango Card, Inc.",
+      "Source": "https://home.treasury.gov/system/files/126/20220930_tango_card.pdf",
+      "AlternativeSource": "20220930_tango_card.pdf",
+      "LocalSource": "/sanctions/ofac/20220930_tango_card.pdf",
+      "KeyFacts": "Between September 2016 and September 2021, Tango Card, Inc. transmitted 27,720 merchant gift cards and promotional debit cards, totaling $386,828.65, to individuals with email or IP addresses associated with Cuba, Iran, Syria, North Korea, or the Crimea region of Ukraine.",
+      "TransactionValue": 386828.6500,
+      "SanctionedConduct": null,
+      "GoodsAndServices": "Transmitted merchant gift cards and promotional debit cards to individuals with email or IP addresses associated with Cuba, Iran, Syria, North Korea, or the Crimea region of Ukraine.",
+      "NumberOfViolations": 27720,
+      "MultipleProgramsViolations": 1,
+      "MultipleProgramsViolationsDisplay": "Yes",
+      "SettlementAmount": 116048.6000,
+      "StatutoryMaximum": 9168949062.0000,
+      "BasePenalty": 193414.3300,
+      "RemediationOrdered": null,
+      "RemediationOrderedDisplay": "Unknown",
+      "VoluntaryDisclosure": 1,
+      "VoluntaryDisclosureDisplay": "Yes",
+      "EgregiousCase": 0,
+      "EgregiousCaseDisplay": "No",
+      "WillfulOrReckless": -1,
+      "WillfulOrRecklessDisplay": "Unknown",
+      "IncludeInMatrix": true,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-10-03T09:27:54",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-10-03T09:27:54",
+      "Nationalities": [
+        {
+          "LookupType": 5,
+          "LookupID": 21,
+          "Display": "U.S. Person",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 61,
+          "Display": "510.206",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 78,
+          "Display": "515.201",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 223,
+          "Display": "542.207",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 250,
+          "Display": "560.204",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 405,
+          "Display": "E.O. 13685",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 79,
+          "Display": "ITSR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 80,
+          "Display": "NKSR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 81,
+          "Display": "CACR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 85,
+          "Display": "SySR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 14,
+          "Display": "IEEPA",
+          "Other": null
+        },
+        {
+          "LookupType": 7,
+          "LookupID": 16,
+          "Display": "TWEA",
+          "Other": null
+        }
+      ],
+      "SanctionedCountries": [
+        {
+          "CountryRole": 1,
+          "CountryID": 49,
+          "Display": "Cuba",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 49,
+            "CountryCode": "CU",
+            "CIACode": "CU  ",
+            "ISO3Code": "CUB",
+            "CountryName": "Cuba",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 0,
+            "SDNEntityCount": 19,
+            "SDNOtherCount": 16,
+            "ELCount": 1,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 4,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 11550,
+            "SanctionRiskTier": 22758,
+            "ExportRiskScore": 11208,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 115,
+          "Display": "North Korea",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 115,
+            "CountryCode": "KP",
+            "CIACode": "KN  ",
+            "ISO3Code": "PRK",
+            "CountryName": "North Korea",
+            "AlternateName": "Korea, Democratic People's Republic Of",
+            "AlternateName2": "Korea, North",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 148,
+            "SDNOtherCount": 45,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 23,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 81,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": true,
+            "GP8Transit": true,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 22187,
+            "SanctionRiskTier": 35887,
+            "ExportRiskScore": 13700,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 204,
+          "Display": "Syria",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 204,
+            "CountryCode": "SY",
+            "CIACode": "SY  ",
+            "ISO3Code": "SYR",
+            "CountryName": "Syria",
+            "AlternateName": "Syrian Arab Republic",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 3,
+            "SDNEntityCount": 185,
+            "SDNOtherCount": 442,
+            "ELCount": 19,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 13,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 48,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": true,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": false,
+            "EAR99Restricted": true,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 20787,
+            "SanctionRiskTier": 33819,
+            "ExportRiskScore": 13032,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 249,
+          "Display": "Crimea",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 249,
+            "CountryCode": "UC",
+            "CIACode": "UC  ",
+            "ISO3Code": null,
+            "CountryName": "Crimea",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": false,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": false,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 66,
+            "SDNOtherCount": 24,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": true,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 6900,
+            "SanctionRiskTier": 13524,
+            "ExportRiskScore": 6624,
+            "ExportRiskTier": 8,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "SanctionedPersons": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "AffiliateNationalities": [],
+      "DegreesOfKnowledge": [
+        {
+          "LookupType": 2,
+          "LookupID": 16,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 83,
+          "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 92,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 87,
+          "Display": "Remedial Response",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 89,
+          "Display": "Prior Enforcement History",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 99,
+          "Display": "Voluntary Self-Disclosure",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 37,
+          "Display": "Consumer Goods",
+          "Other": null
+        }
+      ],
+      "ECCNs": [],
+      "ViolationDates": [
+        {
+          "OFACViolationDateID": -1,
+          "DateBegin": "2016-09-01T00:00:00",
+          "DateEnd": "2021-09-01T00:00:00",
+          "DateString": null
+        }
+      ],
+      "Subsanctions": [
+        {
+          "OFACSanctionDetailID": 5765,
+          "NumberOfViolations": 27720,
+          "TransactionValue": null,
+          "BasePenalty": 193414.3300,
+          "VoluntaryDisclosure": 1,
+          "VoluntaryDisclosureDisplay": "Yes",
+          "EgregiousCase": 0,
+          "EgregiousCaseDisplay": "No",
+          "WillfulOrReckless": -1,
+          "WillfulOrRecklessDisplay": "Unknown",
+          "EnteredBy": null,
+          "EnteredDate": "0001-01-01T00:00:00",
+          "ModifiedBy": null,
+          "ModifiedDate": "0001-01-01T00:00:00",
+          "ViolationDates": [
+            {
+              "OFACViolationDateID": 2207,
+              "DateBegin": "2016-09-01T00:00:00",
+              "DateEnd": "2021-09-01T00:00:00",
+              "DateString": "9/2016-9/2021"
+            }
+          ],
+          "Nationalities": [
+            {
+              "LookupType": 5,
+              "LookupID": 21,
+              "Display": "U.S. Person",
+              "Other": null
+            }
+          ],
+          "RegulatoryProvisions": [
+            {
+              "RegulatoryProvisionID": 61,
+              "Display": "510.206",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 78,
+              "Display": "515.201",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 223,
+              "Display": "542.207",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 250,
+              "Display": "560.204",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 405,
+              "Display": "E.O. 13685",
+              "Other": null
+            }
+          ],
+          "RegulatoryRegimes": [
+            {
+              "LookupType": 6,
+              "LookupID": 79,
+              "Display": "ITSR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 80,
+              "Display": "NKSR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 81,
+              "Display": "CACR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 85,
+              "Display": "SySR",
+              "Other": null
+            }
+          ],
+          "StatutoryPrograms": [
+            {
+              "LookupType": 7,
+              "LookupID": 14,
+              "Display": "IEEPA",
+              "Other": null
+            },
+            {
+              "LookupType": 7,
+              "LookupID": 16,
+              "Display": "TWEA",
+              "Other": null
+            }
+          ],
+          "SanctionedCountries": [],
+          "SanctionedPersons": [],
+          "Destinations": [],
+          "Transhipments": [],
+          "RespondentNationalities": [],
+          "AffiliateNationalities": [],
+          "DegreesOfKnowledge": [
+            {
+              "LookupType": 2,
+              "LookupID": 16,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "AggravatingFactors": [
+            {
+              "LookupType": 1,
+              "LookupID": 83,
+              "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 92,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "MitigatingFactors": [
+            {
+              "LookupType": 4,
+              "LookupID": 87,
+              "Display": "Remedial Response",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 88,
+              "Display": "Cooperation with Investigation",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 89,
+              "Display": "Prior Enforcement History",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 91,
+              "Display": "Tolling Agreement",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 99,
+              "Display": "Voluntary Self-Disclosure",
+              "Other": null
+            }
+          ],
+          "Industries": [
+            {
+              "LookupType": 3,
+              "LookupID": 37,
+              "Display": "Consumer Goods",
+              "Other": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "OFACSanctionID": 5764,
+      "OFACNumber": "20220926CAI1",
+      "EnforcementDate": "2022-09-26T00:00:00",
+      "CompanyName": "CA Indosuez (Switzerland) S.A.",
+      "Source": "https://home.treasury.gov/system/files/126/20220926_CAIS.pdf",
+      "AlternativeSource": "20220926_CAIS.pdf",
+      "LocalSource": "/sanctions/ofac/20220926_CAIS.pdf",
+      "KeyFacts": "Between April 2013 and April 2016, CA Indosuez (Switzerland) S.A. processed 273 transactions, totaling approximately $3,076,180, on behalf of individuals ordinarily resident in Cuba, Crimea, Iran, Sudan, and Syria.",
+      "TransactionValue": 3076180.0000,
+      "SanctionedConduct": null,
+      "GoodsAndServices": "Processed transactions on behalf of individuals ordinarily resident in Cuba, Crimea, Iran, Sudan, and Syria.",
+      "NumberOfViolations": 273,
+      "MultipleProgramsViolations": 1,
+      "MultipleProgramsViolationsDisplay": "Yes",
+      "SettlementAmount": 720258.0000,
+      "StatutoryMaximum": 64062841.0000,
+      "BasePenalty": 1108090.0000,
+      "RemediationOrdered": null,
+      "RemediationOrderedDisplay": "Unknown",
+      "VoluntaryDisclosure": 1,
+      "VoluntaryDisclosureDisplay": "Yes",
+      "EgregiousCase": 0,
+      "EgregiousCaseDisplay": "No",
+      "WillfulOrReckless": 0,
+      "WillfulOrRecklessDisplay": "No",
+      "IncludeInMatrix": true,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-09-27T16:28:28",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-09-27T16:28:28",
+      "Nationalities": [
+        {
+          "LookupType": 5,
+          "LookupID": 23,
+          "Display": "Non-U.S. Person",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 78,
+          "Display": "515.201",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 201,
+          "Display": "538.205",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 223,
+          "Display": "542.207",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 249,
+          "Display": "560.203",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 250,
+          "Display": "560.204",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 405,
+          "Display": "E.O. 13685",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 79,
+          "Display": "ITSR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 81,
+          "Display": "CACR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 85,
+          "Display": "SySR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 86,
+          "Display": "SSR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 14,
+          "Display": "IEEPA",
+          "Other": null
+        },
+        {
+          "LookupType": 7,
+          "LookupID": 16,
+          "Display": "TWEA",
+          "Other": null
+        }
+      ],
+      "SanctionedCountries": [
+        {
+          "CountryRole": 1,
+          "CountryID": 49,
+          "Display": "Cuba",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 49,
+            "CountryCode": "CU",
+            "CIACode": "CU  ",
+            "ISO3Code": "CUB",
+            "CountryName": "Cuba",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 0,
+            "SDNEntityCount": 19,
+            "SDNOtherCount": 16,
+            "ELCount": 1,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 4,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 11550,
+            "SanctionRiskTier": 22758,
+            "ExportRiskScore": 11208,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 190,
+          "Display": "Sudan",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 190,
+            "CountryCode": "SD",
+            "CIACode": "SU  ",
+            "ISO3Code": "SDN",
+            "CountryName": "Sudan",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 11,
+            "SDNOtherCount": 6,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 12,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 10,
+            "SanctionRiskScore": 1770,
+            "SanctionRiskTier": 3770,
+            "ExportRiskScore": 2000,
+            "ExportRiskTier": 6,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 204,
+          "Display": "Syria",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 204,
+            "CountryCode": "SY",
+            "CIACode": "SY  ",
+            "ISO3Code": "SYR",
+            "CountryName": "Syria",
+            "AlternateName": "Syrian Arab Republic",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 3,
+            "SDNEntityCount": 185,
+            "SDNOtherCount": 442,
+            "ELCount": 19,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 13,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 48,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": true,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": false,
+            "EAR99Restricted": true,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 20787,
+            "SanctionRiskTier": 33819,
+            "ExportRiskScore": 13032,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 249,
+          "Display": "Crimea",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 249,
+            "CountryCode": "UC",
+            "CIACode": "UC  ",
+            "ISO3Code": null,
+            "CountryName": "Crimea",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": false,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": false,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 66,
+            "SDNOtherCount": 24,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": true,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 6900,
+            "SanctionRiskTier": 13524,
+            "ExportRiskScore": 6624,
+            "ExportRiskTier": 8,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "SanctionedPersons": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 41,
+          "Display": "Switzerland",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 41,
+            "CountryCode": "CH",
+            "CIACode": "SZ  ",
+            "ISO3Code": "CHE",
+            "CountryName": "Switzerland",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 6,
+            "SDNEntityCount": 22,
+            "SDNOtherCount": 17,
+            "ELCount": 8,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 1,
+            "NonProliferationCount": 1,
+            "CaptaCount": 0,
+            "FSECount": 1,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 6,
+            "SanctionRiskScore": 430,
+            "SanctionRiskTier": 976,
+            "ExportRiskScore": 546,
+            "ExportRiskTier": 4,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "AffiliateNationalities": [],
+      "DegreesOfKnowledge": [
+        {
+          "LookupType": 2,
+          "LookupID": 16,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 82,
+          "Display": "Harm to U.S. National Security or Foreign Policy",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 83,
+          "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 92,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 87,
+          "Display": "Remedial Response",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 89,
+          "Display": "Prior Enforcement History",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 35,
+          "Display": "Financial Services",
+          "Other": null
+        }
+      ],
+      "ECCNs": [],
+      "ViolationDates": [
+        {
+          "OFACViolationDateID": -1,
+          "DateBegin": "2013-04-01T00:00:00",
+          "DateEnd": "2016-04-01T00:00:00",
+          "DateString": null
+        }
+      ],
+      "Subsanctions": [
+        {
+          "OFACSanctionDetailID": 5764,
+          "NumberOfViolations": 273,
+          "TransactionValue": null,
+          "BasePenalty": 1108090.0000,
+          "VoluntaryDisclosure": 1,
+          "VoluntaryDisclosureDisplay": "Yes",
+          "EgregiousCase": 0,
+          "EgregiousCaseDisplay": "No",
+          "WillfulOrReckless": 0,
+          "WillfulOrRecklessDisplay": "No",
+          "EnteredBy": null,
+          "EnteredDate": "0001-01-01T00:00:00",
+          "ModifiedBy": null,
+          "ModifiedDate": "0001-01-01T00:00:00",
+          "ViolationDates": [
+            {
+              "OFACViolationDateID": 2206,
+              "DateBegin": "2013-04-01T00:00:00",
+              "DateEnd": "2016-04-01T00:00:00",
+              "DateString": "4/2013-4/2016"
+            }
+          ],
+          "Nationalities": [
+            {
+              "LookupType": 5,
+              "LookupID": 23,
+              "Display": "Non-U.S. Person",
+              "Other": null
+            }
+          ],
+          "RegulatoryProvisions": [
+            {
+              "RegulatoryProvisionID": 78,
+              "Display": "515.201",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 201,
+              "Display": "538.205",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 223,
+              "Display": "542.207",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 249,
+              "Display": "560.203",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 250,
+              "Display": "560.204",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 405,
+              "Display": "E.O. 13685",
+              "Other": null
+            }
+          ],
+          "RegulatoryRegimes": [
+            {
+              "LookupType": 6,
+              "LookupID": 79,
+              "Display": "ITSR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 81,
+              "Display": "CACR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 85,
+              "Display": "SySR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 86,
+              "Display": "SSR",
+              "Other": null
+            }
+          ],
+          "StatutoryPrograms": [
+            {
+              "LookupType": 7,
+              "LookupID": 14,
+              "Display": "IEEPA",
+              "Other": null
+            },
+            {
+              "LookupType": 7,
+              "LookupID": 16,
+              "Display": "TWEA",
+              "Other": null
+            }
+          ],
+          "SanctionedCountries": [],
+          "SanctionedPersons": [],
+          "Destinations": [],
+          "Transhipments": [],
+          "RespondentNationalities": [],
+          "AffiliateNationalities": [],
+          "DegreesOfKnowledge": [
+            {
+              "LookupType": 2,
+              "LookupID": 16,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "AggravatingFactors": [
+            {
+              "LookupType": 1,
+              "LookupID": 82,
+              "Display": "Harm to U.S. National Security or Foreign Policy",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 83,
+              "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 92,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "MitigatingFactors": [
+            {
+              "LookupType": 4,
+              "LookupID": 87,
+              "Display": "Remedial Response",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 88,
+              "Display": "Cooperation with Investigation",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 89,
+              "Display": "Prior Enforcement History",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 91,
+              "Display": "Tolling Agreement",
+              "Other": null
+            }
+          ],
+          "Industries": [
+            {
+              "LookupType": 3,
+              "LookupID": 35,
+              "Display": "Financial Services",
+              "Other": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "OFACSanctionID": 5763,
+      "OFACNumber": "20220926CFM1",
+      "EnforcementDate": "2022-09-26T00:00:00",
+      "CompanyName": "CFM Indosuez Wealth",
+      "Source": "https://home.treasury.gov/system/files/126/20220926_CFM.pdf",
+      "AlternativeSource": "20220926_CFM.pdf",
+      "LocalSource": "/sanctions/ofac/20220926_CFM.pdf",
+      "KeyFacts": "Between December 15, 2011 and July 1, 2016, CFM Indosuez Wealth processed 426 transactions, totaling approximately $1,233,967, on behalf of individuals ordinarily resident in Cuba, Iran, and Syria.",
+      "TransactionValue": 1233967.0000,
+      "SanctionedConduct": null,
+      "GoodsAndServices": "Processed transactions on behalf of individuals ordinarily resident in Cuba, Iran, and Syria.",
+      "NumberOfViolations": 426,
+      "MultipleProgramsViolations": 1,
+      "MultipleProgramsViolationsDisplay": "Yes",
+      "SettlementAmount": 401039.0000,
+      "StatutoryMaximum": 106853346.0000,
+      "BasePenalty": 616983.0000,
+      "RemediationOrdered": null,
+      "RemediationOrderedDisplay": "Unknown",
+      "VoluntaryDisclosure": 1,
+      "VoluntaryDisclosureDisplay": "Yes",
+      "EgregiousCase": 0,
+      "EgregiousCaseDisplay": "No",
+      "WillfulOrReckless": 0,
+      "WillfulOrRecklessDisplay": "No",
+      "IncludeInMatrix": true,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-09-27T16:28:28",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-09-27T16:28:28",
+      "Nationalities": [
+        {
+          "LookupType": 5,
+          "LookupID": 23,
+          "Display": "Non-U.S. Person",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 78,
+          "Display": "515.201",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 223,
+          "Display": "542.207",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 249,
+          "Display": "560.203",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 250,
+          "Display": "560.204",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 79,
+          "Display": "ITSR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 81,
+          "Display": "CACR",
+          "Other": null
+        },
+        {
+          "LookupType": 6,
+          "LookupID": 85,
+          "Display": "SySR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 14,
+          "Display": "IEEPA",
+          "Other": null
+        },
+        {
+          "LookupType": 7,
+          "LookupID": 16,
+          "Display": "TWEA",
+          "Other": null
+        }
+      ],
+      "SanctionedCountries": [
+        {
+          "CountryRole": 1,
+          "CountryID": 49,
+          "Display": "Cuba",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 49,
+            "CountryCode": "CU",
+            "CIACode": "CU  ",
+            "ISO3Code": "CUB",
+            "CountryName": "Cuba",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 0,
+            "SDNEntityCount": 19,
+            "SDNOtherCount": 16,
+            "ELCount": 1,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 4,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 11550,
+            "SanctionRiskTier": 22758,
+            "ExportRiskScore": 11208,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 1,
+          "CountryID": 204,
+          "Display": "Syria",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 204,
+            "CountryCode": "SY",
+            "CIACode": "SY  ",
+            "ISO3Code": "SYR",
+            "CountryName": "Syria",
+            "AlternateName": "Syrian Arab Republic",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 3,
+            "SDNEntityCount": 185,
+            "SDNOtherCount": 442,
+            "ELCount": 19,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 13,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 48,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": true,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": false,
+            "EAR99Restricted": true,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 20787,
+            "SanctionRiskTier": 33819,
+            "ExportRiskScore": 13032,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "SanctionedPersons": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 133,
+          "Display": "Monaco",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 133,
+            "CountryCode": "MC",
+            "CIACode": "MN  ",
+            "ISO3Code": "MCO",
+            "CountryName": "Monaco",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 1,
+            "SDNOtherCount": 2,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 10,
+            "SanctionRiskScore": 30,
+            "SanctionRiskTier": 1030,
+            "ExportRiskScore": 1000,
+            "ExportRiskTier": 4,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "AffiliateNationalities": [],
+      "DegreesOfKnowledge": [
+        {
+          "LookupType": 2,
+          "LookupID": 16,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 82,
+          "Display": "Harm to U.S. National Security or Foreign Policy",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 83,
+          "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 92,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 87,
+          "Display": "Remedial Response",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 89,
+          "Display": "Prior Enforcement History",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 35,
+          "Display": "Financial Services",
+          "Other": null
+        }
+      ],
+      "ECCNs": [],
+      "ViolationDates": [
+        {
+          "OFACViolationDateID": -1,
+          "DateBegin": "2011-12-15T00:00:00",
+          "DateEnd": "2016-07-01T00:00:00",
+          "DateString": null
+        }
+      ],
+      "Subsanctions": [
+        {
+          "OFACSanctionDetailID": 5763,
+          "NumberOfViolations": 426,
+          "TransactionValue": null,
+          "BasePenalty": 616983.0000,
+          "VoluntaryDisclosure": 1,
+          "VoluntaryDisclosureDisplay": "Yes",
+          "EgregiousCase": 0,
+          "EgregiousCaseDisplay": "No",
+          "WillfulOrReckless": 0,
+          "WillfulOrRecklessDisplay": "No",
+          "EnteredBy": null,
+          "EnteredDate": "0001-01-01T00:00:00",
+          "ModifiedBy": null,
+          "ModifiedDate": "0001-01-01T00:00:00",
+          "ViolationDates": [
+            {
+              "OFACViolationDateID": 2205,
+              "DateBegin": "2011-12-15T00:00:00",
+              "DateEnd": "2016-07-01T00:00:00",
+              "DateString": "12/15/2011-7/1/2016"
+            }
+          ],
+          "Nationalities": [
+            {
+              "LookupType": 5,
+              "LookupID": 23,
+              "Display": "Non-U.S. Person",
+              "Other": null
+            }
+          ],
+          "RegulatoryProvisions": [
+            {
+              "RegulatoryProvisionID": 78,
+              "Display": "515.201",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 223,
+              "Display": "542.207",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 249,
+              "Display": "560.203",
+              "Other": null
+            },
+            {
+              "RegulatoryProvisionID": 250,
+              "Display": "560.204",
+              "Other": null
+            }
+          ],
+          "RegulatoryRegimes": [
+            {
+              "LookupType": 6,
+              "LookupID": 79,
+              "Display": "ITSR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 81,
+              "Display": "CACR",
+              "Other": null
+            },
+            {
+              "LookupType": 6,
+              "LookupID": 85,
+              "Display": "SySR",
+              "Other": null
+            }
+          ],
+          "StatutoryPrograms": [
+            {
+              "LookupType": 7,
+              "LookupID": 14,
+              "Display": "IEEPA",
+              "Other": null
+            },
+            {
+              "LookupType": 7,
+              "LookupID": 16,
+              "Display": "TWEA",
+              "Other": null
+            }
+          ],
+          "SanctionedCountries": [],
+          "SanctionedPersons": [],
+          "Destinations": [],
+          "Transhipments": [],
+          "RespondentNationalities": [],
+          "AffiliateNationalities": [],
+          "DegreesOfKnowledge": [
+            {
+              "LookupType": 2,
+              "LookupID": 16,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "AggravatingFactors": [
+            {
+              "LookupType": 1,
+              "LookupID": 82,
+              "Display": "Harm to U.S. National Security or Foreign Policy",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 83,
+              "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 92,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "MitigatingFactors": [
+            {
+              "LookupType": 4,
+              "LookupID": 87,
+              "Display": "Remedial Response",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 88,
+              "Display": "Cooperation with Investigation",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 89,
+              "Display": "Prior Enforcement History",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 91,
+              "Display": "Tolling Agreement",
+              "Other": null
+            }
+          ],
+          "Industries": [
+            {
+              "LookupType": 3,
+              "LookupID": 35,
+              "Display": "Financial Services",
+              "Other": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "OFACSanctionID": 5762,
+      "OFACNumber": "20220721MID1",
+      "EnforcementDate": "2022-07-21T00:00:00",
+      "CompanyName": "MidFirst Bank",
+      "Source": "https://home.treasury.gov/system/files/126/20220721_midfirst.pdf",
+      "AlternativeSource": "20220721_midfirst.pdf",
+      "LocalSource": "/sanctions/ofac/20220721_midfirst.pdf",
+      "KeyFacts": "MidFirst Bank maintained accounts for and processed 34 payments on behalf of two individuals added to OFAC’s SDN List for 14 days post-designation.  The violations stemmed from MidFirst Bank’s misunderstanding of the frequency of its vendor’s screening of new names added to the SDN List against its existing customer base.",
+      "TransactionValue": 613879.0200,
+      "SanctionedConduct": null,
+      "GoodsAndServices": "Maintained accounts for and processed payments on behalf of SDNs",
+      "NumberOfViolations": 34,
+      "MultipleProgramsViolations": 0,
+      "MultipleProgramsViolationsDisplay": "No",
+      "SettlementAmount": 0.0000,
+      "StatutoryMaximum": null,
+      "BasePenalty": null,
+      "RemediationOrdered": null,
+      "RemediationOrderedDisplay": "Unknown",
+      "VoluntaryDisclosure": -1,
+      "VoluntaryDisclosureDisplay": "Unknown",
+      "EgregiousCase": -1,
+      "EgregiousCaseDisplay": "Unknown",
+      "WillfulOrReckless": -1,
+      "WillfulOrRecklessDisplay": "Unknown",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-07-22T08:26:24",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-07-22T08:26:24",
+      "Nationalities": [
+        {
+          "LookupType": 5,
+          "LookupID": 21,
+          "Display": "U.S. Person",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 235,
+          "Display": "544.201",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 89,
+          "Display": "WMDPSR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 14,
+          "Display": "IEEPA",
+          "Other": null
+        }
+      ],
+      "SanctionedCountries": [
+        {
+          "CountryRole": 1,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "SanctionedPersons": [
+        {
+          "LookupType": 9,
+          "LookupID": 20,
+          "Display": "SDN",
+          "Other": null
+        }
+      ],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "AffiliateNationalities": [
+        {
+          "CountryRole": 5,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "DegreesOfKnowledge": [
+        {
+          "LookupType": 2,
+          "LookupID": 16,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 82,
+          "Display": "Harm to U.S. National Security or Foreign Policy",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 92,
+          "Display": "Reason to Know",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 87,
+          "Display": "Remedial Response",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 89,
+          "Display": "Prior Enforcement History",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 98,
+          "Display": "Recent SDN Changes",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 106,
+          "Display": "Totality of the Circumstances",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 35,
+          "Display": "Financial Services",
+          "Other": null
+        }
+      ],
+      "ECCNs": [],
+      "ViolationDates": [
+        {
+          "OFACViolationDateID": -1,
+          "DateBegin": "2022-09-21T00:00:00",
+          "DateEnd": "2020-10-05T00:00:00",
+          "DateString": null
+        }
+      ],
+      "Subsanctions": [
+        {
+          "OFACSanctionDetailID": 5762,
+          "NumberOfViolations": 34,
+          "TransactionValue": null,
+          "BasePenalty": null,
+          "VoluntaryDisclosure": -1,
+          "VoluntaryDisclosureDisplay": "Unknown",
+          "EgregiousCase": -1,
+          "EgregiousCaseDisplay": "Unknown",
+          "WillfulOrReckless": -1,
+          "WillfulOrRecklessDisplay": "Unknown",
+          "EnteredBy": null,
+          "EnteredDate": "0001-01-01T00:00:00",
+          "ModifiedBy": null,
+          "ModifiedDate": "0001-01-01T00:00:00",
+          "ViolationDates": [
+            {
+              "OFACViolationDateID": 2204,
+              "DateBegin": "2022-09-21T00:00:00",
+              "DateEnd": "2020-10-05T00:00:00",
+              "DateString": "9/21/2022-10/5/2020"
+            }
+          ],
+          "Nationalities": [
+            {
+              "LookupType": 5,
+              "LookupID": 21,
+              "Display": "U.S. Person",
+              "Other": null
+            }
+          ],
+          "RegulatoryProvisions": [
+            {
+              "RegulatoryProvisionID": 235,
+              "Display": "544.201",
+              "Other": null
+            }
+          ],
+          "RegulatoryRegimes": [
+            {
+              "LookupType": 6,
+              "LookupID": 89,
+              "Display": "WMDPSR",
+              "Other": null
+            }
+          ],
+          "StatutoryPrograms": [
+            {
+              "LookupType": 7,
+              "LookupID": 14,
+              "Display": "IEEPA",
+              "Other": null
+            }
+          ],
+          "SanctionedCountries": [],
+          "SanctionedPersons": [
+            {
+              "LookupType": 9,
+              "LookupID": 20,
+              "Display": "SDN",
+              "Other": null
+            }
+          ],
+          "Destinations": [],
+          "Transhipments": [],
+          "RespondentNationalities": [],
+          "AffiliateNationalities": [],
+          "DegreesOfKnowledge": [
+            {
+              "LookupType": 2,
+              "LookupID": 16,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "AggravatingFactors": [
+            {
+              "LookupType": 1,
+              "LookupID": 82,
+              "Display": "Harm to U.S. National Security or Foreign Policy",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 92,
+              "Display": "Reason to Know",
+              "Other": null
+            }
+          ],
+          "MitigatingFactors": [
+            {
+              "LookupType": 4,
+              "LookupID": 87,
+              "Display": "Remedial Response",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 88,
+              "Display": "Cooperation with Investigation",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 89,
+              "Display": "Prior Enforcement History",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 98,
+              "Display": "Recent SDN Changes",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 106,
+              "Display": "Totality of the Circumstances",
+              "Other": null
+            }
+          ],
+          "Industries": [
+            {
+              "LookupType": 3,
+              "LookupID": 35,
+              "Display": "Financial Services",
+              "Other": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "OFACSanctionID": 5761,
+      "OFACNumber": "20220715AME1",
+      "EnforcementDate": "2022-07-15T00:00:00",
+      "CompanyName": "American Express National Bank",
+      "Source": "https://home.treasury.gov/system/files/126/20220715_amex.pdf",
+      "AlternativeSource": "20220715_amex.pdf",
+      "LocalSource": "/sanctions/ofac/20220715_amex.pdf",
+      "KeyFacts": "Over the course of two months, American Express National Bank processed transactions for an account whose supplemental card holder was designated in connection with illegal drug distribution and money laundering. A combination of human error and sanctions compliance program deficiencies enabled the account to engage in $155,189.42 worth of transactions.",
+      "TransactionValue": 155189.4200,
+      "SanctionedConduct": null,
+      "GoodsAndServices": "Processed transactions for an account whose supplemental card holder was designated in connection with illegal drug distribution and money laundering",
+      "NumberOfViolations": 214,
+      "MultipleProgramsViolations": 0,
+      "MultipleProgramsViolationsDisplay": "No",
+      "SettlementAmount": 430500.0000,
+      "StatutoryMaximum": 331288050.0000,
+      "BasePenalty": 574000.0000,
+      "RemediationOrdered": null,
+      "RemediationOrderedDisplay": "Unknown",
+      "VoluntaryDisclosure": 0,
+      "VoluntaryDisclosureDisplay": "No",
+      "EgregiousCase": 0,
+      "EgregiousCaseDisplay": "No",
+      "WillfulOrReckless": -1,
+      "WillfulOrRecklessDisplay": "Unknown",
+      "IncludeInMatrix": true,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-07-18T08:09:42",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-07-19T06:45:47",
+      "Nationalities": [
+        {
+          "LookupType": 5,
+          "LookupID": 26,
+          "Display": "U.S. Subsidiary of a U.S. Person",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 2633,
+          "Display": "598.202",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 78,
+          "Display": "FNKSR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 15,
+          "Display": "FNKDA",
+          "Other": null
+        }
+      ],
+      "SanctionedCountries": [
+        {
+          "CountryRole": 1,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "SanctionedPersons": [
+        {
+          "LookupType": 9,
+          "LookupID": 23,
+          "Display": "SDNTK",
+          "Other": null
+        }
+      ],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 244,
+          "Display": "N/A",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 244,
+            "CountryCode": "N1",
+            "CIACode": "N1  ",
+            "ISO3Code": null,
+            "CountryName": "N/A",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": false,
+            "isBISTranshipment": true,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 0,
+            "SDNOtherCount": 0,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 0,
+            "SanctionRiskTier": 0,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 903
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "AffiliateNationalities": [],
+      "DegreesOfKnowledge": [
+        {
+          "LookupType": 2,
+          "LookupID": 18,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 83,
+          "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 84,
+          "Display": "Commercial Sophistication",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 112,
+          "Display": "Remedial Measures",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 35,
+          "Display": "Financial Services",
+          "Other": null
+        }
+      ],
+      "ECCNs": [],
+      "ViolationDates": [
+        {
+          "OFACViolationDateID": -1,
+          "DateBegin": "2018-05-07T00:00:00",
+          "DateEnd": "2018-07-06T00:00:00",
+          "DateString": null
+        }
+      ],
+      "Subsanctions": [
+        {
+          "OFACSanctionDetailID": 5761,
+          "NumberOfViolations": 214,
+          "TransactionValue": null,
+          "BasePenalty": 574000.0000,
+          "VoluntaryDisclosure": 0,
+          "VoluntaryDisclosureDisplay": "No",
+          "EgregiousCase": 0,
+          "EgregiousCaseDisplay": "No",
+          "WillfulOrReckless": -1,
+          "WillfulOrRecklessDisplay": "Unknown",
+          "EnteredBy": null,
+          "EnteredDate": "0001-01-01T00:00:00",
+          "ModifiedBy": null,
+          "ModifiedDate": "0001-01-01T00:00:00",
+          "ViolationDates": [
+            {
+              "OFACViolationDateID": 2203,
+              "DateBegin": "2018-05-07T00:00:00",
+              "DateEnd": "2018-07-06T00:00:00",
+              "DateString": "5/7/2018-7/6/2018"
+            }
+          ],
+          "Nationalities": [
+            {
+              "LookupType": 5,
+              "LookupID": 26,
+              "Display": "U.S. Subsidiary of a U.S. Person",
+              "Other": null
+            }
+          ],
+          "RegulatoryProvisions": [
+            {
+              "RegulatoryProvisionID": 2633,
+              "Display": "598.202",
+              "Other": null
+            }
+          ],
+          "RegulatoryRegimes": [
+            {
+              "LookupType": 6,
+              "LookupID": 78,
+              "Display": "FNKSR",
+              "Other": null
+            }
+          ],
+          "StatutoryPrograms": [
+            {
+              "LookupType": 7,
+              "LookupID": 15,
+              "Display": "FNKDA",
+              "Other": null
+            }
+          ],
+          "SanctionedCountries": [],
+          "SanctionedPersons": [
+            {
+              "LookupType": 9,
+              "LookupID": 23,
+              "Display": "SDNTK",
+              "Other": null
+            }
+          ],
+          "Destinations": [],
+          "Transhipments": [],
+          "RespondentNationalities": [],
+          "AffiliateNationalities": [],
+          "DegreesOfKnowledge": [
+            {
+              "LookupType": 2,
+              "LookupID": 18,
+              "Display": "Unknown",
+              "Other": null
+            }
+          ],
+          "AggravatingFactors": [
+            {
+              "LookupType": 1,
+              "LookupID": 83,
+              "Display": "Economic or Other Benefit to the Sanctioned Individual, Entity, or Country",
+              "Other": null
+            },
+            {
+              "LookupType": 1,
+              "LookupID": 84,
+              "Display": "Commercial Sophistication",
+              "Other": null
+            }
+          ],
+          "MitigatingFactors": [
+            {
+              "LookupType": 4,
+              "LookupID": 88,
+              "Display": "Cooperation with Investigation",
+              "Other": null
+            },
+            {
+              "LookupType": 4,
+              "LookupID": 112,
+              "Display": "Remedial Measures",
+              "Other": null
+            }
+          ],
+          "Industries": [
+            {
+              "LookupType": 3,
+              "LookupID": 35,
+              "Display": "Financial Services",
+              "Other": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

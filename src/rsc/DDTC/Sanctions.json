@@ -1,0 +1,1915 @@
+{
+  "listings": {
+    "SearchLogID": -1,
+    "Results": [
+      {
+        "SanctioningAgency": 3,
+        "SanctionID": 173,
+        "SanctionNumber": "CA065",
+        "EnforcementDate": "2020-01-29T00:00:00",
+        "RespondentName": "Airbus SE",
+        "RespondentNationalities": "",
+        "RespondentCountryCodes": "",
+        "Destinations": "",
+        "DestinationCountryCodes": "",
+        "StatutoryRegimes": "",
+        "RegulatoryRegimes": "",
+        "Industries": "Aerospace, Shipping & Transportation; Defense",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "",
+        "AggravatingFactors": "Deficient Compliance Program; Pattern of Conduct; Recordkeeping Violations; Prior Knowledge",
+        "MitigatingFactors": "Cooperation with Investigation; Voluntary Disclosure; Harm to U.S. National Security; Remedial Measures; Enhanced Compliance Program",
+        "ItemTypes": "",
+        "TargetedPersons": "",
+        "NumberOfViolations": 75,
+        "VoluntaryDisclosure": 1,
+        "VoluntaryDisclosureDisplay": "Yes",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 10000000.0000,
+        "Source": "",
+        "AlternativeSource": "",
+        "LocalSource": "",
+        "Quadrant": "VYEU"
+      },
+      {
+        "SanctioningAgency": 3,
+        "SanctionID": 174,
+        "SanctionNumber": "CA066",
+        "EnforcementDate": "2019-11-19T00:00:00",
+        "RespondentName": "AeroVironment, Inc.",
+        "RespondentNationalities": "",
+        "RespondentCountryCodes": "",
+        "Destinations": "",
+        "DestinationCountryCodes": "",
+        "StatutoryRegimes": "",
+        "RegulatoryRegimes": "",
+        "Industries": "Aerospace, Shipping & Transportation; Defense",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "",
+        "AggravatingFactors": "Pattern of Conduct; Recordkeeping Violations; Involvement of Significant Military Equipment (SME)",
+        "MitigatingFactors": "Voluntary Disclosure; Enhanced Compliance Program; Tolling Agreement; Harm to U.S. National Security",
+        "ItemTypes": "",
+        "TargetedPersons": "",
+        "NumberOfViolations": 10,
+        "VoluntaryDisclosure": 2,
+        "VoluntaryDisclosureDisplay": "Yes and No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 1000000.0000,
+        "Source": "",
+        "AlternativeSource": "",
+        "LocalSource": "",
+        "Quadrant": "unkown"
+      },
+      {
+        "SanctioningAgency": 3,
+        "SanctionID": 175,
+        "SanctionNumber": "CA064",
+        "EnforcementDate": "2019-09-19T00:00:00",
+        "RespondentName": "L3Harris Technologies, Inc.",
+        "RespondentNationalities": "",
+        "RespondentCountryCodes": "",
+        "Destinations": "",
+        "DestinationCountryCodes": "",
+        "StatutoryRegimes": "",
+        "RegulatoryRegimes": "",
+        "Industries": "Aerospace, Shipping & Transportation; Defense; Technology; Telecommunications",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "",
+        "AggravatingFactors": "Directed Disclosure; Pattern of Conduct",
+        "MitigatingFactors": "Voluntary Disclosure; Enhanced Compliance Program",
+        "ItemTypes": "",
+        "TargetedPersons": "",
+        "NumberOfViolations": 131,
+        "VoluntaryDisclosure": 2,
+        "VoluntaryDisclosureDisplay": "Yes and No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 13000000.0000,
+        "Source": "",
+        "AlternativeSource": "",
+        "LocalSource": "",
+        "Quadrant": "unkown"
+      },
+      {
+        "SanctioningAgency": 3,
+        "SanctionID": 176,
+        "SanctionNumber": "CA063",
+        "EnforcementDate": "2019-02-26T00:00:00",
+        "RespondentName": "Darling Industries, Inc.",
+        "RespondentNationalities": "",
+        "RespondentCountryCodes": "",
+        "Destinations": "",
+        "DestinationCountryCodes": "",
+        "StatutoryRegimes": "",
+        "RegulatoryRegimes": "",
+        "Industries": "Aerospace, Shipping & Transportation; Defense; Industrial",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "",
+        "AggravatingFactors": "Deficient Compliance Program; Management",
+        "MitigatingFactors": "Voluntary Disclosure; Tolling Agreement; Enhanced Compliance Program",
+        "ItemTypes": "",
+        "TargetedPersons": "",
+        "NumberOfViolations": 6,
+        "VoluntaryDisclosure": 1,
+        "VoluntaryDisclosureDisplay": "Yes",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 400000.0000,
+        "Source": "",
+        "AlternativeSource": "",
+        "LocalSource": "",
+        "Quadrant": "VYEU"
+      },
+      {
+        "SanctioningAgency": 3,
+        "SanctionID": 177,
+        "SanctionNumber": "CA062",
+        "EnforcementDate": "2018-04-24T00:00:00",
+        "RespondentName": "FLIR Systems, Inc.",
+        "RespondentNationalities": "",
+        "RespondentCountryCodes": "",
+        "Destinations": "",
+        "DestinationCountryCodes": "",
+        "StatutoryRegimes": "",
+        "RegulatoryRegimes": "",
+        "Industries": "Technology; Defense",
+        "ChargingVehicles": "",
+        "RegulatoryProvisions": "",
+        "AggravatingFactors": "Deficient Compliance Program; Management; Pattern of Conduct; Remedial Measures",
+        "MitigatingFactors": "Voluntary Disclosure; Tolling Agreement; Enhanced Compliance Program",
+        "ItemTypes": "",
+        "TargetedPersons": "",
+        "NumberOfViolations": 347,
+        "VoluntaryDisclosure": 2,
+        "VoluntaryDisclosureDisplay": "Yes and No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": null,
+        "DenialOrderDisplay": "Unknown",
+        "SettlementAmount": 30000000.0000,
+        "Source": "",
+        "AlternativeSource": "",
+        "LocalSource": "",
+        "Quadrant": "unkown"
+      }
+    ],
+    "Stats": {
+      "VoluntaryYEgregiousN": 0,
+      "VoluntaryNEgregiousN": 0,
+      "VoluntaryYEgregiousY": 0,
+      "VoluntaryNEgregiousY": 0,
+      "AverageNumberOfViolations": 113.8,
+      "AveragePenalty": 10880000.0000,
+      "TopMitigating": "Voluntary Disclosure (5); Enhanced Compliance Program (5); Tolling Agreement (3)",
+      "TopAggravating": "Pattern of Conduct (4); Deficient Compliance Program (3); Recordkeeping Violations (2)"
+    }
+  },
+  "details": [
+    {
+      "DDTCSanctionID": 173,
+      "DDTCNumber": "CA065",
+      "EnforcementDate": "2020-01-29T00:00:00",
+      "CompanyOrIndividual": "Company",
+      "Name": [
+        "Airbus SE"
+      ],
+      "AKA": [],
+      "ChargingLetterSource": "",
+      "OrderSource": "",
+      "ConsentAgreementSource": "",
+      "KeyFacts": "The Department of State (&quot;Department&quot;) charges Airbus SE, including its operating divisions, subsidiaries, and business units (&quot;Respondent&quot; or &quot;Airbus&quot;) with violations of the Arms Export Control Act (&quot;AECA&quot;), 22 U.S.C. 2751 et seq. and the International Traffic in Arms Regulations (&quot;ITAR&quot;) (22 C.F.R. parts 120130) in connection with providing false statements on authorization requests; the failure to provide accurate and complete reporting on political contributions, commissions, or fees that it paid, or offered or agreed to pay, in connection with sales; the failure to maintain records involving IT AR-controlled transactions; and unauthorized reexports and retransfers of defense articles. A total of 75 violations are alleged at this time. ",
+      "NumberOfViolations": 75,
+      "InvolvesSME": 0,
+      "InvolvesSMEDisplay": "No",
+      "ViolationBreakdown": [
+        "Part 130 obligations, false statements and reporting (33) ",
+        " Failure to maintain Part 130 Records (36) ",
+        " Unauthorized Reexports of Defense Articles (3)",
+        " Unauthorized Retransfers of Defense Articles in Spain (2) "
+      ],
+      "VoluntaryDisclosure": 1,
+      "VoluntaryDisclosureDisplay": "Yes",
+      "SanctionedCountriesInvolved": 0,
+      "SanctionedCountriesInvolvedDisplay": "No",
+      "SOLTolled": 0,
+      "SOLTolledDisplay": "No",
+      "CATerm": 3.00,
+      "CAAppliesToSuccessors": 0,
+      "CAAppliesToSuccessorsDisplay": "No",
+      "CAAppliesToFutureAcquisitions": -1,
+      "CAAppliesToFutureAcquisitionsDisplay": "Unknown",
+      "CAAppliesToDivestments": 1,
+      "CAAppliesToDivestmentsDisplay": "Yes",
+      "DDTCNoticeRequired": 1,
+      "DDTCNoticeRequiredDisplay": "Yes",
+      "PurchaserNoticeRequired": 1,
+      "PurchaserNoticeRequiredDisplay": "Yes",
+      "DORequired": 1,
+      "DORequiredDisplay": "Yes",
+      "DOInternalOrExternal": "External",
+      "DOOptionToSwitch": 1,
+      "DOOptionToSwitchDisplay": "Yes",
+      "DOOptionTimeframe": "2 years",
+      "DOTerm": 2.00,
+      "DOTermDuration": "entire duration",
+      "SCOReportingTimeframe": "Semi-annual",
+      "ResourceReview": 1,
+      "ResourceReviewDisplay": "Yes",
+      "ResourceReviewTimeframe": "within 4 months",
+      "ComplianceProc": 1,
+      "ComplianceProcDisplay": "Yes",
+      "ComplianceProcTimeframe": "18 months",
+      "FunctionalProc": 0,
+      "FunctionalProcDisplay": "No",
+      "FunctionalProcTimeframe": "n/a",
+      "ClassificationReview": 0,
+      "ClassificationReviewDisplay": "No",
+      "ClassificationReviewTimeframe": "n/a",
+      "ExportCompliance": 0,
+      "ExportComplianceDisplay": "No",
+      "ExportComplianceTimeframe": "n/a",
+      "ViolationReporting": 0,
+      "ViolationReportingDisplay": "No",
+      "ViolationReportingTimeframe": "n/a",
+      "OtherRequirements": [
+        "Legal department support"
+      ],
+      "OtherRequirementsTimeframe": "within 30 days of the date of the Order",
+      "AuditsRequired": 1,
+      "AuditsRequiredDisplay": "Yes",
+      "AuditDetails": "Within ten (10) months after the date of the Order, Respondent shall submit a draft audit plan for the first audit to the Director, DTCC for review and approval. Within fifteen (15) months after the date of the Order, the audit shall be completed and a written report produced containing recommendations for improvements with respect to Consent Agreement measures, or compliance with the AECA and the ITAR. Subject to applicable law and regulations, Respondent shall submit the report to the Director, DTCC along with Respondent's plan on how it shall address those recommendations.\r\nSubsequently, Respondent shall select an outside consultant with expertise in AECA/IT AR matters, approved by the Director, DTCC to perform the second audit to confirm whether Respondent addressed the compliance recommendations from the initial audit report. The second audit shall be conducted under the supervision of the Designated Official. Within thirty (30) months after the date of the Order, Respondent shall submit a draft audit plan for the second audit to the Director, DTCC for review and comment. Within thirty-two (32) months after the date of the Order, the second audit shall be completed and a written report prepared confirming whether Respondent addressed the compliance recommendations from the initial audit report, and making additional recommendations where there were deficiencies. Subject to applicable law and regulations, Respondent shall submit the report and its plan on how it intends to address those recommendations to the Director, DTCC.",
+      "NumberOfAudits": 2,
+      "AuditDue": [
+        "first audit plan due within 10 months",
+        "first audit must be completed within 15 months",
+        "second audit must be performed by outside consultant",
+        "second audit plan due within 30 months",
+        "second audit must be completed within 32 months"
+      ],
+      "SettlementAmount": 10000000.0000,
+      "SuspendedAmount": 5000000.0000,
+      "PreCASuspendedTerms": "n/a",
+      "SuspensionConditions": "Suspended amount to be used for remedial compliance measures",
+      "PenaltyRelatedReports": 1,
+      "PenaltyRelatedReportsDisplay": "Yes",
+      "PenaltyRelatedReportsDetails": "within 12 months, then annually thereafter ",
+      "DebarredParties": [
+        "n/a"
+      ],
+      "DOSReview": 1,
+      "DOSReviewDisplay": "Yes",
+      "DOSReviewDetails": null,
+      "OSRStipulator": "Any time during the duration of the Consent Agreement with \"minimum advance notice\"",
+      "WaiversAllFuture": 1,
+      "WaiversAllFutureDisplay": "Yes",
+      "WaiversRightToContest": 1,
+      "WaiversRightToContestDisplay": "Yes",
+      "WaiversAdditionalPenalty": -1,
+      "WaiversAdditionalPenaltyDisplay": "Unknown",
+      "CertRequired": 1,
+      "CertRequiredDisplay": "Yes",
+      "CertDetails": [
+        "all aspects of the Consent Agreement have been met",
+        "export compliance program has been assessed",
+        "export compliance program is adequate to identify, prevent, detect, correct and report violations of AECA and ITAR"
+      ],
+      "Comments": null,
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2021-07-14T17:53:19",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2021-07-14T17:53:19",
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 103,
+          "Display": "Deficient Compliance Program",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 91,
+          "Display": "Pattern of Conduct",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 104,
+          "Display": "Recordkeeping Violations",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 105,
+          "Display": "Prior Knowledge",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 41,
+          "Display": "Aerospace, Shipping & Transportation",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 88,
+          "Display": "Cooperation with Investigation",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 110,
+          "Display": "Voluntary Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 111,
+          "Display": "Harm to U.S. National Security",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 112,
+          "Display": "Remedial Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 113,
+          "Display": "Enhanced Compliance Program",
+          "Other": null
+        }
+      ],
+      "RegistrationTypes": [
+        {
+          "LookupType": 16,
+          "LookupID": 1,
+          "Display": "Manufacturer",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 2,
+          "Display": "Broker",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 3,
+          "Display": "Exporter",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [],
+      "SCOResponsibilities": [
+        {
+          "LookupType": 17,
+          "LookupID": 1,
+          "Display": "Development of Policies and Procedures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 2,
+          "Display": "Implementation of Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 3,
+          "Display": "Oversight of Corporate ITAR Compliance",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 4,
+          "Display": "Oversight of Expenditures of Remedial Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 5,
+          "Display": "Enhancing Incorporation of ITAR Compliance at Executive Level",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 6,
+          "Display": "Reporting to DDTC",
+          "Other": null
+        }
+      ],
+      "USMLCategories": [
+        {
+          "LookupType": 18,
+          "LookupID": 1,
+          "Display": "IV",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 2,
+          "Display": "VIII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 3,
+          "Display": "XI",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 4,
+          "Display": "XII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 5,
+          "Display": "XIII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 6,
+          "Display": "XV",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 7,
+          "Display": "VIII(h)(11)",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 8,
+          "Display": "XI(a)(11)",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 9,
+          "Display": "XIII(b)(1)",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 12,
+          "Display": "Part 130 violations",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 13,
+          "Display": "Unauthorized reexports of defense articles",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 14,
+          "Display": "Unauthorized retransfers of defense articles",
+          "Other": null
+        }
+      ],
+      "RespondentNationalities": [],
+      "Countries126": [],
+      "ECCNs": []
+    },
+    {
+      "DDTCSanctionID": 174,
+      "DDTCNumber": "CA066",
+      "EnforcementDate": "2019-11-19T00:00:00",
+      "CompanyOrIndividual": "Company",
+      "Name": [
+        "AeroVironment, Inc."
+      ],
+      "AKA": [],
+      "ChargingLetterSource": "",
+      "OrderSource": "",
+      "ConsentAgreementSource": "",
+      "KeyFacts": "The Department of State (“Department”) proposes to charge AeroVironment, Inc., including its operating divisions, subsidiaries, and business units “(Respondent”) with violations of the Arms Export Control Act (AECA), 22 U.S.C. 2751 et seq., and the International Traffic in Arms Regulations (ITAR), 22 CFR parts 120-130, in connection with the unauthorized export of defense articles, to include technical data; failure to properly maintain records involving ITARcontrolled transactions; and violations of the provisos, terms, and conditions of export authorizations. A total of 10 violations are alleged at this time.",
+      "NumberOfViolations": 10,
+      "InvolvesSME": 1,
+      "InvolvesSMEDisplay": "Yes",
+      "ViolationBreakdown": [
+        "Unauthorized export of Defense Articles to Canada (6) ",
+        " Unauthorized export of technical data to Australia, France, Canada, and Thailand (1) ",
+        " Unauthorized export of Shrike unmanned aircraft systems (UAS) to the United Kingdom (1) ",
+        " Violation of terms and conditions of authorizations on multiple occasions (1) ",
+        " Failure to maintain records of temporary or permanent exports of technical data (1)"
+      ],
+      "VoluntaryDisclosure": 2,
+      "VoluntaryDisclosureDisplay": "Yes and No",
+      "SanctionedCountriesInvolved": 0,
+      "SanctionedCountriesInvolvedDisplay": "No",
+      "SOLTolled": 0,
+      "SOLTolledDisplay": "No",
+      "CATerm": 2.00,
+      "CAAppliesToSuccessors": 0,
+      "CAAppliesToSuccessorsDisplay": "No",
+      "CAAppliesToFutureAcquisitions": -1,
+      "CAAppliesToFutureAcquisitionsDisplay": "Unknown",
+      "CAAppliesToDivestments": 1,
+      "CAAppliesToDivestmentsDisplay": "Yes",
+      "DDTCNoticeRequired": 1,
+      "DDTCNoticeRequiredDisplay": "Yes",
+      "PurchaserNoticeRequired": 1,
+      "PurchaserNoticeRequiredDisplay": "Yes",
+      "DORequired": 1,
+      "DORequiredDisplay": "Yes",
+      "DOInternalOrExternal": "External",
+      "DOOptionToSwitch": 1,
+      "DOOptionToSwitchDisplay": "Yes",
+      "DOOptionTimeframe": "1 year",
+      "DOTerm": 1.00,
+      "DOTermDuration": "entire duration",
+      "SCOReportingTimeframe": "Semi-annual",
+      "ResourceReview": 1,
+      "ResourceReviewDisplay": "Yes",
+      "ResourceReviewTimeframe": "within 4 months",
+      "ComplianceProc": 1,
+      "ComplianceProcDisplay": "Yes",
+      "ComplianceProcTimeframe": "12 months",
+      "FunctionalProc": 0,
+      "FunctionalProcDisplay": "No",
+      "FunctionalProcTimeframe": "n/a",
+      "ClassificationReview": 1,
+      "ClassificationReviewDisplay": "Yes",
+      "ClassificationReviewTimeframe": "within 18 months",
+      "ExportCompliance": 0,
+      "ExportComplianceDisplay": "No",
+      "ExportComplianceTimeframe": "n/a",
+      "ViolationReporting": 0,
+      "ViolationReportingDisplay": "No",
+      "ViolationReportingTimeframe": "n/a",
+      "OtherRequirements": [
+        "Legal department support"
+      ],
+      "OtherRequirementsTimeframe": "within 30 days of the date of the Order",
+      "AuditsRequired": 1,
+      "AuditsRequiredDisplay": "Yes",
+      "AuditDetails": "Within six (6) months after the date of the Order, Respondent shall submit a draft audit plan for the audit to the Director, DTCC for review and approval. Within twelve (12) months after the date of the Order, the audit shall be completed and a written report produced containing recommendations for improvements with respect to Consent Agreement measures, or compliance with the AECA and the ITAR. Respondent shall submit the report to the Director, DTCC along with Respondent's plan on how it shall address those recommendations.",
+      "NumberOfAudits": 1,
+      "AuditDue": [
+        "Audit plan due within six months",
+        "audit must be completed and written report submitted within 12 months "
+      ],
+      "SettlementAmount": 1000000.0000,
+      "SuspendedAmount": 500000.0000,
+      "PreCASuspendedTerms": "n/a",
+      "SuspensionConditions": "Suspended amount to be used for remedial compliance measures",
+      "PenaltyRelatedReports": 1,
+      "PenaltyRelatedReportsDisplay": "Yes",
+      "PenaltyRelatedReportsDetails": "within 12 months, then annually thereafter ",
+      "DebarredParties": [
+        "n/a"
+      ],
+      "DOSReview": 1,
+      "DOSReviewDisplay": "Yes",
+      "DOSReviewDetails": null,
+      "OSRStipulator": "Any time during the duration of the Consent Agreement with \"minimum advance notice\"",
+      "WaiversAllFuture": 1,
+      "WaiversAllFutureDisplay": "Yes",
+      "WaiversRightToContest": 1,
+      "WaiversRightToContestDisplay": "Yes",
+      "WaiversAdditionalPenalty": -1,
+      "WaiversAdditionalPenaltyDisplay": "Unknown",
+      "CertRequired": 1,
+      "CertRequiredDisplay": "Yes",
+      "CertDetails": [
+        "all aspects of the Consent Agreement have been met",
+        "export compliance program has been assessed",
+        "export compliance program is adequate to identify, prevent, detect, correct and report violations of AECA and ITAR"
+      ],
+      "Comments": null,
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2021-07-14T17:53:21",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2021-07-14T17:53:21",
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 91,
+          "Display": "Pattern of Conduct",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 104,
+          "Display": "Recordkeeping Violations",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 106,
+          "Display": "Involvement of Significant Military Equipment (SME)",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 41,
+          "Display": "Aerospace, Shipping & Transportation",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 110,
+          "Display": "Voluntary Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 113,
+          "Display": "Enhanced Compliance Program",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 111,
+          "Display": "Harm to U.S. National Security",
+          "Other": null
+        }
+      ],
+      "RegistrationTypes": [
+        {
+          "LookupType": 16,
+          "LookupID": 1,
+          "Display": "Manufacturer",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 2,
+          "Display": "Broker",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 3,
+          "Display": "Exporter",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [],
+      "SCOResponsibilities": [
+        {
+          "LookupType": 17,
+          "LookupID": 1,
+          "Display": "Development of Policies and Procedures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 2,
+          "Display": "Implementation of Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 3,
+          "Display": "Oversight of Corporate ITAR Compliance",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 4,
+          "Display": "Oversight of Expenditures of Remedial Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 5,
+          "Display": "Enhancing Incorporation of ITAR Compliance at Executive Level",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 6,
+          "Display": "Reporting to DDTC",
+          "Other": null
+        }
+      ],
+      "USMLCategories": [
+        {
+          "LookupType": 18,
+          "LookupID": 2,
+          "Display": "VIII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 3,
+          "Display": "XI",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 4,
+          "Display": "XII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 10,
+          "Display": "VIII(a)(5)",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 15,
+          "Display": "Unauthorized export of defense articles",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 16,
+          "Display": "Unauthorized export of technical data",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 17,
+          "Display": "Violations of  authorizations",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 18,
+          "Display": "Failure to maintain records",
+          "Other": null
+        }
+      ],
+      "RespondentNationalities": [],
+      "Countries126": [],
+      "ECCNs": []
+    },
+    {
+      "DDTCSanctionID": 175,
+      "DDTCNumber": "CA064",
+      "EnforcementDate": "2019-09-19T00:00:00",
+      "CompanyOrIndividual": "Company",
+      "Name": [
+        "L3Harris Technologies, Inc."
+      ],
+      "AKA": [],
+      "ChargingLetterSource": "",
+      "OrderSource": "",
+      "ConsentAgreementSource": "",
+      "KeyFacts": "The Department of State (“Department”) proposes to charge L3Harris Technologies, Inc. for activities conducted by Harris Corporation (“Harris”) prior to its recent merger, including its operating divisions, subsidiaries, and business units (“Respondent” or “L3Harris”) with violations of the Arms Export Control Act (AECA) (22 U.S.C. 2751 et seq.) and the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130), in connection with unauthorized exports of defense articles; and violations of the terms and conditions of agreements and licenses.  A total of one hundred thirty-one (131) violations are alleged at this time.   \r\n ",
+      "NumberOfViolations": 131,
+      "InvolvesSME": 1,
+      "InvolvesSMEDisplay": "Yes",
+      "ViolationBreakdown": [
+        "Unauthoized Exports of Technical Data in the form of Software (44) ",
+        " Unauthorized Exports of Tactical Radios (46) ",
+        " Unauthorized Exports of defense articles (including military electronics and associated technical data, deemed SME) (17) ",
+        " Unauthorized Export of technical data (1) ",
+        " Failure to furnish information regarding a commission (1) ",
+        " Violations of the terms of an authorization (2) ",
+        " Failure to properly file information on active TAAs and MLAs (19) ",
+        " Failure to present exports to CBP for endorsement "
+      ],
+      "VoluntaryDisclosure": 2,
+      "VoluntaryDisclosureDisplay": "Yes and No",
+      "SanctionedCountriesInvolved": 0,
+      "SanctionedCountriesInvolvedDisplay": "No",
+      "SOLTolled": 0,
+      "SOLTolledDisplay": "No",
+      "CATerm": 3.00,
+      "CAAppliesToSuccessors": 0,
+      "CAAppliesToSuccessorsDisplay": "No",
+      "CAAppliesToFutureAcquisitions": -1,
+      "CAAppliesToFutureAcquisitionsDisplay": "Unknown",
+      "CAAppliesToDivestments": 1,
+      "CAAppliesToDivestmentsDisplay": "Yes",
+      "DDTCNoticeRequired": 1,
+      "DDTCNoticeRequiredDisplay": "Yes",
+      "PurchaserNoticeRequired": 1,
+      "PurchaserNoticeRequiredDisplay": "Yes",
+      "DORequired": 1,
+      "DORequiredDisplay": "Yes",
+      "DOInternalOrExternal": "External",
+      "DOOptionToSwitch": -1,
+      "DOOptionToSwitchDisplay": "Unknown",
+      "DOOptionTimeframe": "2 years",
+      "DOTerm": 3.00,
+      "DOTermDuration": "entire duration",
+      "SCOReportingTimeframe": "Semi-annual",
+      "ResourceReview": 1,
+      "ResourceReviewDisplay": "Yes",
+      "ResourceReviewTimeframe": "within 4 months",
+      "ComplianceProc": 1,
+      "ComplianceProcDisplay": "Yes",
+      "ComplianceProcTimeframe": "12 months",
+      "FunctionalProc": 0,
+      "FunctionalProcDisplay": "No",
+      "FunctionalProcTimeframe": "n/a",
+      "ClassificationReview": 1,
+      "ClassificationReviewDisplay": "Yes",
+      "ClassificationReviewTimeframe": "within 32 months",
+      "ExportCompliance": 0,
+      "ExportComplianceDisplay": "No",
+      "ExportComplianceTimeframe": "n/a",
+      "ViolationReporting": 1,
+      "ViolationReportingDisplay": "Yes",
+      "ViolationReportingTimeframe": "no timeframe specified",
+      "OtherRequirements": [
+        "Legal department support"
+      ],
+      "OtherRequirementsTimeframe": "within 30 days of the date of the Order",
+      "AuditsRequired": 1,
+      "AuditsRequiredDisplay": "Yes",
+      "AuditDetails": "Within six (6) months after the date of the Order, Respondent shall submit a draft audit plan for the first audit to the Director, DTCC for review and approval. Within twelve (12) months after the date of the Order, the audit shall be completed and a written report produced containing recommendations for improvements with respect to Consent Agreement measures, or compliance with the AECA and the ITAR. Subject to applicable law and regulations, Respondent shall submit the report to the Director, DTCC along with Respondent's plan on how it shall address those recommendations.\r\nSubsequently, Respondent shall select an outside consultant with expertise in AECA/IT AR matters, approved by the Director, DTCC to perform the second audit to confirm whether Respondent addressed the compliance recommendations from the initial audit report. The second audit shall be conducted under the supervision of the Designated Official. Within twenty-six (26) months after the date of the Order, Respondent shall submit a draft audit plan for the second audit to the Director, DTCC for review and comment. Within thirty-two (32) months after the date of the Order, the second audit shall be completed and a written report prepared confirming whether Respondent addressed the compliance recommendations from the initial audit report, and making additional recommendations where there were deficiencies. Subject to applicable law and regulations, Respondent shall submit the report and its plan on how it intends to address those recommendations to the Director, DTCC.",
+      "NumberOfAudits": 2,
+      "AuditDue": [
+        "first audit plan due within 6 months",
+        "first audit must be completed within 12 months",
+        "second audit must be performed by outside consultant",
+        "second audit plan due within 26 months",
+        "second audit must be completed within 32 months"
+      ],
+      "SettlementAmount": 13000000.0000,
+      "SuspendedAmount": 6500000.0000,
+      "PreCASuspendedTerms": "n/a",
+      "SuspensionConditions": "Suspended amount to be used for remedial compliance measures",
+      "PenaltyRelatedReports": 1,
+      "PenaltyRelatedReportsDisplay": "Yes",
+      "PenaltyRelatedReportsDetails": "within 12 months, then annually thereafter ",
+      "DebarredParties": [
+        "n/a"
+      ],
+      "DOSReview": 1,
+      "DOSReviewDisplay": "Yes",
+      "DOSReviewDetails": null,
+      "OSRStipulator": "Any time during the duration of the Consent Agreement with \"minimum advance notice\"",
+      "WaiversAllFuture": 1,
+      "WaiversAllFutureDisplay": "Yes",
+      "WaiversRightToContest": 1,
+      "WaiversRightToContestDisplay": "Yes",
+      "WaiversAdditionalPenalty": -1,
+      "WaiversAdditionalPenaltyDisplay": "Unknown",
+      "CertRequired": 1,
+      "CertRequiredDisplay": "Yes",
+      "CertDetails": [
+        "all aspects of the Consent Agreement have been met",
+        "export compliance program has been assessed",
+        "export compliance program is adequate to identify, prevent, detect, correct and report violations of AECA and ITAR"
+      ],
+      "Comments": null,
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2021-07-14T17:53:21",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2021-07-14T17:53:21",
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 107,
+          "Display": "Directed Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 91,
+          "Display": "Pattern of Conduct",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 41,
+          "Display": "Aerospace, Shipping & Transportation",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 44,
+          "Display": "Technology",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 40,
+          "Display": "Telecommunications",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 110,
+          "Display": "Voluntary Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 113,
+          "Display": "Enhanced Compliance Program",
+          "Other": null
+        }
+      ],
+      "RegistrationTypes": [
+        {
+          "LookupType": 16,
+          "LookupID": 1,
+          "Display": "Manufacturer",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 3,
+          "Display": "Exporter",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [],
+      "SCOResponsibilities": [
+        {
+          "LookupType": 17,
+          "LookupID": 1,
+          "Display": "Development of Policies and Procedures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 2,
+          "Display": "Implementation of Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 3,
+          "Display": "Oversight of Corporate ITAR Compliance",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 4,
+          "Display": "Oversight of Expenditures of Remedial Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 5,
+          "Display": "Enhancing Incorporation of ITAR Compliance at Executive Level",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 6,
+          "Display": "Reporting to DDTC",
+          "Other": null
+        }
+      ],
+      "USMLCategories": [
+        {
+          "LookupType": 18,
+          "LookupID": 1,
+          "Display": "IV",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 3,
+          "Display": "XI",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 4,
+          "Display": "XII",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 16,
+          "Display": "Unauthorized export of technical data",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 19,
+          "Display": "Unauthorized exports of defense articles",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 20,
+          "Display": "Unauthorized exports of SME",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 12,
+          "Display": "Part 130 violations",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 21,
+          "Display": "Violations of authorizations",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 22,
+          "Display": "Failure to properly file information on active TAAs",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 23,
+          "Display": "Failure to properly file information on active MLAs",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 24,
+          "Display": "Failure to present exports to CBP for endorsement",
+          "Other": null
+        }
+      ],
+      "RespondentNationalities": [],
+      "Countries126": [],
+      "ECCNs": []
+    },
+    {
+      "DDTCSanctionID": 176,
+      "DDTCNumber": "CA063",
+      "EnforcementDate": "2019-02-26T00:00:00",
+      "CompanyOrIndividual": "Company",
+      "Name": [
+        "Darling Industries, Inc."
+      ],
+      "AKA": [],
+      "ChargingLetterSource": "",
+      "OrderSource": "",
+      "ConsentAgreementSource": "",
+      "KeyFacts": "The Department of State (“Department”) proposes to charge Darling Industries, Inc., including its operating divisions, subsidiaries, and business units “(Respondent”) with violations of the Arms Export Control Act (AECA), 22 U.S.C. 2751 et seq., and the International Traffic in Arms Regulations (ITAR), 22 CFR parts 120-130, in connection with unauthorized exports of defense articles; the unauthorized furnishing of defense services; and failure to appoint qualified Empowered Official. A total of six (6) violations are alleged at this time. ",
+      "NumberOfViolations": 6,
+      "InvolvesSME": 0,
+      "InvolvesSMEDisplay": "No",
+      "ViolationBreakdown": [
+        "Lack of appropriate empowered official (1) ",
+        " Unauthorized Export of Defense Articles and Furnishing of Defense Services (3) ",
+        " Unauthorized export of defense article (2)"
+      ],
+      "VoluntaryDisclosure": 1,
+      "VoluntaryDisclosureDisplay": "Yes",
+      "SanctionedCountriesInvolved": 0,
+      "SanctionedCountriesInvolvedDisplay": "No",
+      "SOLTolled": 0,
+      "SOLTolledDisplay": "No",
+      "CATerm": 1.50,
+      "CAAppliesToSuccessors": 1,
+      "CAAppliesToSuccessorsDisplay": "Yes",
+      "CAAppliesToFutureAcquisitions": -1,
+      "CAAppliesToFutureAcquisitionsDisplay": "Unknown",
+      "CAAppliesToDivestments": 1,
+      "CAAppliesToDivestmentsDisplay": "Yes",
+      "DDTCNoticeRequired": 1,
+      "DDTCNoticeRequiredDisplay": "Yes",
+      "PurchaserNoticeRequired": 1,
+      "PurchaserNoticeRequiredDisplay": "Yes",
+      "DORequired": 1,
+      "DORequiredDisplay": "Yes",
+      "DOInternalOrExternal": "Internal",
+      "DOOptionToSwitch": -1,
+      "DOOptionToSwitchDisplay": "Unknown",
+      "DOOptionTimeframe": "n/a",
+      "DOTerm": 1.50,
+      "DOTermDuration": "entire duration",
+      "SCOReportingTimeframe": "Semi-annual",
+      "ResourceReview": 0,
+      "ResourceReviewDisplay": "No",
+      "ResourceReviewTimeframe": "n/a",
+      "ComplianceProc": 1,
+      "ComplianceProcDisplay": "Yes",
+      "ComplianceProcTimeframe": "no timeframe specified",
+      "FunctionalProc": 0,
+      "FunctionalProcDisplay": "No",
+      "FunctionalProcTimeframe": "n/a",
+      "ClassificationReview": 1,
+      "ClassificationReviewDisplay": "Yes",
+      "ClassificationReviewTimeframe": "within 12 months",
+      "ExportCompliance": 0,
+      "ExportComplianceDisplay": "No",
+      "ExportComplianceTimeframe": "n/a",
+      "ViolationReporting": 0,
+      "ViolationReportingDisplay": "No",
+      "ViolationReportingTimeframe": "n/a",
+      "OtherRequirements": [
+        "n/a"
+      ],
+      "OtherRequirementsTimeframe": "n/a",
+      "AuditsRequired": 1,
+      "AuditsRequiredDisplay": "Yes",
+      "AuditDetails": "Within two (2) months after the execution of this Consent Agreement, Respondent must submit a draft plan for the audit to the Director, DTCC, for review and approval. Within four (4) months after DTCC approves the plan, the audit shall be completed and a written report submitted to the Director, DTCC.\r\nThe written report must provide the findings of the audit, recommendations where there were deficiencies, and plans to remediate the deficiencies. Respondent's written report shall also include a matrix of the findings, proposed actions, (including implementation plans and testing plans), and expected date of completion. Within six (6) months of issuing the report, no later than twelve (12) months, Respondent will submit a written report to the Director, DTCC confirming whether Respondent addressed the findings described in the written report and status of proposed actions. Respondent shall submit the report to the Director, DTCC along with Respondent's plan on how it will address any outstanding proposed actions.",
+      "NumberOfAudits": 1,
+      "AuditDue": [
+        "plan due within 2 months, audit due between 6 and 12 months of order"
+      ],
+      "SettlementAmount": 400000.0000,
+      "SuspendedAmount": 200000.0000,
+      "PreCASuspendedTerms": "Suspended amount applicable to pre or post consent agreement spending",
+      "SuspensionConditions": "Suspended amount to be used for remedial compliance measures",
+      "PenaltyRelatedReports": 1,
+      "PenaltyRelatedReportsDisplay": "Yes",
+      "PenaltyRelatedReportsDetails": "within 6 months of the order for pre-consent agreement spend | within 12 months and annually thereafter with respect to post-consent agreement spend",
+      "DebarredParties": [
+        "n/a"
+      ],
+      "DOSReview": 1,
+      "DOSReviewDisplay": "Yes",
+      "DOSReviewDetails": null,
+      "OSRStipulator": "Any time during the duration of the Consent Agreement with \"minimum advance notice\"",
+      "WaiversAllFuture": 1,
+      "WaiversAllFutureDisplay": "Yes",
+      "WaiversRightToContest": 1,
+      "WaiversRightToContestDisplay": "Yes",
+      "WaiversAdditionalPenalty": -1,
+      "WaiversAdditionalPenaltyDisplay": "Unknown",
+      "CertRequired": 1,
+      "CertRequiredDisplay": "Yes",
+      "CertDetails": [
+        "all aspects of the Consent Agreement have been met",
+        "export compliance program has been assessed via outside audit",
+        "export compliance program is adequate to identify, prevent, detect, correct and report violations of AECA and ITAR"
+      ],
+      "Comments": null,
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2021-07-14T17:53:22",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2021-07-14T17:53:22",
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 103,
+          "Display": "Deficient Compliance Program",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 108,
+          "Display": "Management",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 41,
+          "Display": "Aerospace, Shipping & Transportation",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 38,
+          "Display": "Industrial",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 110,
+          "Display": "Voluntary Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 113,
+          "Display": "Enhanced Compliance Program",
+          "Other": null
+        }
+      ],
+      "RegistrationTypes": [
+        {
+          "LookupType": 16,
+          "LookupID": 1,
+          "Display": "Manufacturer",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 3,
+          "Display": "Exporter",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [],
+      "SCOResponsibilities": [
+        {
+          "LookupType": 17,
+          "LookupID": 6,
+          "Display": "Reporting to DDTC",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 2,
+          "Display": "Implementation of Compliance Measures",
+          "Other": null
+        }
+      ],
+      "USMLCategories": [
+        {
+          "LookupType": 18,
+          "LookupID": 1,
+          "Display": "IV",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 2,
+          "Display": "VIII",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 25,
+          "Display": "Failure to appoint a qualified empowered official",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 16,
+          "Display": "Unauthorized export of technical data",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 15,
+          "Display": "Unauthorized export of defense articles",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 26,
+          "Display": "Unauthorized export of defense services",
+          "Other": null
+        }
+      ],
+      "RespondentNationalities": [],
+      "Countries126": [],
+      "ECCNs": []
+    },
+    {
+      "DDTCSanctionID": 177,
+      "DDTCNumber": "CA062",
+      "EnforcementDate": "2018-04-24T00:00:00",
+      "CompanyOrIndividual": "Company",
+      "Name": [
+        "FLIR Systems, Inc."
+      ],
+      "AKA": [],
+      "ChargingLetterSource": "",
+      "OrderSource": "",
+      "ConsentAgreementSource": "",
+      "KeyFacts": "The Department of State (&quot;Department&quot;) charges FLIR Systems, Inc. (&quot;Respondent&quot; or &quot;FLIR&quot;) with violations of the Arms Export Control Act (AECA), 22 U.S.C. 2751 et seq., and the International Traffic in Arms Regulations (ITAR), 22 CFR Parts 120-130, in connection with the unauthorized export of defense articles; the unauthorized provision of defense services to various countries, including proscribed destinations; violations of the provisos, terms, and conditions of licenses; and failure to provide accurate and complete reporting on political contributions, commissions, and fees in connection with commercial sales of defense articles or defense services. A total of 347 violations are alleged at this time.",
+      "NumberOfViolations": 347,
+      "InvolvesSME": 1,
+      "InvolvesSMEDisplay": "Yes",
+      "ViolationBreakdown": [
+        "DNTCN Violations (219) ",
+        " Export Authorization Violations (107) ",
+        " Part 130 Violations (21)"
+      ],
+      "VoluntaryDisclosure": 2,
+      "VoluntaryDisclosureDisplay": "Yes and No",
+      "SanctionedCountriesInvolved": 1,
+      "SanctionedCountriesInvolvedDisplay": "Yes",
+      "SOLTolled": 1,
+      "SOLTolledDisplay": "Yes",
+      "CATerm": 4.00,
+      "CAAppliesToSuccessors": 1,
+      "CAAppliesToSuccessorsDisplay": "Yes",
+      "CAAppliesToFutureAcquisitions": -1,
+      "CAAppliesToFutureAcquisitionsDisplay": "Unknown",
+      "CAAppliesToDivestments": 1,
+      "CAAppliesToDivestmentsDisplay": "Yes",
+      "DDTCNoticeRequired": 1,
+      "DDTCNoticeRequiredDisplay": "Yes",
+      "PurchaserNoticeRequired": 1,
+      "PurchaserNoticeRequiredDisplay": "Yes",
+      "DORequired": 1,
+      "DORequiredDisplay": "Yes",
+      "DOInternalOrExternal": "External",
+      "DOOptionToSwitch": 1,
+      "DOOptionToSwitchDisplay": "Yes",
+      "DOOptionTimeframe": "3 years",
+      "DOTerm": 4.00,
+      "DOTermDuration": "entire duration",
+      "SCOReportingTimeframe": "Semi-annual",
+      "ResourceReview": 1,
+      "ResourceReviewDisplay": "Yes",
+      "ResourceReviewTimeframe": "within 4 months",
+      "ComplianceProc": 1,
+      "ComplianceProcDisplay": "Yes",
+      "ComplianceProcTimeframe": "within 12 months",
+      "FunctionalProc": 1,
+      "FunctionalProcDisplay": "Yes",
+      "FunctionalProcTimeframe": "within 4 months",
+      "ClassificationReview": 0,
+      "ClassificationReviewDisplay": "No",
+      "ClassificationReviewTimeframe": "n/a",
+      "ExportCompliance": 1,
+      "ExportComplianceDisplay": "Yes",
+      "ExportComplianceTimeframe": "no timeframe specified",
+      "ViolationReporting": 0,
+      "ViolationReportingDisplay": "No",
+      "ViolationReportingTimeframe": "n/a",
+      "OtherRequirements": [
+        "n/a"
+      ],
+      "OtherRequirementsTimeframe": "n/a",
+      "AuditsRequired": 1,
+      "AuditsRequiredDisplay": "Yes",
+      "AuditDetails": "Within six (6) months after the date of the Order, a draft audit plan for the first audit shall b submitted to the Director, DTCC for review and approval. Within twelve (12) months after the date of the Order, the first audit shall be completed and a written report produced containing recommendations for improvements with respect to Consent Agreement measures, or compliance with the AECA and the ITAR more generally. The report shall be submitted by Respondent to the Director, DTCC along with Respondent's plan on how it shall address those recommendations.\r\nSubsequently, Respondent shall select an outside consultant with expertise in AECA/IT AR matters, approved by the Director, DTCC to perform the second audit to confirm whether Respondent addressed the compliance recommendations from the initial audit report. The second audit shall be conducted under the supervision of the Designated Official. Within thirty (30) months after the date of the Order, a draft audit plan for the second audit shall be completed, and a written report produced confirming whether Respondent addressed the compliance recommendations from there were defiencies. The report shall be submitted by Respondent to the Director, DTCC along with Respondent's plan on how it shall address those recommendations.",
+      "NumberOfAudits": 2,
+      "AuditDue": [
+        "Audit 1: plan due within 6 months of the order, report due within 12 months of the Order",
+        "Audit 2: plan due within 30 months after the date of the Order",
+        "report due within 36 months of the Order"
+      ],
+      "SettlementAmount": 30000000.0000,
+      "SuspendedAmount": 15000000.0000,
+      "PreCASuspendedTerms": "up to $5,000,000",
+      "SuspensionConditions": "Suspended amount to be used for remedial compliance measures",
+      "PenaltyRelatedReports": 1,
+      "PenaltyRelatedReportsDisplay": "Yes",
+      "PenaltyRelatedReportsDetails": "within 6 months of the order for pre-consent agreement spend | within 12 months and annually thereafter with respect to post-consent agreement spend",
+      "DebarredParties": [
+        "n/a"
+      ],
+      "DOSReview": 1,
+      "DOSReviewDisplay": "Yes",
+      "DOSReviewDetails": null,
+      "OSRStipulator": "Any time during the duration of the Consent Agreement with \"minimum advance notice\"",
+      "WaiversAllFuture": 1,
+      "WaiversAllFutureDisplay": "Yes",
+      "WaiversRightToContest": 1,
+      "WaiversRightToContestDisplay": "Yes",
+      "WaiversAdditionalPenalty": -1,
+      "WaiversAdditionalPenaltyDisplay": "Unknown",
+      "CertRequired": 1,
+      "CertRequiredDisplay": "Yes",
+      "CertDetails": [
+        "all aspects of the Consent Agreement have been met",
+        "export compliance program is adequate to identify, prevent, detect, correct and report violations of AECA and ITAR"
+      ],
+      "Comments": null,
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2021-07-14T17:53:23",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2021-07-14T17:53:23",
+      "AggravatingFactors": [
+        {
+          "LookupType": 1,
+          "LookupID": 103,
+          "Display": "Deficient Compliance Program",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 108,
+          "Display": "Management",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 91,
+          "Display": "Pattern of Conduct",
+          "Other": null
+        },
+        {
+          "LookupType": 1,
+          "LookupID": 109,
+          "Display": "Remedial Measures",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 44,
+          "Display": "Technology",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "MitigatingFactors": [
+        {
+          "LookupType": 4,
+          "LookupID": 110,
+          "Display": "Voluntary Disclosure",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 91,
+          "Display": "Tolling Agreement",
+          "Other": null
+        },
+        {
+          "LookupType": 4,
+          "LookupID": 113,
+          "Display": "Enhanced Compliance Program",
+          "Other": null
+        }
+      ],
+      "RegistrationTypes": [
+        {
+          "LookupType": 16,
+          "LookupID": 2,
+          "Display": "Broker",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 1,
+          "Display": "Manufacturer",
+          "Other": null
+        },
+        {
+          "LookupType": 16,
+          "LookupID": 3,
+          "Display": "Exporter",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [],
+      "SCOResponsibilities": [
+        {
+          "LookupType": 17,
+          "LookupID": 1,
+          "Display": "Development of Policies and Procedures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 2,
+          "Display": "Implementation of Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 3,
+          "Display": "Oversight of Corporate ITAR Compliance",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 4,
+          "Display": "Oversight of Expenditures of Remedial Compliance Measures",
+          "Other": null
+        },
+        {
+          "LookupType": 17,
+          "LookupID": 6,
+          "Display": "Reporting to DDTC",
+          "Other": null
+        }
+      ],
+      "USMLCategories": [
+        {
+          "LookupType": 18,
+          "LookupID": 11,
+          "Display": "VII",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 3,
+          "Display": "XI",
+          "Other": null
+        },
+        {
+          "LookupType": 18,
+          "LookupID": 4,
+          "Display": "XII",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 27,
+          "Display": "Unauthorized exports to Dual National/Third Country National Employees",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 21,
+          "Display": "Violations of authorizations",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 28,
+          "Display": "Misrepresentation and/or omission of material fact",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 12,
+          "Display": "Part 130 violations",
+          "Other": null
+        }
+      ],
+      "RespondentNationalities": [],
+      "Countries126": [
+        {
+          "CountryRole": 6,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 6,
+          "CountryID": 102,
+          "Display": "Iraq",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 102,
+            "CountryCode": "IQ",
+            "CIACode": "IZ  ",
+            "ISO3Code": "IRQ",
+            "CountryName": "Iraq",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 11,
+            "SDNEntityCount": 37,
+            "SDNOtherCount": 104,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 4,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 6,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 12,
+            "SanctionRiskScore": 2746,
+            "SanctionRiskTier": 5080,
+            "ExportRiskScore": 2334,
+            "ExportRiskTier": 7,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 6,
+          "CountryID": 122,
+          "Display": "Lebanon",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 122,
+            "CountryCode": "LB",
+            "CIACode": "LE  ",
+            "ISO3Code": "LBN",
+            "CountryName": "Lebanon",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 6,
+            "SDNEntityCount": 138,
+            "SDNOtherCount": 92,
+            "ELCount": 21,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 1,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 4,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 11,
+            "SanctionRiskScore": 3500,
+            "SanctionRiskTier": 5832,
+            "ExportRiskScore": 2332,
+            "ExportRiskTier": 7,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 6,
+          "CountryID": 49,
+          "Display": "Cuba",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 49,
+            "CountryCode": "CU",
+            "CIACode": "CU  ",
+            "ISO3Code": "CUB",
+            "CountryName": "Cuba",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 0,
+            "SDNEntityCount": 19,
+            "SDNOtherCount": 16,
+            "ELCount": 1,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 4,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 11550,
+            "SanctionRiskTier": 22758,
+            "ExportRiskScore": 11208,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 6,
+          "CountryID": 233,
+          "Display": "Vietnam",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 233,
+            "CountryCode": "VN",
+            "CIACode": "VM  ",
+            "ISO3Code": "VNM",
+            "CountryName": "Vietnam",
+            "AlternateName": "Viet Nam",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": false,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": false,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 0,
+            "SDNEntityCount": 5,
+            "SDNOtherCount": 6,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 11,
+            "SanctionRiskScore": 110,
+            "SanctionRiskTier": 2334,
+            "ExportRiskScore": 2224,
+            "ExportRiskTier": 7,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "ECCNs": []
+    }
+  ]
+}

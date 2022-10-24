@@ -1,0 +1,53 @@
+[
+    {
+        "ID": 8,
+        "Value": "Broker",
+        "isActive": true,
+        "DisplayOrder": 0,
+        "UsedInOFACSanctions": false,
+        "UsedInOFACFAQs": false,
+        "UsedInOFACGuidance": false,
+        "UsedInSecondarySanctions": false,
+        "UsedInBISSanctions": false,
+        "UsedInBISFAQs": false,
+        "UsedInBISGuidance": false,
+        "UsedInDDTCSanctions": true,
+        "UsedInDDTCFAQs": false,
+        "UsedInDDTCGuidance": false,
+        "LookupTable": 16
+    },
+    {
+        "ID": 9,
+        "Value": "Exporter",
+        "isActive": true,
+        "DisplayOrder": 0,
+        "UsedInOFACSanctions": false,
+        "UsedInOFACFAQs": false,
+        "UsedInOFACGuidance": false,
+        "UsedInSecondarySanctions": false,
+        "UsedInBISSanctions": false,
+        "UsedInBISFAQs": false,
+        "UsedInBISGuidance": false,
+        "UsedInDDTCSanctions": true,
+        "UsedInDDTCFAQs": false,
+        "UsedInDDTCGuidance": false,
+        "LookupTable": 16
+    },
+    {
+        "ID": 7,
+        "Value": "Manufacturer",
+        "isActive": true,
+        "DisplayOrder": 0,
+        "UsedInOFACSanctions": false,
+        "UsedInOFACFAQs": false,
+        "UsedInOFACGuidance": false,
+        "UsedInSecondarySanctions": false,
+        "UsedInBISSanctions": false,
+        "UsedInBISFAQs": false,
+        "UsedInBISGuidance": false,
+        "UsedInDDTCSanctions": true,
+        "UsedInDDTCFAQs": false,
+        "UsedInDDTCGuidance": false,
+        "LookupTable": 16
+    }
+]

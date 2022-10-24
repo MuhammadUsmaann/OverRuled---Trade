@@ -1,0 +1,218 @@
+.overruled-table{
+    table, .k-grid{
+        margin:0;
+        padding:0;
+        @extend .fluid;
+        thead{
+            th{
+            @include border(1px, solid, $dark, bottom);
+        }
+        }
+        th, td{
+            @extend .p-10;
+            &:hover{
+                background: transparent;
+            }
+            a{
+                color:$dark !important;
+                &:hover{
+                    text-decoration: none !important;
+                }
+            }
+        }
+        tbody{
+            .k-grid .k-grid-content .k-alt{
+                background: transparent;
+            }
+        tr, .k-master-row{
+            @include border(1px, solid, $light-grey, bottom);
+            &:hover{
+                background: #{'rgba(var(--main-rgb), 0.2)'} !important;
+                border-bottom: 1px solid var(--main);
+                cursor:pointer;
+            }
+            td{
+                border-left: none;
+            }
+        }
+     }
+    }
+    .form-control{
+        border:none !important;
+    }
+    .k-grid-content{
+        .k-edit-cell{
+            padding:0 !important;
+            .k-i-arrow-60-down {
+                background: url(../img/overruled-down-caret.svg) no-repeat 3px 6px;
+            }
+        }
+        .k-datepicker{
+            .k-input{
+               @extend .relative, .top-4;
+             }
+            .k-picker-wrap .k-icon{
+              @extend .top-5;
+            }
+         }
+    }
+    .k-grid-header-wrap th{
+        border-bottom:1px solid #464343 !important;
+    }
+    .k-header, .k-grid-header, .k-grid-header-wrap{
+        border:none;
+        background:$white;
+    }
+    .k-grid td{
+        border-color:$white;
+        @include border(1px, solid, $light-grey, bottom);
+    }
+    .k-grid-header th.k-header{
+        vertical-align:middle;
+        @extend .bold;
+        border-top:0;
+        border-left:0;
+        border-right:0;
+        border-bottom:1px;
+    }
+    .k-grid-content{
+    }
+    .k-grid .k-grid-content .k-alt{
+        background: transparent;
+    }
+    .k-grid td.k-state-focused {
+        box-shadow: none;
+    }
+}
+.k-widget{
+    border:none;
+}
+.k-pager-wrap>.k-link{
+    border-radius: 2px;
+}
+.k-pager-numbers .k-state-selected{
+    border-radius: 2px;
+}
+.k-pager-wrap{
+    height: 60px !important;
+    background-color: $white;
+}
+
+// Calculator table
+///===================================================
+
+
+#projectionTabs table{
+    border-collapse: collapse !important;
+    tbody{
+        overflow:hidden;
+    }
+}
+
+td.matrix-graphlabel {
+    background-color: $light-grey;
+    color:$dark;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td.matrix-axislabel {
+    font-size: 1em;
+    border-collapse: collapse;
+}
+
+td.matrix-quadrantlabel {
+    font-size: 1em;
+}
+
+td.rotate {
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    width: 1.5em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+    td.rotate div {
+        -moz-transform: rotate(-90.0deg); /* FF3.5+ */
+        -o-transform: rotate(-90.0deg); /* Opera 10.5 */
+        -webkit-transform: rotate(-90.0deg); /* Saf3.1+, Chrome */
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083); /* IE6,IE7 */
+        -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)"; /* IE8 */
+        margin-left: -10em;
+        margin-right: -10em;
+        font-weight: inherit
+    }
+
+td.matrix-quadrant {
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc; /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 3px 3px 5px 6px #ccc; /* Firefox 3.5 - 3.6 */
+    background-color: #fff;
+    box-shadow: rgba(139,136,120,0.5) 1px 5px 12px 5px inset;
+    padding: 15px 15px 15px 15px;
+    vertical-align: middle;
+    border-spacing: 15px;
+    width: 3em;
+}
+
+span.matrix-penalty {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1em;
+}
+td.graphlabel {
+    background:$light-grey;
+    color:$dark;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td.axislabel {
+    font-size: 1.2em;
+    border-collapse: collapse;
+    padding: 0 1.5em 0 1.5em;
+}
+
+td.quadrantlabel {
+    font-size: 1.2em;
+}
+
+td.rotate {
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    width: 1.2em;
+    padding: 2em 1em 2em 1em;
+}
+
+td.rotate div {
+    -moz-transform: rotate(-90.0deg); /* FF3.5+ */
+    -o-transform: rotate(-90.0deg); /* Opera 10.5 */
+    -webkit-transform: rotate(-90.0deg); /* Saf3.1+, Chrome */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083); /* IE6,IE7 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)"; /* IE8 */
+    margin-left: -10em;
+    margin-right: -10em;
+    font-weight: inherit
+}
+
+td.quadrant {
+    padding: 15px 15px 15px 15px;
+    vertical-align: middle;
+    border-spacing: 15px;
+    width:250px;
+    height: 120px;
+}
+span.penalty {
+    font-weight: bold;
+    letter-spacing:-1px;
+    font-size:30px;
+}
+div.k-tabstrip li.k-item.k-state-active .k-link{
+    background-color: var(--main) !important;
+    color: $white !important;
+    font-weight: bold;
+}

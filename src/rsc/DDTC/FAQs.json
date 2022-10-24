@@ -1,0 +1,371 @@
+﻿{
+  "Listings": [
+    {
+      "FaqID": "2",
+      "Agency": "DDTC",
+      "Question": "If I experience IT-related issues while completing the online application form, whom should I contact for assistance?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "3",
+      "Agency": "DDTC",
+      "Question": "Is there a fee associated with submitting a CJ?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "4",
+      "Agency": "DDTC",
+      "Question": "How long is a CJ valid?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "5",
+      "Agency": "DDTC",
+      "Question": "What is the purpose of the cover letter?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "6",
+      "Agency": "DDTC",
+      "Question": "Do I need to register prior to submitting a CJ?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "7",
+      "Agency": "DDTC",
+      "Question": "As a follow-on to the above, if the item is not described in any category, may I then use USML Category XXI on the license?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "8",
+      "Agency": "DDTC",
+      "Question": "What type of information do I need to provide for a CJ request?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "9",
+      "Agency": "DDTC",
+      "Question": "If I disagree with a final CJ determination issued by State, what is my recourse?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "10",
+      "Agency": "DDTC",
+      "Question": "May I submit a CJ for an item at the same time that I submit a license request to the Department of State for the same item?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "11",
+      "Agency": "DDTC",
+      "Question": "If I have questions related to the CJ process, whom should I call?",
+      "resultWeight": 0
+    }
+  ],
+  "Details": [
+    {
+      "FaqID": "2",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "If I experience IT-related issues while completing the online application form, whom should I contact for assistance?",
+      "Answer": "<div class=\"ExternalClass845A0E0C13F945919DD0E733E9509BF4\">Please contact the DDTC Service Desk at (202) 663-2838.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:07",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "3",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "Is there a fee associated with submitting a CJ?",
+      "Answer": "<div class=\"ExternalClass96B28FF478524CCFBD8217CDB9862027\">No. There is no fee associated with submitting a CJ request.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:09",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "4",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "How long is a CJ valid?",
+      "Answer": "<div class=\"ExternalClassF0F0D4DED6B241149E7FAF3DC55B2914\">There is no expiration date for a CJ. However, if the section of the regulations that controls your item changes, then the jurisdiction of your item may change. If this is the case, you may self-determine your items jurisdiction based on the new regulation, or submit a new CJ request. In addition, if the article has been modified or otherwise changed, the original CJ determination may no longer be valid.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:11",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "5",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "What is the purpose of the cover letter?",
+      "Answer": "<div class=\"ExternalClassAC4BADE4C0F14EBAB2E6AA574D1A7675\">The cover letter is intended to serve as an executive summary describing the commodity to be reviewed and the context in which it is to be used. Applicants may use the cover letter to further develop points addressed in the online application form, and to provide a high-level overview of each document included as supporting material to the request.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:13",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "6",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "Do I need to register prior to submitting a CJ?",
+      "Answer": "<div class=\"ExternalClassA34D2C2D59454E77BCEF79C262A2C80E\">No. Registration is not required for a CJ request.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:15",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "7",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "As a follow-on to the above, if the item is not described in any category, may I then use USML Category XXI on the license?",
+      "Answer": "<div class=\"ExternalClass24A8A77B00C441688193882ACDAB9FC3\">Per ITAR 121.1, you may only designate an item as Category XXI after receiving approval from the Director, Office of Defense Trade Controls Policy.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:17",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "8",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "What type of information do I need to provide for a CJ request?",
+      "Answer": "<div class=\"ExternalClass8DBA514A08D54147845992D7072787C1\">The type of information required varies according to the nature of the request. In general, the more complex the item is, the greater the detail required. For specific guidance on what to include in your request, please reference the document Tips for a Successful CJ application located on our  CJ Page</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:19",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "9",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "If I disagree with a final CJ determination issued by State, what is my recourse?",
+      "Answer": "<div class=\"ExternalClassA80F5FE38C8941D38FE0CE3731757043\">If you disagree with a final CJ determination and have additional facts not included in the original submission, you may submit a new CJ request. If you disagree with the determination and have no additional facts to present, then you may appeal the determination in accordance with ITAR 120.4(g) for review by the Deputy Assistant Secretary of State for Defense Trade Controls. The Deputy Assistant Secretary�s decision can be appealed to the Assistant Secretary for Political-Military Affairs.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:21",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 2431,
+          "Display": "120.4(g)"
+        }
+      ],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "10",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "May I submit a CJ for an item at the same time that I submit a license request to the Department of State for the same item?",
+      "Answer": "<div class=\"ExternalClass23903225EBAE43AB8BAFA37CCC40C82F\">Both requests may be processed concurrently. However, DDTC recommends that you not seek a license until after you've formally submitted a CJ determination request. Staggering your requests in this manner will permit you to annotate on the license request that a CJ determination action is pending. When noting this, be sure include your CJ number and CJ POC. On the license application, identify the item in question by the USML category paragraph that best describes your item. DO NOT cite Category XXI unless previously authorized by the Director, Office of Defense Trade Controls Policy.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:23",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "11",
+      "Agency": "DDTC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 132,
+      "SanctionsProgramDisplay": "DDTC FAQs",
+      "Question": "If I have questions related to the CJ process, whom should I call?",
+      "Answer": "<div class=\"ExternalClassE08F255841CE4F82A6DD054AC580125C\">Please contact the DDTC Response Team at (202) 663-1282 or DDTCResponseTeam@state.gov.</div>",
+      "FaqDate": "2018-04-27T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-16T18:20:25",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2001-01-01T00:00:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        },
+        {
+          "CategoryID": 403,
+          "CategoryDisplay": "Commodity Jurisdiction Requests"
+        }
+      ],
+      "ECCNs": []
+    }
+  ]
+}

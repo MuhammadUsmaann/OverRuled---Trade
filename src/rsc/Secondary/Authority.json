@@ -1,0 +1,65 @@
+{
+  "AuthorityID": 217,
+  "SecondarySanctionID": 28,
+  "Authority": "EO 13553",
+  "Status": 1,
+  "Sources": [
+    "https://home.treasury.gov/system/files/126/13553.pdf"
+  ],
+  "IssuedDate": "2010-09-28T04:00:00",
+  "EffectiveDate": "2010-09-29T04:00:00",
+  "AmendmentIssuedDate": null,
+  "AmendmentEffectiveDate": null,
+  "EnteredBy": "ADMIN",
+  "EnteredDate": "2022-05-24T13:20:00.83",
+  "ModifiedBy": "ADMIN",
+  "ModifiedDate": "2022-05-24T13:20:00.83",
+  "Sections": [
+    {
+      "SectionID": 932,
+      "SecondarySanctionID": 28,
+      "AuthorityID": 217,
+      "Section": "Sec. 1(a)(ii)(A)",
+      "Basis": "To be an official of the Government of Iran or a person acting on behalf of the Government of Iran (including members of paramilitary organizations) who is responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against persons in Iran or Iranian citizens or residents, or the family members of the foregoing, on or after June 12, 2009, regardless of whether such abuses occurred in Iran",
+      "FIOnly": false,
+      "KnowledgeQualifier": false,
+      "Consequence": "Blocking Sanctions",
+      "Exceptions": "",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2022-05-24T13:21:28.62",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2022-05-24T13:21:28.62"
+    },
+    {
+      "SectionID": 933,
+      "SecondarySanctionID": 28,
+      "AuthorityID": 217,
+      "Section": "Sec. 1(a)(ii)(B)",
+      "Basis": "To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the activities described in subsection (a)(ii)(A) of this section or any person whose property and interests in property are blocked pursuant to this order.",
+      "FIOnly": false,
+      "KnowledgeQualifier": false,
+      "Consequence": "Blocking Sanctions",
+      "Exceptions": "",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2022-05-24T13:21:28.943",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2022-05-24T13:21:28.943"
+    },
+    {
+      "SectionID": 934,
+      "SecondarySanctionID": 28,
+      "AuthorityID": 217,
+      "Section": "Sec. 1(a)(ii)(C)",
+      "Basis": "To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this order.",
+      "FIOnly": false,
+      "KnowledgeQualifier": false,
+      "Consequence": "Blocking Sanctions",
+      "Exceptions": "",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2022-05-24T13:21:29.263",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2022-05-24T13:21:29.263"
+    }
+  ],
+  "FaqIDs": []
+}

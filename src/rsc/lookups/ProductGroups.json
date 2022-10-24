@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "1A",
+        "Value": "A. End Items, Equipment, Accessories, Attachments, Parts, Components, and Systems",
+        "ObjectType": "ProductGroup",
+        "HasChildren": true
+    },
+    {
+        "ID": "1B",
+        "Value": "B. Test, Inspection and Production Equipment",
+        "ObjectType": "ProductGroup",
+        "HasChildren": true
+    },
+    {
+        "ID": "1C",
+        "Value": "C. Materials",
+        "ObjectType": "ProductGroup",
+        "HasChildren": true
+    },
+    {
+        "ID": "1D",
+        "Value": "D. Software",
+        "ObjectType": "ProductGroup",
+        "HasChildren": true
+    },
+    {
+        "ID": "1E",
+        "Value": "E. Technology",
+        "ObjectType": "ProductGroup",
+        "HasChildren": true
+    }
+]

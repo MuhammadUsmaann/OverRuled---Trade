@@ -1,0 +1,152 @@
+[
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 214,
+    "Authority": "CAATSA",
+    "Source": "https://home.treasury.gov/system/files/126/caatsa_eo.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 215,
+    "Authority": "CISADA (as amended by TRA and IFCA)",
+    "Source": "https://home.treasury.gov/system/files/126/pl112_239.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 216,
+    "Authority": "EO 12938",
+    "Source": "https://home.treasury.gov/system/files/126/12938.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 217,
+    "Authority": "EO 13553",
+    "Source": "https://home.treasury.gov/system/files/126/13553.pdf",
+    "FaqCount": 3,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 218,
+    "Authority": "EO 13606",
+    "Source": "https://home.treasury.gov/system/files/126/13606.pdf",
+    "FaqCount": 10,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 220,
+    "Authority": "EO 13846",
+    "Source": "https://home.treasury.gov/system/files/126/13846.pdf",
+    "FaqCount": 33,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 221,
+    "Authority": "EO 13871",
+    "Source": "https://home.treasury.gov/system/files/126/13871.pdf",
+    "FaqCount": 8,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 222,
+    "Authority": "EO 13876",
+    "Source": "https://home.treasury.gov/system/files/126/13876.pdf",
+    "FaqCount": 1,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 223,
+    "Authority": "EO 13902",
+    "Source": "https://home.treasury.gov/system/files/126/13902.pdf",
+    "FaqCount": 1,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 224,
+    "Authority": "IFCA",
+    "Source": "https://home.treasury.gov/system/files/126/IFCA_0.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 225,
+    "Authority": "INKSNA",
+    "Source": "https://www.govinfo.gov/content/pkg/PLAW-106publ178/html/PLAW-106publ178.htm",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 226,
+    "Authority": "Iran-Iraq Arms Non-Proliferation Act of 1992",
+    "Source": "https://www.congress.gov/bill/102nd-congress/house-bill/5006/text",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 227,
+    "Authority": "ISA",
+    "Source": "https://home.treasury.gov/system/files/126/2011_isa_eo.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 228,
+    "Authority": "NDAA 2012",
+    "Source": "https://home.treasury.gov/system/files/126/ndaa_publaw.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  },
+  {
+    "SecondarySanctionID": 28,
+    "SanctionsProgramID": 49,
+    "SanctionsProgramDisplay": "Iran",
+    "AuthorityID": 229,
+    "Authority": "TRA",
+    "Source": "https://home.treasury.gov/system/files/126/hr_1905_pl_112_158.pdf",
+    "FaqCount": 0,
+    "Status": 1
+  }
+]

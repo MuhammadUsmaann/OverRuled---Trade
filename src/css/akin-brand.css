@@ -1,0 +1,175 @@
+/*AKIN BRAND*/
+:root {
+    --bg: #EBEEF2;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #562B7B;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #FF4500;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #00B0B9;
+    --teal-light: #33f5ff;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #8B8878;
+    --gray-dark: #464343;
+    --gray-light: #c4c3ba;
+    --gray-white: #F4F6F8;
+    --black: #000;
+    --primary: rgb(255, 80, 15);
+    --primary-light: #ffa280;
+    --primary-hover: #b33000;
+    --secondary: #8B8878;
+    --secondary-hover: #c4c3ba;
+    --success: #28a745;
+    --success-hover: #6fdc89;
+    --info: #17a2b8;
+    --info-hover: #60d9eb;
+    --warning: #ffc107;
+    --warning-hover: #ffdf80;
+    --danger: #dc3545;
+    --danger-hover: #ec939c;
+    --light: #F1F1F1;
+    --light-hover: #b3b3b3;
+    --dark: #464343;
+    --dark-hover: #827d7d;
+    --bodybackground: #fff;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    /*
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+*/
+}
+
+
+.akingump-Logo {
+    background-image: url("./../img/aglogo.png");
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 150px;
+    border: none;
+    display: inline-block;
+}
+
+
+/*h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: var(--dark);
+}*/
+
+
+.navbar-akin {
+    border-bottom: 1px solid var(--gray-dark) !important;
+    background-color: var(--gray-dark);
+}
+
+.navbar-primary {
+    border-bottom: 1px solid var(--dark) !important;
+    background-color: var(--primary);
+}
+
+
+.navbar-primary-light {
+    border-bottom: 1px solid var(--primary-light) !important;
+    background-color: var(--dark);
+}
+
+.navbar-light {
+    border-bottom: 1px solid var(--light) !important;
+    background-color: var(--primary-light);
+}
+
+.navbar-dark {
+    border-bottom: 1px solid var(--primary) !important;
+    background-color: var(--gray-dark) !important;
+}
+
+.navbar-brand {
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+.navbar-two-tone-light {
+    background: -moz-linear-gradient(left, var(--primary-light) 0%, var(--primary-light) 20%, var(--light) 20%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, var(--primary-light) 0%, var(--primary-light) 20%, var(--light) 20%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, var(--primary-light) 0%, var(--primary-light) 20%, var(--light) 20%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.navbar-two-tone-dark {
+    background: -moz-linear-gradient(left, var(--primary) 0%, var(--primary) 20%, var(--dark) 20%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, var(--primary) 0%, var(--primary) 20%, var(--dark) 20%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, var(--primary) 0%, var(--primary) 20%, var(--dark) 20%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+/* change the brand and text color */
+.navbar-primary .navbar-brand,
+.navbar-primary .navbar-text,
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-text {
+    color: var(--white);
+}
+/* change the link color */
+.navbar-primary .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--white);
+}
+
+.navbar-primary .navbar-nav .card,
+.navbar-dark .navbar-nav .card {
+    color: var(--white);
+}
+
+/* change the color of active or hovered links */
+.navbar-primary .nav-item.active .nav-link,
+.navbar-primary .nav-item:focus .nav-link,
+.navbar-primary .nav-item:hover .nav-link,
+.navbar-dark .nav-item.active .nav-link,
+.navbar-dark .nav-item:focus .nav-link,
+.navbar-dark .nav-item:hover .nav-link {
+    color: var(--dark);
+}
+
+.navbar-bottom {
+    padding-bottom: 0;
+}
+
+body {
+    font-family: "aktiv-grotesk", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+/*tb-carousel
+    A set of panels that display one at a time, controlled by the .tb-circle control
+*/
+.tb-carousel .tb-carousel-item {
+    display: none;
+}
+
+.tb-carousel .tb-carousel-item.active {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.tb-carousel-controls {
+}
+
+.tb-carousel-control {
+}
+
+/* .active
+    Add the .active class to a .tb-circle for it to be filled in
+*/
+.tb-circle.active {
+    background-color: var(--white);
+}
+
+#footer {
+    margin-top: auto;
+    width: 100%;
+}

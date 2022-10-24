@@ -1,0 +1,326 @@
+{
+  "Listings": [
+    {
+      "FaqID": "BIS-1",
+      "Agency": "BIS",
+      "Question": "What is the 232 Exclusions Portal?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-10",
+      "Agency": "BIS",
+      "Question": "How do I view the surrebuttal in the 232 Exclusions Portal?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-11",
+      "Agency": "BIS",
+      "Question": "Who should I contact if I have any technical questions on the 232 Exclusions Portal?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-12",
+      "Agency": "BIS",
+      "Question": "Who is eligible to submit an exclusion request?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-13",
+      "Agency": "BIS",
+      "Question": "Effective June 13, 2019, how would an eligible party request an exclusion in the new 232 exclusion portal?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-14",
+      "Agency": "BIS",
+      "Question": "How would an eligible party request an exclusion before June 13, 2019?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-15",
+      "Agency": "BIS",
+      "Question": "On what basis will a product exclusion be granted?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-16",
+      "Agency": "BIS",
+      "Question": "If granted, do I notify CBP of my exclusion approval?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-17",
+      "Agency": "BIS",
+      "Question": "What if I disagree with the denial of exclusion request?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "BIS-18",
+      "Agency": "BIS",
+      "Question": "How long is my product exclusion effective?",
+      "resultWeight": 0
+    }
+  ],
+  "Details": [
+    {
+      "FaqID": "BIS-1",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "What is the 232 Exclusions Portal?",
+      "Answer": "<div class=\"ExternalClass1A17D8ECCA204AFEA3197F344156EFD0\">Beginning June 13, 2019, exclusion requests from the duties on steel or aluminum not “produced in the United States in a sufficient and reasonably available amount or of a satisfactory quality” or exclusion requests “based upon specific national security considerations”, will be processed in the new 232 Exclusions Portal. This newly designed portal for submitting new exclusion requests, objections to exclusion requests, rebuttals, and surrebuttals will replace the Federal rulemaking portal (http&#58;//www.regulations.gov) and streamline the exclusions process while enhancing data integrity and quality controls. A user-guide is available at the commerce.gov website. Companies wishing to file objections, rebuttals, surrebuttals to exclusion requests submitted on the Federal rulemaking portal (regulations.gov) will continue to use the regulations.gov website.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:42",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:42",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-10",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "How do I view the surrebuttal in the 232 Exclusions Portal?",
+      "Answer": "<div class=\"ExternalClass75B9248997954F72BF89D622B502FC85\">Registered users have access to a dashboard which provides a view into surrebuttal filings.\r\n1) For a user to view any of their submitted surrebuttal filings, select ‘Surrebuttals’.\r\n2) After selecting the filing type, a dashboard dropdown will appear, showing any filing of that type that a user has submitted. (Note&#58; if a user has not filed any objection filings, no documents will appear in the dashboard dropdown for that respective filing type.)\r\n3) Under the ‘Surrebuttals’ dashboard dropdown, the ‘ERID’, ‘OFID’, and ‘ORID’ columns will show the exclusion request ID number, the objection filing ID number, and objection rebuttal ID number that the surrebuttal is linked to, with links to those filings. To view the actual surrebuttal, select ‘Details’ for the surrebuttal filing you would like to view.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:46",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:46",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-11",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "Who should I contact if I have any technical questions on the 232 Exclusions Portal?",
+      "Answer": "<div class=\"ExternalClassB7452430A3FF4FAAB452D1FCECFF088A\">For portal-related inquiries, please contact the 232 Exclusions Portal Support Help Desk at 1-202-482-3203 or 232ExclusionsPortal@bis.doc.gov.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:46",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:46",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-12",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "Who is eligible to submit an exclusion request?",
+      "Answer": "<div class=\"ExternalClass6B32E6F8CF6E4757B1CBDB854072CF6E\">Only directly affected individuals or organizations located in the United States, who are using steel and or aluminum in business activities in the United States, are eligible to submit requests for exclusion from the steel or aluminum tariffs and/or quantitative limitations imposed under Section 232. </div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:47",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:47",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-13",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "Effective June 13, 2019, how would an eligible party request an exclusion in the new 232 exclusion portal?",
+      "Answer": "<div class=\"ExternalClass30924E8F98AC4DD79F7F0964D8FE2500\">&quot; Beginning June 13, 2019, the exclusion request from the duties on steel or aluminum not “produced in the United States in a sufficient and reasonably available amount or of a satisfactory quality” or should be excluded “based upon specific national security considerations”, will be processed on the new online 232 exclusion portal. This newly designed portal offers people submitting new exclusion requests, objections to exclusion requests, rebuttals, and surrebuttals to replace the use of the Federal rulemaking portal (http&#58;//www.regulations.gov) and streamline the exclusions process while enhancing data integrity and quality controls. A user-guide is available at commerce.gov website. For those who submitted their exclusion request prior to June 13, 2019 in regulations.gov website, the objections to exclusion requests, rebuttals, and surrebuttals will continue to use the Federal rulemaking portal (http&#58;//www.regulations.gov).</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:47",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:47",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-14",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "How would an eligible party request an exclusion before June 13, 2019?",
+      "Answer": "<div class=\"ExternalClass364B77CB52C347A18F43A4958E668704\">The requestor of an exclusion from the tariffs or quantitative limitations on steel/aluminum article imports should first go to the 232 steel docket on regulations.gov website and download the Request for Exclusion from Remedies from the Section 232 National Security Investigation of Imports of Steel (Exclusion Request) form, which can also be found under “Supporting Documents.” For aluminum imports, the party should first go to the 232 aluminum docket on regulations.gov and download the Request for Exclusion from Remedies from the Section 232 National Security Investigation of Imports of Aluminum (Exclusion Request) form, also found under “Supporting Documents”. Completely fill out the Excel form. You must complete a separate form for each distinct type and dimension of steel/aluminum product for which an exclusion is being sought. To submit your exclusion request, click on the “Comment Now!” button associated with the docket (“Requirements for Submissions Requesting Exclusion from the Remedies…”). For each submission, there can only be one (1) additional attachment in the form of a PDF that does not exceed 25 pages under 10 MB. Make sure to record your comment tracking number. Please also note that all information submitted in an exclusion request will be subject to public review and will be made available for public inspection and copying. If a requester has confidential business information that they believe relevant to the consideration of their exclusion request, they may indicate that in the appropriate field of the form.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:48",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:48",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-15",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "On what basis will a product exclusion be granted?",
+      "Answer": "<div class=\"ExternalClass83071F2A960D4321B0D8EFC8ED65316C\">A product exclusion will be granted if the article is not produced in the United States&#58; (1) in sufficient and reasonably available amount, (2) satisfactory quality, or (3) there is a specific national security consideration warranting an exclusion</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:48",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:48",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-16",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "If granted, do I notify CBP of my exclusion approval?",
+      "Answer": "<div class=\"ExternalClassFC68D2859D9C406D908F2B17336B8B9C\">Upon receipt of the approved product exclusion from DOC, for the importer of record listed in the approved exclusion, please provide that company’s name, address and importer of record number, and the associated product exclusion number, to U.S. Customs and Border Protection (CBP) at Traderemedy@cbp.dhs.gov. For approved quota exclusions, send a cc&#58; of the information to HQQuota@cbp.dhs.gov. Please refer to U.S. Customs and Border Protection Cargo Systems Messaging Service CSMS #18-000663 for further instructions on receiving retroactive relief. If submitting multiple exclusion numbers, consolidate into one email submission</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:49",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:49",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-17",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "What if I disagree with the denial of exclusion request?",
+      "Answer": "<div class=\"ExternalClassA014D98AA5654E07B5226EFF3FDD5A01\">If you were denied an exclusion and disagree with a decision, you may file a new exclusion request if new or different facts or circumstances exist which meet the criteria for approving an exclusion request. This new information could include, for example, supporting documentation describing the inability or refusal of the objector(s) to provide the product. A company may use the comments section on the forms to provide additional supporting information in PDF document not to exceed 25 pages.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:49",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:49",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "BIS-18",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 124,
+      "SanctionsProgramDisplay": "BIS FAQs",
+      "Question": "How long is my product exclusion effective?",
+      "Answer": "<div class=\"ExternalClass01CC8A622C9C4C599EF43323E0557091\">Generally, an exclusion is granted for one year from the date of signature, or until all excluded product volume is imported (whichever comes first). Companies are also able to obtain retroactive relief for the period between the date of submittal and the date it was granted.</div>",
+      "FaqDate": null,
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-08-09T23:38:49",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-08-09T23:38:49",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 361,
+          "CategoryDisplay": "Duties and Exclusions"
+        }
+      ],
+      "ECCNs": []
+    }
+  ]
+}

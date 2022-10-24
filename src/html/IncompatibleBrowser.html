@@ -1,0 +1,89 @@
+﻿<html>
+<head>
+    <title>Incompatible Browser</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 0.8em;
+            background: #F8F8F8;
+        }
+
+        .header {
+            position: relative;
+            background-color: #464343;
+            color: white;
+            padding: 15px;
+            height: 40px
+        }
+
+        .app-title {
+            font-weight: 500;
+            font-size: 1.9em;
+            float: left;
+            margin-top: 5px;
+            font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        }
+
+        .logo {
+            float: right;
+        }
+
+        .info, .redirect-link {
+            margin: 10px;
+        }
+
+        .info {
+            font-size: 1.5em;
+        }
+
+        .redirect-link {
+            font-size: 1.3em;
+        }
+
+        .mainContent {
+            min-height: 834px;
+            width: 80%;
+            margin: 0px auto;
+            overflow: hidden;
+            background: #ffffff;
+            padding: 30px;
+        }
+
+        .footer {
+            position: relative;
+            background-color: #464343 !important;
+            color: white;
+            padding: 15px;
+            height: 40px;
+            text-align: center;
+            line-height: normal
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <span class="logo">
+            <img id="logo" alt="Akin Gump LLP" src="">
+        </span>
+        <span class="app-title">
+            <span>OverRuled</span>
+            <span class="screen-name"></span>
+        </span>
+    </div>
+    <div class="mainContent">
+        <div class="info">Please use Chrome or Edge browser for optimal experience using this application. Copy and paste the following URL to Chrome (or Edge) browser.</div>
+        <div class="redirect-link"><a href="" id="redirectUrl"></a></div>
+    </div>
+    <div class="footer">
+        <p>&copy; <span id="footerYear"></span> All rights reserved. For questions please contact <a class="footerlink" href="mailto:itsolutionsdevelopment@akingump.com">solutions team.</a></p>
+    </div>
+    <script type="text/javascript">
+
+        var redirectUrl = location.search.substring(13);
+        var redirectLink = document.getElementById("redirectUrl");
+        redirectLink.setAttribute('href', redirectUrl);
+        redirectLink.innerHTML = redirectUrl;
+    </script>
+</body>
+</html>

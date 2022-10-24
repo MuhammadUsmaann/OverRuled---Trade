@@ -1,0 +1,90 @@
+﻿
+<div id="secondaryLastUpdated" class="inline right" style="display: none !important;"></div>
+<div class="col-12 content-accordian">
+    <div class="clearfix">
+        <div class="mt-10">
+            <div id="programAccordion" class="accordion cards-no-margin">
+            </div>
+        </div>
+    </div>
+    <!-- <b>This page identifies active U.S. secondary sanctions. Secondary sanctions are legal authorities that provide a basis for the U.S. government to impose sanctions on persons that engage in restricted activities or that meet certain criteria. Click on a country or program in the drop-down menu to the left to see detailed information about secondary sanctions applicable to certain countries and programs.</b> -->
+
+</div>
+
+<div id="programItemTemplate" style="display: none;">
+    <div class="card text-darker" name="programCard" id="programCardPROGRAMID">
+        <div class="card-header collapsed" id="programHeadPROGRAMID" data-toggle="collapse"
+             aria-expanded="false" data-programid="PROGRAMID">
+
+            <h6 class="mb-0 mr-3 font-weight-bolder">
+                <i class="fa" aria-hidden="true"></i>
+
+                <a name="program-header" class="text-dark ml-3">PROGRAMNAME</a>
+            </h6>
+        </div>
+        <div class="collapse faq-body" id="programBodyPROGRAMID" name="program-body"
+             data-loaded="false" data-programid="PROGRAMID">
+            <div class="card-body pb-10 mb-10">
+                <div id="authorityAccordionPROGRAMID" class="accordion cards-no-margin">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="authorityItemTemplate" style="display: none;">
+    <div class="card text-darker" name="authorityCard" id="authorityCardAUTHORITYID">
+        <div class="card-header collapsed" id="authorityHeadAUTHORITYID"
+             data-toggle="collapse" aria-expanded="false" data-authorityid="AUTHORITYID">
+            <div class="left">
+                <h6 class="mb-0 mr-3 font-weight-bolder">
+                    <i class="fa" aria-hidden="true"></i>
+
+                    <a name="authority-header" class="text-dark ml-3">AUTHORITYNAME</a>
+                </h6>
+            </div>
+            <div class="inline right relative top-2">
+                <a class="white-button button inline mr-10" id="faqsLinkAUTHORITYID" data-authorityid="AUTHORITYID">Related FAQs</a>
+                <a class="white-button button inline mr-10 hide" id="basisLinkAUTHORITYID" data-authorityid="AUTHORITYID">Basis</a>
+                <a href="SOURCE" target="_blank" class="orange-button button inline">
+                    Source
+                </a>
+            </div>
+        </div>
+        <div class="collapse faq-body" id="authorityBodyAUTHORITYID" name="authority-body"
+             data-loaded="false" data-authorityid="AUTHORITYID">
+            <div class="card-body pb-10 mb-10">
+                <div id="basisAUTHORITYID">
+
+                    <div class="">
+                        <!-- <h3 class="bold">EO 13660</h3> -->
+                        <h5 class="pb-10">The U.S. government can impose sanctions on a foreign person determined to have engaged in the following restricted activities or determined to meet the following circumstances:</h5>
+                    </div>
+                </div>
+                <div id="faqsAUTHORITYID" class="hide"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="basisItemTemplate" style="display: none;">
+
+    <div class="p-10 border-orange bg-light-0 mb-10 round-5 secondar-section-list clearfix">
+        <div class="section-content-display">
+            <div class="bold pb-5">
+                SECTIONTITLE
+            </div>
+            BASIS
+        </div>
+        <ul class="clearfix inline right relative top-5">
+            <li class="border-all round-5 p-10 pt-5 inline bg-light-purple mr-10">
+                <b class="block">Knowledge Requirement:</b>KNOWLEDGEQUALFIER
+            </li>
+            <li class="border-all round-5 p-10 pt-5 inline bg-light-1">
+                <b class="block">Consequences:</b>CONSEQUENCES
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+
+<div id="faqSecondaryPlaceholder" style="display: none;"></div>

@@ -1,0 +1,221 @@
+{
+  "ActionsByIndustry": {
+    "Table": [
+      {
+        "Industry": "Financial Services",
+        "TotalSettlements": 4511292722.1300,
+        "IndustryActions": 77,
+        "IndustryPercent": 0.38889,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Industrial",
+        "TotalSettlements": 24594228.0000,
+        "IndustryActions": 20,
+        "IndustryPercent": 0.10101,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Aerospace, Shipping & Transportation",
+        "TotalSettlements": 78573731.0000,
+        "IndustryActions": 19,
+        "IndustryPercent": 0.09596,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Agricultural/Food & Medicine",
+        "TotalSettlements": 12128377.3000,
+        "IndustryActions": 17,
+        "IndustryPercent": 0.08586,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Energy",
+        "TotalSettlements": 103994408.0000,
+        "IndustryActions": 17,
+        "IndustryPercent": 0.08586,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Technology",
+        "TotalSettlements": 5089432.0000,
+        "IndustryActions": 15,
+        "IndustryPercent": 0.07576,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Consumer Goods",
+        "TotalSettlements": 12930095.6000,
+        "IndustryActions": 14,
+        "IndustryPercent": 0.07071,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Travel & Hospitality",
+        "TotalSettlements": 15029564.2900,
+        "IndustryActions": 12,
+        "IndustryPercent": 0.06061,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Insurance",
+        "TotalSettlements": 7623177.0000,
+        "IndustryActions": 11,
+        "IndustryPercent": 0.05556,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Other",
+        "TotalSettlements": 139461648.0000,
+        "IndustryActions": 30,
+        "IndustryPercent": 0.15150,
+        "IsOther": 1
+      }
+    ]
+  },
+  "AveragePenalties": {
+    "Table": [
+      {
+        "Year": 2013,
+        "TotalSettlements": 137075560.0000,
+        "TotalActions": 28,
+        "AverageSettlement": 4895556.0000
+      },
+      {
+        "Year": 2014,
+        "TotalSettlements": 1209298807.0000,
+        "TotalActions": 23,
+        "AverageSettlement": 52578209.0000
+      },
+      {
+        "Year": 2015,
+        "TotalSettlements": 599705997.0000,
+        "TotalActions": 17,
+        "AverageSettlement": 35276823.0000
+      },
+      {
+        "Year": 2016,
+        "TotalSettlements": 21609315.3000,
+        "TotalActions": 14,
+        "AverageSettlement": 1543523.0000
+      },
+      {
+        "Year": 2017,
+        "TotalSettlements": 119517845.0000,
+        "TotalActions": 18,
+        "AverageSettlement": 6639880.0000
+      },
+      {
+        "Year": 2018,
+        "TotalSettlements": 71510561.0500,
+        "TotalActions": 7,
+        "AverageSettlement": 10215794.0000
+      },
+      {
+        "Year": 2019,
+        "TotalSettlements": 1513867059.0000,
+        "TotalActions": 27,
+        "AverageSettlement": 56069150.0000
+      },
+      {
+        "Year": 2020,
+        "TotalSettlements": 23565657.0000,
+        "TotalActions": 16,
+        "AverageSettlement": 1472854.0000
+      },
+      {
+        "Year": 2021,
+        "TotalSettlements": 20911139.2200,
+        "TotalActions": 20,
+        "AverageSettlement": 1045557.0000
+      },
+      {
+        "Year": 2022,
+        "TotalSettlements": 13641208.7500,
+        "TotalActions": 12,
+        "AverageSettlement": 1136767.0000
+      }
+    ]
+  },
+  "TotalPenalties": {
+    "Table": [
+      {
+        "Year": "2012-01-01T00:00:00",
+        "TotalSettlementsUS": 3732093.0000,
+        "TotalSettlementsNonUS": 1135457019.0000,
+        "TotalActionsUS": 11,
+        "TotalActionsNonUS": 6
+      },
+      {
+        "Year": "2013-01-01T00:00:00",
+        "TotalSettlementsUS": 98629223.0000,
+        "TotalSettlementsNonUS": 36946337.0000,
+        "TotalActionsUS": 23,
+        "TotalActionsNonUS": 4
+      },
+      {
+        "Year": "2014-01-01T00:00:00",
+        "TotalSettlementsUS": 24534884.0000,
+        "TotalSettlementsNonUS": 1184763923.0000,
+        "TotalActionsUS": 16,
+        "TotalActionsNonUS": 7
+      },
+      {
+        "Year": "2015-01-01T00:00:00",
+        "TotalSettlementsUS": 9751516.0000,
+        "TotalSettlementsNonUS": 589954481.0000,
+        "TotalActionsUS": 13,
+        "TotalActionsNonUS": 3
+      },
+      {
+        "Year": "2016-01-01T00:00:00",
+        "TotalSettlementsUS": 18204469.3000,
+        "TotalSettlementsNonUS": 10717290.0000,
+        "TotalActionsUS": 11,
+        "TotalActionsNonUS": 3
+      },
+      {
+        "Year": "2017-01-01T00:00:00",
+        "TotalSettlementsUS": 5456281.0000,
+        "TotalSettlementsNonUS": 114061564.0000,
+        "TotalActionsUS": 11,
+        "TotalActionsNonUS": 8
+      },
+      {
+        "Year": "2018-01-01T00:00:00",
+        "TotalSettlementsUS": 14768673.0000,
+        "TotalSettlementsNonUS": 56887781.0500,
+        "TotalActionsUS": 5,
+        "TotalActionsNonUS": 3
+      },
+      {
+        "Year": "2019-01-01T00:00:00",
+        "TotalSettlementsUS": 10943463.0000,
+        "TotalSettlementsNonUS": 1502923596.0000,
+        "TotalActionsUS": 16,
+        "TotalActionsNonUS": 11
+      },
+      {
+        "Year": "2020-01-01T00:00:00",
+        "TotalSettlementsUS": 14417558.0000,
+        "TotalSettlementsNonUS": 10273099.0000,
+        "TotalActionsUS": 13,
+        "TotalActionsNonUS": 4
+      },
+      {
+        "Year": "2021-01-01T00:00:00",
+        "TotalSettlementsUS": 5494779.2200,
+        "TotalSettlementsNonUS": 16278678.0000,
+        "TotalActionsUS": 13,
+        "TotalActionsNonUS": 8
+      },
+      {
+        "Year": "2022-01-01T00:00:00",
+        "TotalSettlementsUS": 903820.8900,
+        "TotalSettlementsNonUS": 12737387.8600,
+        "TotalActionsUS": 7,
+        "TotalActionsNonUS": 5
+      }
+    ]
+  }
+}

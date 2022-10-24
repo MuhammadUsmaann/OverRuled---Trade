@@ -1,0 +1,182 @@
+﻿
+
+<div id="bisCaseResults" name="caseResults">
+    <div class="right inline p-15" style="display: none !important;">
+        <div class="page-update-status inline" id="bisCasesLastUpdate" name="lastUpdate"></div>
+
+    </div>
+    <div>
+        <div class="overruled-table d-inline-block ">
+            <table id="bisCaseResultsGrid" name="caseResultsGrid"></table>
+        </div><!--ending of overruled-table-->
+
+    </div>
+</div>
+
+<div id="bisCaseDetails" class="sliding-case-details" name="caseDetails">
+    
+    <div class="p-20 pb-0">
+        <div class="case-detail-header clearfix">
+            <div class="inline left case-detail-title">
+                <h2 class="bold flex">
+                    <span id="bisFlag">
+                    </span>
+                    <span id="bisRespondentName"></span>
+                </h2>
+                <div class="pt-5 md-font"><span id="bisIndustry"></span> | Enforcement Date: <span id="bisEnforcementDate"></span></div>
+            </div>
+            <div class="inline-flex flex-center right">
+                <div class="inline mr-8">
+                <a href="#" class="button inline-flex flex-center mr-5 record-nav" aria-label="Previous Record" title="Previous Record" data-role="prev">
+                    <i class="fa fa-arrow-left"></i>
+                </a>
+                <a href="#" class="button inline-flex flex-center record-nav" aria-label="Next Record" title="Next Record" data-role="next">
+                    <i class="fa fa-arrow-right"></i>
+                </a>
+            </div>
+
+                <a href="#" target="_blank" class="button primary-button inline mr-5" id="bisSource">
+                    Source
+                </a>
+                <a href="#" class="button white-button inline" id='btn-bis-case-detail-hide' data-role="hide">
+                    <img class="dark-cross-ico" height="16" />
+                </a>
+                <div class="text-right pt-5 hide">
+                    <span>Last Update: 31 Jan 2015</span>
+                </div>
+
+            </div>
+        </div><!--ending of case-detail-header-->
+        <div class="case-detail-body">
+            <div class="pt-10 case-key-factors">
+                <h5 class="bold">Key Facts</h5>
+                <p class="pt-5" id="bisKeyFacts">
+                </p>
+            </div>
+            <div class="mt-10 case-index bg-gray p-15 round-5">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Voluntary Self-Disclosure</h6></div>
+                        <div>
+                            <span class="light-green-tag  mr-5 " name="bisVSD" id="bisVSDYes"><img class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                            <span class="light-orange-tag  mr-5 " name="bisVSD" id="bisVSDNo"><img class="mr-5 -top-2 orange-cross-ico" />No</span>
+                            <span class="light-purple-tag  mr-5 " name="bisVSD" id="bisVSDPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                            <span class="ligh-gray-tag  mr-5 " name="bisVSD" id="bisVSDUnknown">Unknown</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-10">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Monetary Penalty</h6></div>
+                        <div class="orange-tag inline" id="bisSettlementAmount"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Suspended Penalty</h6></div>
+                        <div class="inline" id="bisSuspendedPenalty"></div>
+                    </div>
+                </div>
+                <div class="row  mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Non-Monetary Penalty</h6></div>
+                        <div class="inline" id="bisNonMonetaryPenalty"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Denial Order</h6></div>
+                        <div class="orange-tag inline" id="bisDenialOrder"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-10 case-index bg-gray p-15 round-5">
+                <div class="row">
+                    <div class="col-12"><h5 class="bold">Violation Information</h5></div>
+                </div>
+
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Transaction Value</h6></div>
+                        <div class="orange-tag inline" id="bisTransactionValue"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Transaction Types</h6></div>
+                        <div id="bisTransactionTypes"></div>
+                    </div>
+                </div>
+
+
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">No. of Violations</h6></div>
+                        <div class="orange-tag inline" id="bisNumberOfViolations"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Violation Types</h6></div>
+                        <div id="bisViolationTypes"></div>
+                    </div>
+                </div>
+
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Reasons for Control</h6></div>
+                        <div id="bisReasonsForControl"></div>
+                    </div>
+                </div>
+
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Charging Vehicles</h6></div>
+                        <div id="bisChargingVehicles"></div>
+
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Other Related Provisions</h6></div>
+                        <div id="bisRegulatoryProvisions"></div>
+
+                    </div>
+                </div>
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Regulatory Regime</h6></div>
+                        <div id="bisRegulatoryRegime"></div>
+
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Statutory Regime</h6></div>
+                        <div id="bisStatutoryRegime"></div>
+                    </div>
+                </div>
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-4"><h6 class="bold">Description of Items</h6></div>
+                        <div class="inline" id="bisItems"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-4"><h6 class="bold">ECCN(s)</h6></div>
+                        <div class="inline" id="bisECCNs"></div>
+                    </div>
+                </div>
+                <div class="row mt-15">
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Ultimate Destinations</h6></div>
+                        <div id="bisDestinations"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="mb-8"><h6 class="bold">Intermediate Destinations</h6></div>
+                        <div id="bisTranshipments"></div>
+                    </div>
+                </div>
+            </div>
+        </div><!--ending of case-detail-body-->
+    </div><!--ending of p-20-->
+</div><!--ending of sliding-case-details -->
+<script id="bisRespondentColumn" type="text/x-kendo-template">
+    <div class="d-flex align-items-center">
+        <div class="show-tooltip f32 d-flex align-items-center">
+            <div class="country-flag mr-5 inline flag #= RespondentCountryCodes == null ? 'AR' : RespondentCountryCodes.toLowerCase()#"></div>
+            <span class="tooltiptext">#: RespondentNationalities#</span>
+
+        </div>
+        #: RespondentName #
+    </div>
+</script>
+
+

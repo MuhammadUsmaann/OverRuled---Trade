@@ -1,0 +1,138 @@
+﻿<div class="tb-nav">
+    <div class="tb-nav-inner">
+        <div id="logo_div" class="inline"></div>
+        <div id="expand_item" class="inline relative desk"><img class="tb-menu-icon hamburger" /></div>
+
+        
+        <!--<div id="logo_text">Powered By Akin Gump</div>-->
+        <!-- Login/Profile-->
+        <div class="flex flex-center right-search-holder">
+            <div id="agencyNavWrapper" class="select-wrapper inline mr-10 ml-20 relative">
+                <div class="select">
+                    <div class="select__trigger">
+                        <span name="selectedPage" id="navSelectedPage">OFAC Sanctions</span>
+                        <div class="arrow"></div>
+                    </div>
+                    <div class="custom-options" id="agencyNav" name="agencyOptions">
+                        <span class="custom-option" data-value="OFAC"
+                            onclick="window.location.replace('./index.html?a=ofac')">OFAC Sanctions</span>
+                        <span class="custom-option" data-value="BIS"
+                            onclick="window.location.replace('./index.html?a=bis')">BIS Export Controls</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- search -->
+            <div class="inline header-search">
+                <!-- <div class="tb-menu-item" id="search_item">
+                    <img class="tb-menu-icon" src="img/icons/icon_search_2.svg" />
+                </div> -->
+                <!-- search input (expanded view) -->
+                <div id="search_item_expanded">
+                    <div id="search_input_div">
+                        <div class="k-textbox fluid">
+                            <input id="search_input" data-role="keywordSearch" type="text"
+                                class="border-0 inline left search-type-box input-text" placeholder="Search..."
+                                alt="Search Trade" title="Search Trade" aria-label="Search Trade" />
+                            <div class="select-wrapper left inline">
+                                <div class="select">
+                                    <div class="select__trigger">
+                                        <span name="selectedPage" id="searchSelectedPage">OFAC Sanctions</span>
+                                        <div class="arrow"></div>
+                                    </div>
+                                    <div class="custom-options" id="agencySearch" name="agencyOptions">
+                                        <span class="custom-option selected" data-value="OFAC">OFAC Sanctions</span>
+                                        <span class="custom-option" data-value="BIS">BIS Export Controls</span>
+                                        <span class="custom-option" data-value="DDTC">DDTC Export Controls</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <a href="#" id="search_link"
+                                class="bg-orange white inline header-seach-btn round-3 right inline"><img
+                                    class="search-white"></a>
+                        </div>
+                        <!--<input type="text" id="search_input" placeholder="Search Trade" alt="Search Tradebase" title="Search Tradebase" aria-label="Search Tradebase" />
+                        <a id="search_link" href="#"><img id="search_icon_dark" src="img/icons/icon_search_2_dark.svg" /></a>-->
+                    </div>
+                </div>
+                <!-- advanced search -->
+            </div>
+        </div>
+
+
+
+        <div class="tb-nav-right">
+            <!-- profile action menu -->
+            <!--<div id="profile_actions">
+                <a href="#" class="show-dialog" data-target="#dialog_login">Login</a> | <a href="#" class="show-dialog" data-target="#dialog_login">Registration</a>
+            </div>-->
+            <div class="search-icon-responsive cr-p" onclick="SearchHolder()" >
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M13.6502 12.618L17.2193 16.1863L16.0402 17.3655L12.4719 13.7963C11.1441 14.8607 9.49268 15.4396 7.79102 15.4371C3.65102 15.4371 0.291016 12.0771 0.291016 7.93713C0.291016 3.79713 3.65102 0.437134 7.79102 0.437134C11.931 0.437134 15.291 3.79713 15.291 7.93713C15.2934 9.6388 14.7145 11.2903 13.6502 12.618ZM11.9785 11.9996C13.0361 10.912 13.6267 9.45416 13.6243 7.93713C13.6243 4.7138 11.0135 2.1038 7.79102 2.1038C4.56768 2.1038 1.95768 4.7138 1.95768 7.93713C1.95768 11.1596 4.56768 13.7705 7.79102 13.7705C9.30804 13.7729 10.7659 13.1822 11.8535 12.1246L11.9785 11.9996V11.9996Z"
+                        fill="white" />
+                </svg>
+                <img src="../../img/search-white-ico.svg" alt="">
+            </div>
+
+            <div style="margin-left: 20px;position: relative;">
+
+
+                <!-- profile img placeholder -->
+                <!-- <div id="profile_img">
+                    <img src="static/img/icons/icon_user.svg" style="width: 30px; height: 30px;" />
+                </div> -->
+
+                <div id="profile_actions_close"
+                    style="position:fixed; top: 0; right: 0; bottom: 0; left: 0;display: none;"></div>
+
+                <!-- profile actions dropdown -->
+                <div id="profile_actions_dropdown" style="display:none;">
+                    <a href="#" class="show-dialog" data-target="#dialog_login">Login</a>
+                    <a href="#" class="show-dialog" data-target="#dialog_login">Registration</a>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Hamburger Icon (mobile) -->
+        <div id="item_hamburger">
+            <img id="hamburger_img" class="hamburger" />
+        </div>
+        <div id="search-icon" class="mob">
+            <img id="search-img" class="search-img" />
+        </div>
+
+        
+    </div>
+   
+</div>
+<div class="top-news-ticker pl-15 fixed fluid">
+    <div class="new-alert-title left "> News Alert</div>
+    <div id="alertsCarousel_desktop" class="tb-carousel show-news-ticker left">
+
+        <div class="tb-carousel-item active">
+        </div>
+        <div class="tb-carousel-item">
+        </div>
+        <div class="tb-carousel-item">
+
+        </div>
+    </div>
+    <div id="alerts-template" style="display: none">
+        <div class="actions-panel-top ml-1 d-flex  align-items-center align-content-center " style="flex: 2;">
+            <a class="text-dark" name="alertLink" target="_blank"><span class="" name="alertTitle"></span></a>
+        </div>
+        <!-- <div class="actions-panel-bottom justify-content-center align-items-center text-white" style="flex: 1;">
+            <span name="alertDate"></span>
+        </div> -->
+    </div>
+</div>
+<div class="page-title flex flex-center fixed fluid align-content flex-flow pt-10">
+    <div id="page-name" class="d-none d-md-flex lg-font bold ml-10"></div>
+    <div class="inline mr-10">
+        <span id="pageLastUpdate"></span>
+    </div>
+</div>

@@ -1,0 +1,940 @@
+@import url("overruled.css");
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* The base font family and font sizing is set here */
+body {
+  font-family: "aktiv-grotesk", Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* ============== Top Navigation  ============== */
+/*
+ The outer-most element of the top navigation bar. it is fixed to the top of the page.
+*/
+.tb-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0px;
+  height: 65px;
+  background-color: #464343;
+  color: #fff;
+}
+
+/*
+    .tb-nav-inner
+    Inner element of the top navigation bar. Controls how the contents are centered within.
+*/
+.tb-nav-inner {
+  max-width: 1810px;
+  height: 65px;
+  margin: auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/*
+    #logo_img 
+    Primary Logo. Positioned in the center of the top navigation bar
+*/
+/*
+    .tb-nav-right 
+    Right-aligned content on the top navigation bar
+*/
+.tb-nav-right {
+  position: absolute;
+  right: 40px;
+  top: 0;
+  bottom: 0;
+  padding: 7px 15px;
+  display: flex;
+  align-items: center;
+}
+
+/* 
+    #logo_text 
+    Subtext that appears underneath the logo image on the top navigation bar */
+#logo_text {
+  position: absolute;
+  bottom: 20px;
+  margin-left: -40px;
+  left: 50%;
+  font-size: 0.8em;
+  font-weight: 600;
+}
+
+/* #profile_actions
+/* The action menu that appears next to the profile picture in the desktop view */
+#profile_actions {
+  color: #fff;
+  font-size: 1em;
+}
+
+/* The appearance of the profile actions options links */
+#profile_actions a:link,
+#profile_actions a:visited {
+  color: #fff;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+#profile_actions a:hover {
+  text-decoration: underline;
+}
+
+/* Profile actions dropdown */
+/* The dropdown menu that can be toggled on/off on mobile and tablet */
+#profile_actions_dropdown {
+  width: 200px;
+  position: absolute;
+  top: 30px;
+  right: 0;
+  background-color: rgba(40, 40, 40, 0.95);
+}
+
+#profile_actions_dropdown a:link,
+#profile_actions_dropdown a:visited,
+#profile_actions_dropdown a {
+  color: #fff;
+  font-size: 1em;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+}
+
+#profile_actions_dropdown a:hover {
+  text-decoration: underline;
+  background-color: #3c3c3c;
+}
+
+/* profile_img */
+/* The profile image in the top right. Also acts as a toggle for the profile actions dropdown */
+#profile_img {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+}
+
+/* 
+    #item_hamburger 
+    Hamburger menu icon that appears on the left-hand side of the top navigation bar when viewed on mobile */
+#item_hamburger {
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  bottom: 0;
+  padding: 7px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#item_hamburger img {
+  height: 28px;
+}
+
+/* ============== Side Menu  ============== */
+/* The side menu is what expands out from the side of the page with all of the primary navigation items */
+/* We use the .collapsed and .expanded classes to control what gets shown in the collapsed/expanded state */
+/* 
+    #tb_menu: 
+    The outer-most menu div. Attaches the menu to the left side of the page. */
+#tb_menu {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 65px;
+  overflow: hidden;
+  transition: width 200ms;
+  overflow-x: hidden;
+  overflow-y: auto;
+  top: 171px;
+}
+
+/* 
+    #icon_left:
+     the icon that you click to expand/collapse the menu 
+    */
+.collapsed #icon_left {
+  display: none;
+}
+
+.expanded #icon_left {
+  display: block;
+}
+
+.collapsed #icon_right {
+  display: block;
+}
+
+.expanded #icon_right {
+  display: none;
+}
+
+/* 
+    .expanded-caption 
+    is the text that gets shown for each item when the menu is in the expanded state 
+*/
+.collapsed-caption {
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.3em;
+  font-weight: 800;
+  text-align: center;
+  height: 28px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+.expanded-caption {
+  color: #fff;
+  margin-left: 8px;
+  padding-right: 20px;
+  font-size: 14px;
+}
+
+.collapsed .expanded-caption,
+.collapsed .expanded-icon {
+  display: none;
+}
+
+.expanded .expanded-caption,
+.expanded .expanded-icon {
+  display: block;
+}
+.collapsed .collapsed-caption {
+  display: block;
+}
+
+.expanded .collapsed-caption {
+  display: none;
+}
+/* 
+    .tb-menu-item: 
+    Defines the general appearance and behavior of a menu item 
+*/
+.tb-menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border-bottom: 1px solid #fff; */
+  cursor: pointer;
+  flex: 1;
+  padding: 10px 0;
+}
+
+.expanded .tb-menu-item {
+  justify-content: left;
+}
+
+.tb-menu-item:link {
+  text-decoration: none;
+}
+
+.tb-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.tb-menu-item:visited {
+  text-decoration: none;
+}
+
+/* 
+    .tb-item-row: 
+    Parent container for a row of two menu items that are two across 
+*/
+.tb-item-row {
+  display: flex;
+}
+
+/* 
+    .tb-item-left:
+    Adds a border to the menu item on the left-hand side of a row of two (.tb-item-row) */
+.tb-item-left {
+  border-right: 1px solid #fff;
+}
+
+/*
+    .tb-menu-icon
+    The img element that displays a specific menu item 
+    */
+.tb-menu-icon {
+  height: 28px;
+}
+
+.expanded .tb-menu-icon {
+  margin-left: 10px;
+}
+
+#expand_item {
+  height: 30px;
+  border: none !important;
+  justify-content: flex-end;
+  padding-right: 14px;
+}
+
+#expand_item .tb-menu-icon {
+  height: 20px;
+}
+
+/* home_item
+ The menu item for the home icon. It gets a specific height. Calculated based on the height of the top navigation bar
+ */
+#home_item {
+}
+
+/* Search */
+/* Search menu item. Only shown in collapsed view */
+.expanded #search_item {
+  display: none;
+}
+
+.collapsed #search_item {
+  display: flex;
+}
+
+/* Search input. Only shown in expanded view */
+.expanded #search_item_expanded {
+  display: flex;
+}
+
+.collapsed #search_item_expanded {
+  display: none;
+}
+
+.expanded #search_input_div {
+  flex: 1;
+  display: flex;
+  padding: 14px;
+  position: relative;
+}
+
+.expanded #search_input {
+  flex: 1;
+  height: 40px;
+  width: 0;
+  min-width: 0;
+}
+
+.expanded #search_icon_dark {
+  position: absolute;
+  right: 20px;
+  top: 24px;
+  pointer-events: none;
+  width: 20px;
+}
+
+/* .tb-main
+    Outer container for the main page content. Uses margins to align the content to not overlap the top and side menu bars.
+*/
+.tb-main {
+  margin-top: 170px;
+  margin-left: 65px;
+}
+
+/* .tb-main-inner
+    Inner container for the main page content. Controls the margin and padding of the inner content
+    */
+.tb-main-inner {
+  /* max-width: 1803px; */
+  padding: 7px;
+  margin: auto;
+}
+
+/* ============== Content Panels  ============== */
+/* Content panels are the individual modules that can contain content. They all have their own header, body, and footer classes */
+/* .tb-panel
+    The outer div of a content panel. Used to define content panels.
+    */
+
+/* .tb-header
+    Defines the header appearence of a content panel
+    */
+
+/* .tb-circle
+    A small circular object that appears in the .tb-panel-footer of some elements. Used to denote paging.
+    */
+.tb-circle {
+  width: 6px;
+  height: 6px;
+  border-radius: 6px;
+  border: 1px solid #fff;
+  margin: 0 2px;
+}
+
+/* .filled
+    Add the .filled class to a .tb-circle for it to be filled in
+*/
+.tb-circle.filled {
+  background-color: #fff;
+}
+
+/* -- Special case panels -- */
+/* Defines the appearance and behavior or special panels that were in the design. */
+/* Actions panel
+    The actions panel is divided into three sections as per the design: a Top, bottom left, and bottom right. */
+.actions-panel-top {
+  flex: 1;
+  padding: 7px 15px;
+}
+
+.actions-panel-bottom {
+  display: flex;
+  flex: 1;
+  background: orangered;
+  color: #fff;
+}
+
+.actions-panel-left {
+  flex: 1;
+  border-right: 1px solid #fff;
+  padding: 7px 15px;
+}
+
+.actions-panel-right {
+  flex: 1;
+  padding: 7px 15px;
+}
+
+/* Enforcement panel 
+    Enforcement panel has two columns, which collapse into their own rows when viewed in mobile.
+*/
+.enforcement-container {
+  display: flex;
+  flex: 1;
+}
+
+.enforcement-left {
+  flex: 1;
+}
+
+.enforcement-right {
+  flex: 2;
+}
+
+/* Responsive Rows:
+    These divs contain the content of the three main sections of the design. The screen size controls how these divs render the panels inside them.
+*/
+#flex_row_1 {
+  display: flex;
+  flex-direction: column;
+}
+
+#flex_row_2 {
+  display: flex;
+}
+
+#flex_row_3 {
+  display: flex;
+}
+
+/* --- Page Footer ---
+    The text and links at the bottom of the content container.
+*/
+/* #footer
+    The main div of the bottom footer
+    */
+#footer {
+  font-size: 0.75em;
+  color: #444;
+  text-align: center;
+  margin-top: 7px;
+}
+
+/* footer links */
+/* Bottom links in the footer */
+#footer a:link,
+#footer a:visited {
+  color: #444;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+#footer a:hover {
+  color: #222;
+  text-decoration: underline;
+}
+
+/* Overlays */
+/* The content that is displayed over everything else in certain cases */
+/* control classes:
+*
+
+    .dialog-close - any element with this class will close the dialog when clicked
+    .show-dialog - any element with this class will show the dialog. Use the data-target property to specify the id of the dialog you wish to show.
+
+*/
+/* The main overlay container */
+#tb_overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(60, 60, 60, 0.7);
+}
+
+/* .tb-dialog */
+/* The inner container for dialog boxes that appear in the overlay */
+.tb-dialog {
+  max-width: 580px;
+  margin: 200px auto 0 auto;
+  display: none;
+}
+
+.tb-overlay-step {
+  display: none;
+}
+
+/* .tb-dialog-header */
+/* Header content that goes inside a dialog box */
+.tb-dialog-header {
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  background-color: #fff;
+  padding: 24px 16px;
+  margin: 0 16px;
+  text-align: center;
+}
+
+/* .tb-dialog-content */
+/* the main content area of a dialog box */
+.tb-dialog-body {
+  padding: 20px;
+  background-color: #e6e3d8;
+  margin: 0 16px;
+}
+
+.tb-dialog input {
+  width: 100%;
+  height: 30px;
+  margin: 5px 0px;
+  border: 0;
+}
+
+/* .tb-dialog-button */
+/* The orange buttons that are inside the dialog box */
+.tb-dialog-btn {
+  padding: 8px 16px;
+  text-align: center;
+  color: #fff;
+  background-color: orangered;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* #dialog_close */
+/* The close button for the dialogs, which is rendered in the top right of the page */
+#dialog_close {
+  position: absolute;
+  top: 100px;
+  right: 150px;
+  width: 50px;
+  height: 50px;
+  background-image: url(./../img/icons/icon_x.svg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+/* Back, Continue buttons for the tutorial */
+.tutorial-btn {
+  text-align: center;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  width: 200px;
+  background: rgba(80, 80, 80, 0.7);
+  margin: 10px;
+}
+
+.tutorial-btn:hover {
+  background: #505050;
+  cursor: pointer;
+}
+
+/* The circles that appear below dialog content to indicate which section you are viewing */
+.tutorial-indicator {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  border: 1px solid #fff;
+  margin: 4px;
+}
+
+.tutorial-indicator.active {
+  background-color: #fff;
+}
+
+/* The images that contain the tutorial text for each step */
+.tutorial-text {
+  width: 40%;
+  margin: auto;
+}
+
+#step1_arrow1 {
+  width: 20%;
+  margin-left: 110px;
+}
+
+#step2_arrow1 {
+  width: 20%;
+  margin-left: 55%;
+  margin-top: 20px;
+}
+
+/* The inner content of the login dialog */
+#login_inner {
+  display: flex;
+  padding: 40px 20px;
+}
+
+/* The links below the login form */
+.dialog-link:link,
+.dialog-link:visited {
+  color: #464343;
+  text-decoration: underline;
+}
+
+/* the container for the continue/back buttons */
+.tutorial-bottom {
+  position: absolute;
+  /*left: 0; right: 0; bottom: 40%;*/
+  left: 0;
+  right: 0;
+  top: 600px;
+}
+
+/* ============== Media Queries  ============== */
+/* (device-specific breakpoints): 
+    These queries control the behavior and appearance of certain elements based on the screen size.
+     We define a desktop, tablet, and mobile screen size. 
+*/
+/* ============== Mobile  ============== */
+@media only screen and (max-width: 595px) {
+  /* Responsive Design: Specify a smaller height for the top nav */
+  .tb-nav {
+    padding-left: 0px;
+    height: 50px;
+  }
+
+  .tb-nav-inner {
+    height: 50px;
+  }
+
+  /* Responsive Design: Adjust main content margins for mobile view */
+  .tb-main {
+    margin-top: 50px;
+    margin-left: 0px;
+  }
+
+  /* Responsive Design: Collapse side menu's menu items into a single column in mobile view */
+  .tb-item-row {
+    flex-direction: column;
+  }
+
+  .tb-item-left {
+    border-right: none;
+  }
+
+  /* Responsive Design: Collapse enforcement panel's content to rows when in mobile view */
+  .enforcement-container {
+    flex-direction: column;
+  }
+
+  #expand_item {
+    /* height: 50px; */
+    justify-content: center;
+  }
+
+  /* Responsive Design: Adjust sizing and layout properties for various page elements */
+  #tb_menu.collapsed {
+    width: 0px;
+  }
+
+  #tb_menu.expanded {
+    width: 320px;
+  }
+
+  #expand_item {
+    padding-right: 0;
+  }
+
+  #flex_row_1 {
+    display: none;
+  }
+
+  #flex_row_2 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #flex_row_3 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #profile_actions {
+    display: none;
+  }
+
+  #logo_text {
+    bottom: 8px;
+    margin-left: -40px;
+    font-size: 1.6em;
+    font-weight: 600;
+  }
+
+  #item_hamburger {
+    display: flex;
+  }
+
+  .tutorial-text {
+    width: 90%;
+  }
+
+  #step1_arrow1 {
+    width: 20%;
+    margin-left: 55px;
+    margin-top: 20px;
+  }
+
+  #login_inner {
+    flex-direction: column;
+  }
+
+  #dialog_close {
+    top: 50px;
+  }
+
+  .tb-dialog {
+    margin-top: 140px;
+  }
+}
+/* ============== Tablet  ============== */
+
+@media only screen and (min-width: 595px) and (max-width: 1224px) {
+  /* Responsive Design: Specify a smaller height for the top nav */
+  .tb-nav {
+    padding-left: 55px;
+    height: 50px;
+  }
+
+  .tb-nav-inner {
+    height: 50px;
+  }
+
+  /* Responsive Design: Adjust main content margins for tablet view */
+  .tb-main {
+    margin-top: 50px;
+    margin-left: 55px;
+  }
+
+  /* Responsive Design: Collapse side menu's menu items into a single column in tablet view */
+  .tb-item-row {
+    flex-direction: column;
+  }
+
+  .tb-item-left {
+    border-right: none;
+  }
+
+  #expand_item {
+    /* height: 50px; */
+    justify-content: center;
+  }
+
+  /* Adjust sizing and layout properties for various page elements */
+  #tb_menu.collapsed {
+    width: 55px;
+  }
+
+  #tb_menu.expanded {
+    width: 300px;
+  }
+
+  #expand_item {
+    padding-right: 0;
+  }
+
+  #flex_row_1 {
+    display: none;
+  }
+
+  #flex_row_2 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #flex_row_3 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #profile_actions {
+    display: none;
+  }
+
+  #logo_text {
+    bottom: 8px;
+    margin-left: -40px;
+    font-size: 0.6em;
+    font-weight: 600;
+  }
+
+  #item_hamburger {
+    display: none;
+  }
+
+  .tutorial-text {
+    width: 80%;
+  }
+
+  #step1_arrow1 {
+    width: 20%;
+    margin-left: 55px;
+  }
+
+  #step2_arrow1 {
+    width: 20%;
+    margin-left: 65%;
+    margin-top: 20px;
+  }
+}
+/* ============== Desktop  ============== */
+@media only screen and (min-width: 1224px) {
+  #tb_menu.collapsed {
+    width: 65px;
+  }
+
+  #tb_menu.expanded {
+    width: 215px;
+    box-shadow: 10px 10px 20px 0px rgb(0, 0, 0, 0.2);
+  }
+
+  #flex_row_1 {
+    display: flex;
+  }
+
+  #flex_row_2 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #flex_row_3 {
+    display: none;
+  }
+
+  #profile_actions {
+    display: block;
+  }
+
+  #item_hamburger {
+    display: none;
+  }
+}
+/* breakpoints for the continue/back buttons */
+@media (max-height: 1100px) {
+  .tutorial-bottom {
+    bottom: 12%;
+  }
+}
+
+@media (max-height: 700px) {
+  .tutorial-bottom {
+    bottom: 8%;
+  }
+}
+
+@media (max-height: 600px) {
+  .tutorial-bottom {
+    bottom: 1%;
+  }
+}
+
+@media (min-width: 1224px) {
+  .tutorial-bottom {
+    bottom: 25%;
+  }
+}
+
+img.window-white-ico {
+  background: url(./img/window-white-ico.svg) no-repeat;
+  height: 20px;
+  width: 20px;
+}
+
+img.dark-cross-ico {
+  background: url(./img/dark-cross.svg) no-repeat;
+  height: 20px;
+  width: 20px;
+}
+
+img.green-tick-ico {
+  content: url(./img/green-tick.svg);
+}
+
+img.orange-cross-ico {
+  content: url(./img/orange-cross.svg);
+}
+
+img.purple-circle-ico {
+  content: url(./img/purple-circle.svg);
+}
+
+img.thermometer {
+  content: url(./img/blank-thermometer.svg);
+}
+
+img.mail {
+  content: url(./img/mail-ico.svg);
+}
+
+img.guidance {
+  content: url(./img/agency-guidance-ico.svg);
+}
+
+img.target {
+  content: url(./img/target-ico.svg);
+}
+
+img.calculator {
+  content: url(./img/calculator-ico.svg);
+}
+
+img.eye {
+  content: url(./img/eye-ico.svg);
+}
+
+img.globe {
+  content: url(./img/globe-ico.svg);
+}
+
+img.cases {
+  content: url(./img/enforcement-cases-ico.svg);
+}
+
+img.home {
+  content: url(./img/home-ico.svg);
+}
+
+img.hamburger {
+  content: url(./img/hamburger-menu-ico.svg);
+}
+
+img.search-white {
+  content: url(./img/search-white-ico.svg);
+}

@@ -1,0 +1,112 @@
+.header-search .select-wrapper{
+    position: relative;
+    height: 38px;
+}
+.header-search .k-autocomplete>.k-i-close, .k-multiselect-wrap>.k-i-close {
+ top: 27px !important;
+}
+.header-search .select__trigger{
+    border-left: 1px solid lightgrey;
+}
+.header-search .k-textbox{
+    height: 42px !important;
+    max-height: 42px !important;
+    border-radius: 3px;
+}
+.select-wrapper {
+    position: relative;
+    user-select: none;
+    width: 100%;
+    color: #464343;
+    font-family: "aktiv-grotesk", Arial, sans-serif;
+    font-size: 14px;
+    width: 170px;
+    background: white;
+    height: 42px;
+    border-radius: 3px;
+}
+.select {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.select__trigger {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 8px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.custom-options {
+    position: absolute;
+    display: block;
+    top: 100%;
+    left: 0;
+    right: 0;
+    transition: all 0.5s;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 2;
+    background: #fff;
+    box-shadow: 0 14px 30px rgba(0,0,0,0.2);
+    font-weight: normal !important;
+}
+.select.open .custom-options {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
+}
+.custom-option {
+    position: relative;
+    display: block;
+    padding: 5px 10px;
+    color: #464343;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.custom-option:hover {
+    cursor: pointer;
+    color:$white;
+    background: var(--main);
+}
+.custom-option.selected {
+    color:$white;
+    background: var(--main);
+}
+.arrow {
+    position: relative;
+    height: 6px;
+    width: 6px;
+}
+.arrow::before, .arrow::after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    width: 0.15rem;
+    height: 100%;
+    transition: all 0.5s;
+}
+.arrow::before {
+    left: -3px;
+    transform: rotate(-45deg);
+    background-color: #464343;
+}
+.arrow::after {
+    left: 1px;
+    transform: rotate(45deg);
+    background-color: #464343;
+}
+.open .arrow::before {
+    // left: -5px;
+    transform: rotate(45deg);
+}
+.open .arrow::after {
+    // left: 5px;
+    transform: rotate(-45deg);
+}
+.k-autocomplete, .k-dropdown-wrap.k-state-default, .k-numeric-wrap.k-state-default, .k-picker-wrap.k-state-default{
+border-radius:4px;
+}

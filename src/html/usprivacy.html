@@ -1,0 +1,369 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-store, max-age=0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="OverRuled presented by Akin Gump.">
+    <meta name="author" content="Akin Gump IT Solutions">
+    <link id="icon" rel="icon" sizes="16x16 32x32 64x64" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://use.typekit.net/irw3akf.css">
+    <script type="text/javascript">
+
+        if (_isIE()) {
+            var redirectUrl = window.location.href;
+            window.location.href = "IncompatibleBrowser.html?redirectUrl=" + redirectUrl;
+        }
+
+        function _isIE() {
+            var ua = window.navigator.userAgent;
+
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+                // IE 10 or older => return version number
+                return true;
+            }
+
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+                // IE 11 => return version number
+                return true
+            }
+
+            // other browser
+            return false;
+        }
+    </script>
+</head>
+<body>
+
+
+    <!--<nav class="sidenav navbar navbar-vertical nv-pt-0 fixed fixed-left  navbar-expand-xs navbar-primary" id="sidenav-main">
+
+    </nav>-->
+    <div class="main-content" id="panel" style="display: none;">
+        <div class="header">
+        </div>
+        <div class="row flex-grow-1 overflow-hidden  main mt-1">
+            
+            <div id="centerDiv" style="width:100vw;" class="col mh-100 overflow-auto py-2 ml-2 mr-2">
+                
+                <div id="mainTabs" style="width:98%" class="ml-4 mr-4">
+                    <ul>
+                        <li class="mapTab k-state-active">
+                            US Map
+                        </li>
+                        <li class="comparreTab">
+                            Compare
+                        </li>
+
+                    </ul>
+                    <div class="tab" id="mapTab">
+                        <div id="usMap" class="ml-2 mr-2" style="width: 100%; height: 63vh;">
+
+                        </div>
+                    </div>
+                    <div class="tab" id="compareTab" style="height: 63vh;">
+                        <span class="h3 italic" id="compareInstructions">
+                            Please use the map to select states and then click the "+ Compare" button to add up to 5 states to compare their privacy laws.
+                        </span>
+                        <div class="ml-2 mr-2" id="compareContainer" style="display: none;">
+                            <div class="row sticky-top opaque  h3" id="compareStateName">
+                                <div class="col-2"></div>
+                            </div>
+                            <div class="row" id="compareButtons">
+                                <div class="col-2"></div>
+                            </div>
+                            <div class="row bg-dark text-white">
+                                <div class="col col-form-label-lg">
+                                    Personal Information Definition
+                                </div>
+                            </div>
+                            <div class="row" id="pi-ssn">
+                                <div class="col-2 col-form-label font-weight-bold">Name + SSN</div>
+
+                            </div>
+                            <div class="row alt-row" id="pi-license">
+                                <div class="col-2 col-form-label font-weight-bold">Name + License #</div>
+
+                            </div>
+                            <div class="row" id="pi-govt">
+                                <div class="col-2 col-form-label font-weight-bold">Name + Other Govt. Issued #</div>
+
+                            </div>
+                            <div class="row alt-row" id="pi-account">
+                                <div class="col-2 col-form-label font-weight-bold">Name + Account #/Card # &amp; access code or password</div>
+
+                            </div>
+                            <div class="row " id="pi-medical">
+                                <div class="col-2 col-form-label font-weight-bold">Name + Medical Information</div>
+
+                            </div>
+                            <div class="row alt-row" id="pi-health">
+                                <div class="col-2 col-form-label font-weight-bold">Name + Health Insurance Information</div>
+
+                            </div>
+                            <div class="row " id="pi-dna">
+                                <div class="col-2 col-form-label font-weight-bold">Name + DNA Profile</div>
+
+                            </div>
+                            <div class="row alt-row" data-field="pi-biometric">
+                                <div class="col-2 col-form-label font-weight-bold">Name + Biometric Data</div>
+
+                            </div>
+                            <div class="row " id="pi-email">
+                                <div class="col-2 col-form-label font-weight-bold">User name or Email &amp; Password or Security Code</div>
+
+                            </div>
+                            <div class="row alt-row" id="pi-other">
+                                <div class="col-2 col-form-label font-weight-bold">Other</div>
+
+                            </div>
+                        </div>
+                        </div>
+                </div>
+                
+            </div>
+
+            <div class="fixed-right sidebar-toggle-buttons right" id="rightSidebar-buttons" style="display: none;">
+                <button class="navbar-toggler side-bar-toggler side-bar-right-toggler  mr-1" type="button" data-toggle="collapse" data-target="#rightSidebar" aria-controls="rightSidebar" aria-expanded="false" aria-label="Toggle Sanctions" title="Toggle Sanctions">
+
+                    <i class="fa fa-chevron-circle-right"></i>
+                    <i class="fa fa-chevron-circle-left"></i>
+                </button>
+            </div>
+            <div class="fixed-right side-bar-right mh-100 overflow-auto mr-1 wide40">
+                <div class="collapse " id="rightSidebar">
+                    <div id="intro" class="ml-1 side-bar mr-3">
+                        <p class="bold font-weight-bolder">
+                            <b>
+                                The number of data protection and cybersecurity laws that exist across the globe continues to grow rapidly. These laws are often inconsistent and sometimes even conflict with one another, increasing regulatory burdens on covered entities. Certain laws are extraterritorial and apply not just to entities that are located in a particular jurisdiction. Some jurisdictions have multiple laws that cut across different industries, resulting in entities confronting layers of compliance obligations. This portal is part of an ongoing project to present the details of the most active laws and to synthesize key privacy questions across multiple statutes.
+                            </b>
+                        </p>
+                        
+                        <p>
+                            The tool currently captures information across an array of data protection and cybersecurity laws and regulations in the United States, and will evolve to include key international laws and regulations. This information can help you understand existing legal obligations of entities in a particular jurisdiction and the rights of residents or individuals residing in that jurisdiction.   If you would like more information on a specific law that has not yet been analyzed, please contact us.
+                        </p>
+                        <p>
+                            <b><i>For now, please click on a state to get started.</i></b>
+                        </p>
+                    </div>
+
+                    <div class="ml-1 side-bar mr-3" id="regionDetails" style="height: 95%; display: none;">
+                        <div class="sticky-top opaque">
+                            <div class="row">
+                                <div class="col">
+                                    <span id="stateName" data-state class="h3 mt-2 mb-2">
+
+                                    </span>
+                                </div>
+                                <div class="col text-right">
+                                    <button id="addToCompare" class="btn btn-icon btn-primary" type="button" title="Add to Compare" aria-label="Add to Compare">
+                                        <span class="btn-inner--icon"><i class="fa fa-plus"></i></span>
+                                        <span class="btn-inner--text">Compare</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="detailTabs" class="tabstrip90PctH" style="width:98%">
+                            <ul>
+                                <li class="overviewTab k-state-active">
+                                    Overview
+                                </li>
+                                <li class="consumerTab">
+                                    Consumer Notice
+                                </li>
+                                <li class="regulatorTab">
+                                    AG/Regulator Notice
+                                </li>
+                                <li class="creditTab">
+                                    Credit Agency Notice
+                                </li>
+                            </ul>
+                            <div class="tab" id="overview" style="height: 60vh;">
+                                <div class="ml-2 mr-2">
+                                    <div class="row  bg-dark text-white text-center  ">
+                                        <div class="col col-form-label-lg">
+                                            Basics
+                                        </div>
+                                    </div>
+                                    <div class="row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Statutory Citation</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="overview_statutorycitation"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row">
+                                        <div class="col-3 col-form-label font-weight-bold">Last Updated</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="overview_lastupdated"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row mt-3 bg-dark text-white text-center border-top border-bottom">
+                                        <div class="col col-form-label-lg">
+                                            Key Definitions
+                                        </div>
+                                    </div>
+                                    <div class="row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Personal Information</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="overview_personalinformation"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row">
+                                        <div class="col-3 col-form-label font-weight-bold">Breach</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="overview_breach"></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="tab" id="consumer" style="height: 60vh;">
+                                <div class="mr-2 ml-2">
+                                    <div class="row  bg-dark text-white text-center  ">
+                                        <div class="col col-form-label-lg">
+                                            Consumer Notice
+                                        </div>
+                                    </div>
+                                    <div class="row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Timing</div>
+                                        <div class="col-7  col-form-label ">
+                                            <div id="consumer_timing"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row  ">
+                                        <div class="col-3 col-form-label font-weight-bold">Method of Delivery</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="consumer_methodofdelivery"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3 col-form-label font-weight-bold">Required Content</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="consumer_requiredcontent"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row  alt-row">
+                                        <div class="col-3 col-form-label font-weight-bold">Notable or Unique Requriements</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="consumer_notablerequirements"></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="tab" id="regulator" style="height: 60vh;">
+
+                                <div class="mr-2 ml-2">
+                                    <div class="row  bg-dark text-white text-center  ">
+                                        <div class="col col-form-label-lg">
+                                            AG/Regulator Notice
+                                        </div>
+                                    </div>
+                                    <div class="row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Notice Required</div>
+                                        <div class="col-7  ">
+                                            <div id="regulator_notice"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Party to be Notified</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_partynotify"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3 col-form-label font-weight-bold">Threshold for Notice</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_threshold" class="font-weight-bold"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Threshold Language</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_thresholdlanguage"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3 col-form-label font-weight-bold">Notice Method</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_noticemethod"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Required Content</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_requiredcontent"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3 col-form-label font-weight-bold">Timing from breach/discovery</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_timing"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Timing as compared to consumer notice</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="regulator_timingcompared"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab" id="credit" style="height: 60vh;">
+                                <div class="mr-2 ml-2">
+                                    <div class="row  bg-dark text-white text-center  ">
+                                        <div class="col col-form-label-lg">
+                                            Credit Agency Notice
+                                        </div>
+                                    </div>
+                                    <div class="row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Notice Required</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="credit_notice"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Party to be Notified</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="credit_partynotify"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3 col-form-label font-weight-bold">Threshold for Notice</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="credit_threshold" class="font-weight-bold"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row alt-row ">
+                                        <div class="col-3 col-form-label font-weight-bold">Threshold Language</div>
+                                        <div class="col-7 col-form-label">
+                                            <div id="credit_thresholdlanguage"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+        </div>
+
+
+    </div>
+
+
+    <script src="js/usprivacy.js" type="text/javascript"></script>
+
+</body>
+</html>

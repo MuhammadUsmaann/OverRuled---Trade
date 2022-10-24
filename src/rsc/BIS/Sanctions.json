@@ -1,0 +1,1774 @@
+{
+  "listings": {
+    "SearchLogID": -1,
+    "Results": [
+      {
+        "SanctioningAgency": 2,
+        "SanctionID": 4624,
+        "SanctionNumber": "E2736",
+        "EnforcementDate": "2022-08-02T00:00:00",
+        "RespondentName": "Empresa de Transporte Aéreocargo del Sur, S.A.",
+        "RespondentNationalities": "Venezuela",
+        "RespondentCountryCodes": " VE",
+        "Destinations": "Iran; Russia; Venezuela",
+        "DestinationCountryCodes": " IR | RU | VE",
+        "StatutoryRegimes": "ECRA",
+        "RegulatoryRegimes": "EAR",
+        "Industries": "Aerospace, Shipping & Transportation",
+        "ChargingVehicles": "766.24",
+        "RegulatoryProvisions": "764.3(a)(2); 736.2(b)(10)",
+        "AggravatingFactors": "",
+        "MitigatingFactors": "",
+        "ItemTypes": "Systems, Equipment, and Components",
+        "TargetedPersons": "",
+        "NumberOfViolations": null,
+        "VoluntaryDisclosure": 0,
+        "VoluntaryDisclosureDisplay": "No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": 1,
+        "DenialOrderDisplay": "Yes",
+        "SettlementAmount": 0.0000,
+        "Source": "",
+        "AlternativeSource": "E2736.pdf",
+        "LocalSource": "/sanctions/BIS/E2736.pdf",
+        "Quadrant": "VNEU"
+      },
+      {
+        "SanctioningAgency": 2,
+        "SanctionID": 4623,
+        "SanctionNumber": "E2735",
+        "EnforcementDate": "2022-08-01T00:00:00",
+        "RespondentName": "Luis Fernando Gracia",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "Mexico",
+        "DestinationCountryCodes": " MX",
+        "StatutoryRegimes": "ECRA",
+        "RegulatoryRegimes": "EAR",
+        "Industries": "Individual; Defense",
+        "ChargingVehicles": "764.2(b)",
+        "RegulatoryProvisions": "764.2(b); 742.7; 766.23; 766.3; 766.18(a); 766.17(c); 766.18(c)",
+        "AggravatingFactors": "",
+        "MitigatingFactors": "",
+        "ItemTypes": "Systems, Equipment, and Components",
+        "TargetedPersons": "",
+        "NumberOfViolations": 1,
+        "VoluntaryDisclosure": 0,
+        "VoluntaryDisclosureDisplay": "No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": 1,
+        "DenialOrderDisplay": "Yes",
+        "SettlementAmount": 0.0000,
+        "Source": "",
+        "AlternativeSource": "E2735.pdf",
+        "LocalSource": "/sanctions/BIS/E2735.pdf",
+        "Quadrant": "VNEU"
+      },
+      {
+        "SanctioningAgency": 2,
+        "SanctionID": 4621,
+        "SanctionNumber": "E2733",
+        "EnforcementDate": "2022-07-18T00:00:00",
+        "RespondentName": "Ismael Gomez, Jr.",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "Mexico",
+        "DestinationCountryCodes": " MX",
+        "StatutoryRegimes": "AECA",
+        "RegulatoryRegimes": "EAR",
+        "Industries": "Individual; Defense",
+        "ChargingVehicles": "766.25",
+        "RegulatoryProvisions": "50 U.S.C. 1760(e); 18 U.S.C. 554(a); 50 U.S.C. 4819(e)",
+        "AggravatingFactors": "",
+        "MitigatingFactors": "",
+        "ItemTypes": "Systems, Equipment, and Components",
+        "TargetedPersons": "",
+        "NumberOfViolations": null,
+        "VoluntaryDisclosure": -1,
+        "VoluntaryDisclosureDisplay": "Unknown",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": 1,
+        "DenialOrderDisplay": "Yes",
+        "SettlementAmount": 0.0000,
+        "Source": "",
+        "AlternativeSource": "E2733.pdf",
+        "LocalSource": "/sanctions/BIS/E2733.pdf",
+        "Quadrant": "VUEU"
+      },
+      {
+        "SanctioningAgency": 2,
+        "SanctionID": 4622,
+        "SanctionNumber": "E2734",
+        "EnforcementDate": "2022-07-18T00:00:00",
+        "RespondentName": "Scott Douglas Browning",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "Netherlands",
+        "DestinationCountryCodes": " NL",
+        "StatutoryRegimes": "AECA",
+        "RegulatoryRegimes": "EAR",
+        "Industries": "Individual; Defense",
+        "ChargingVehicles": "766.25",
+        "RegulatoryProvisions": "50 U.S.C. 1760(e); 50 U.S.C. 4819(e)",
+        "AggravatingFactors": "",
+        "MitigatingFactors": "",
+        "ItemTypes": "Systems, Equipment, and Components",
+        "TargetedPersons": "",
+        "NumberOfViolations": null,
+        "VoluntaryDisclosure": 0,
+        "VoluntaryDisclosureDisplay": "No",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": 1,
+        "DenialOrderDisplay": "Yes",
+        "SettlementAmount": 0.0000,
+        "Source": "",
+        "AlternativeSource": "E2734.pdf",
+        "LocalSource": "/sanctions/BIS/E2734.pdf",
+        "Quadrant": "VNEU"
+      },
+      {
+        "SanctioningAgency": 2,
+        "SanctionID": 4616,
+        "SanctionNumber": "E2728",
+        "EnforcementDate": "2022-07-08T00:00:00",
+        "RespondentName": "Hassan Ali Moshir-Fatemi",
+        "RespondentNationalities": "United States",
+        "RespondentCountryCodes": " US",
+        "Destinations": "Iran",
+        "DestinationCountryCodes": " IR",
+        "StatutoryRegimes": "ECRA",
+        "RegulatoryRegimes": "EAR",
+        "Industries": "Financial Services; Individual; Consumer Goods",
+        "ChargingVehicles": "766.25",
+        "RegulatoryProvisions": "50 U.S.C. 1760(e); 50 U.S.C. 4819(e)",
+        "AggravatingFactors": "",
+        "MitigatingFactors": "",
+        "ItemTypes": "Systems, Equipment, and Components",
+        "TargetedPersons": "",
+        "NumberOfViolations": null,
+        "VoluntaryDisclosure": -1,
+        "VoluntaryDisclosureDisplay": "Unknown",
+        "EgregiousCase": -1,
+        "EgregiousCaseDisplay": "Unknown",
+        "DenialOrder": 1,
+        "DenialOrderDisplay": "Yes",
+        "SettlementAmount": 0.0000,
+        "Source": "",
+        "AlternativeSource": "E2728.pdf",
+        "LocalSource": "/sanctions/BIS/E2728.pdf",
+        "Quadrant": "VUEU"
+      }
+    ],
+    "Stats": {
+      "VoluntaryYEgregiousN": 0,
+      "VoluntaryNEgregiousN": 0,
+      "VoluntaryYEgregiousY": 0,
+      "VoluntaryNEgregiousY": 0,
+      "AverageNumberOfViolations": 1.0,
+      "AveragePenalty": 0.0000,
+      "TopMitigating": "",
+      "TopAggravating": ""
+    }
+  },
+  "details": [
+    {
+      "BISSanctionID": 4624,
+      "BISNumber": "E2736",
+      "EnforcementDate": "2022-08-02T00:00:00",
+      "CompanyOrIndividual": "C",
+      "Name": [
+        "Empresa de Transporte Aéreocargo del Sur, S.A."
+      ],
+      "AKA": [
+        "Aerocargo del Sur Transportation Company\nEMTRASUR "
+      ],
+      "KeyFacts": "On August 1, 2022, BIS issued a Temporarily Denial Order against Empresa de Transporte Aéreocargo del Sur, S.A. (a.k.a. &quot;Aerocargo del Sur Transportation Company&quot; and &quot;EMTRASUR&quot;) (“Respondent”) for a period of 180 days in relation to the information indicating that the Respondent is a subsidiary of Consorcio Venezolano de Industrias Aeronauticas Y Servicios Aereos, S.A., (a.k.a. CONVIASA), a Venezuelan state-owned airline that was added to the list of SDN on February 7, 2020. In or around October 2021, the Respondent engaged in conduct prohibited by a BIS-issued temporary denial order against Iranian airline Mahan Air (a.k.a. &quot;Mahan Airlines&quot; and &quot;Mahan Airways&quot;) and the Regulations by acquiring custody and/or control from Mahan Air of a U.S-origin Boeing 747 aircraft bearing manufacturer’s serial number 23413 (“MSN 23413”), an item subject to the EAR and classified under ECCN 9A991. In addition, the Respondent continued use of MSN 23413 on flights into Iran and Russia.\n",
+      "Source": "",
+      "AlternativeSource": "E2736.pdf",
+      "LocalSource": "/sanctions/bis/E2736.pdf",
+      "DatesOfConduct": [
+        "10/2021-8/2/2022"
+      ],
+      "Items": [
+        "Aircraft"
+      ],
+      "TransactionValue": null,
+      "NumberOfViolations": null,
+      "VoluntaryDisclosure": 0,
+      "VoluntaryDisclosureDisplay": "No",
+      "SettlementAgreement": 0,
+      "SettlementAgreementDisplay": "No",
+      "SettlementAmount": 0.0000,
+      "AdditionalMonetaryTerms": "No",
+      "NonMonetaryTerms": "No",
+      "SuspendedPenalty": 0,
+      "SuspendedPenaltyDisplay": "No",
+      "DenialOrder": 1,
+      "DenialOrderDisplay": "Yes",
+      "DenialOrderTerms": "180-Day Denial Order",
+      "DenialOrderOnly": 1,
+      "DenialOrderOnlyDisplay": "Yes",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-08-09T11:26:59",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-09-20T14:46:32",
+      "ChargingVehicles": [
+        {
+          "RegulatoryProvisionID": 1378,
+          "Display": "766.24",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 1441,
+          "Display": "764.3(a)(2)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 1610,
+          "Display": "736.2(b)(10)",
+          "Other": null
+        }
+      ],
+      "Agencies": [
+        {
+          "LookupType": 12,
+          "LookupID": 10,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 41,
+          "Display": "Aerospace, Shipping & Transportation",
+          "Other": null
+        }
+      ],
+      "ItemTypes": [
+        {
+          "LookupType": 13,
+          "LookupID": 1,
+          "Display": "Systems, Equipment, and Components",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 110,
+          "Display": "EAR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 19,
+          "Display": "ECRA",
+          "Other": null
+        }
+      ],
+      "TransactionTypes": [
+        {
+          "LookupType": 14,
+          "LookupID": 1,
+          "Display": "Export",
+          "Other": null
+        },
+        {
+          "LookupType": 14,
+          "LookupID": 4,
+          "Display": "Reexport",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 1,
+          "Display": "Destination",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 3,
+          "Display": "End-User",
+          "Other": null
+        }
+      ],
+      "ReasonsForControl": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 2,
+          "CountryID": 185,
+          "Display": "Russia",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 185,
+            "CountryCode": "RU",
+            "CIACode": "RS  ",
+            "ISO3Code": "RUS",
+            "CountryName": "Russia",
+            "AlternateName": "Russian Federation",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 7,
+            "SDNEntityCount": 728,
+            "SDNOtherCount": 1158,
+            "ELCount": 649,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 14,
+            "NonProliferationCount": 19,
+            "CaptaCount": 10,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 10,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 80,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 11,
+            "SanctionRiskScore": 25396,
+            "SanctionRiskTier": 34414,
+            "ExportRiskScore": 9018,
+            "ExportRiskTier": 9,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 2,
+          "CountryID": 230,
+          "Display": "Venezuela",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 230,
+            "CountryCode": "VE",
+            "CIACode": "VE  ",
+            "ISO3Code": "VEN",
+            "CountryName": "Venezuela",
+            "AlternateName": "Venezuela, Bolivarian Republic of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 3,
+            "SDNEntityCount": 50,
+            "SDNOtherCount": 136,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 18,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 13,
+            "SanctionRiskScore": 8760,
+            "SanctionRiskTier": 12590,
+            "ExportRiskScore": 3830,
+            "ExportRiskTier": 7,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 230,
+          "Display": "Venezuela",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 230,
+            "CountryCode": "VE",
+            "CIACode": "VE  ",
+            "ISO3Code": "VEN",
+            "CountryName": "Venezuela",
+            "AlternateName": "Venezuela, Bolivarian Republic of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": false,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 3,
+            "SDNEntityCount": 50,
+            "SDNOtherCount": 136,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 18,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 13,
+            "SanctionRiskScore": 8760,
+            "SanctionRiskTier": 12590,
+            "ExportRiskScore": 3830,
+            "ExportRiskTier": 7,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "Transhipments": [
+        {
+          "CountryRole": 3,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        },
+        {
+          "CountryRole": 3,
+          "CountryID": 185,
+          "Display": "Russia",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 185,
+            "CountryCode": "RU",
+            "CIACode": "RS  ",
+            "ISO3Code": "RUS",
+            "CountryName": "Russia",
+            "AlternateName": "Russian Federation",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 7,
+            "SDNEntityCount": 728,
+            "SDNOtherCount": 1158,
+            "ELCount": 649,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 14,
+            "NonProliferationCount": 19,
+            "CaptaCount": 10,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 10,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 80,
+            "OFACProgram": true,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": false,
+            "MEU": true,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": true,
+            "ReasonsForControl": 11,
+            "SanctionRiskScore": 25396,
+            "SanctionRiskTier": 34414,
+            "ExportRiskScore": 9018,
+            "ExportRiskTier": 9,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "ECCNs": [
+        {
+          "ECCN": "9A991 "
+        }
+      ]
+    },
+    {
+      "BISSanctionID": 4623,
+      "BISNumber": "E2735",
+      "EnforcementDate": "2022-08-01T00:00:00",
+      "CompanyOrIndividual": "I",
+      "Name": [
+        "Luis Fernando Gracia"
+      ],
+      "AKA": [],
+      "KeyFacts": "On August 1, 2022, Luis Fernando Gracia (“Respondent”) agreed to 2-year denial order as part of a Settlement Agreement with BIS in relation to one violation of the Export Administration Regulations. Specifically, on or about August 28, 2018, the Respondent caused, aided, or abetted an attempted export from the United States to Mexico of 0A979 ballistic helmets and 0A987 rifle scopes, worth a total of $4,329, without the required BIS license (§ 764.2(b)).\nIn addition, the Respondent shall complete an internal audit of the export controls compliance program maintained by GE Equipos de Seguridad, which is located in Nogales, Arizona, and Sonora, Mexico. Further, the Respondent shall also complete export compliance training on the Regulations within twelve (12) months from the date of the Order.",
+      "Source": "",
+      "AlternativeSource": "E2735.pdf",
+      "LocalSource": "/sanctions/bis/E2735.pdf",
+      "DatesOfConduct": [
+        "08/28/2018"
+      ],
+      "Items": [
+        "Ballistic helmets\nRifle scopes"
+      ],
+      "TransactionValue": 4392.0000,
+      "NumberOfViolations": 1,
+      "VoluntaryDisclosure": 0,
+      "VoluntaryDisclosureDisplay": "No",
+      "SettlementAgreement": 1,
+      "SettlementAgreementDisplay": "Yes",
+      "SettlementAmount": 0.0000,
+      "AdditionalMonetaryTerms": "Complete an internal audit of the export controls compliance program maintained by GE Equipos de Seguridad, which is located in Nogales, Arizona, and Sonora, Mexico;\nComplete an export compliance training on the Regulations within twelve (12) months",
+      "NonMonetaryTerms": "Complete an internal audit of the export controls compliance program maintained by GE Equipos de Seguridad, which is located in Nogales, Arizona, and Sonora, Mexico;\nComplete an export compliance training on the Regulations within twelve (12) months",
+      "SuspendedPenalty": 0,
+      "SuspendedPenaltyDisplay": "No",
+      "DenialOrder": 1,
+      "DenialOrderDisplay": "Yes",
+      "DenialOrderTerms": "2-Year Denial Order",
+      "DenialOrderOnly": 0,
+      "DenialOrderOnlyDisplay": "No",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-08-09T11:01:40",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-08-11T17:22:32",
+      "ChargingVehicles": [
+        {
+          "RegulatoryProvisionID": 825,
+          "Display": "764.2(b)",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 825,
+          "Display": "764.2(b)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 847,
+          "Display": "742.7",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 1377,
+          "Display": "766.23",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2883,
+          "Display": "766.3",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2884,
+          "Display": "766.18(a)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2885,
+          "Display": "766.17(c)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2887,
+          "Display": "766.18(c)",
+          "Other": null
+        }
+      ],
+      "Agencies": [
+        {
+          "LookupType": 12,
+          "LookupID": 10,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 36,
+          "Display": "Individual",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "ItemTypes": [
+        {
+          "LookupType": 13,
+          "LookupID": 1,
+          "Display": "Systems, Equipment, and Components",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 110,
+          "Display": "EAR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 19,
+          "Display": "ECRA",
+          "Other": null
+        }
+      ],
+      "TransactionTypes": [
+        {
+          "LookupType": 14,
+          "LookupID": 1,
+          "Display": "Export",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 2,
+          "Display": "End-Use",
+          "Other": null
+        }
+      ],
+      "ReasonsForControl": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 151,
+          "Display": "Mexico",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 151,
+            "CountryCode": "MX",
+            "CIACode": "MX  ",
+            "ISO3Code": "MEX",
+            "CountryName": "Mexico",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 7,
+            "SDNEntityCount": 282,
+            "SDNOtherCount": 398,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 7,
+            "SanctionRiskScore": 6800,
+            "SanctionRiskTier": 7395,
+            "ExportRiskScore": 595,
+            "ExportRiskTier": 4,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "Transhipments": [],
+      "ECCNs": [
+        {
+          "ECCN": "0A979 "
+        },
+        {
+          "ECCN": "0A987 "
+        }
+      ]
+    },
+    {
+      "BISSanctionID": 4621,
+      "BISNumber": "E2733",
+      "EnforcementDate": "2022-07-18T00:00:00",
+      "CompanyOrIndividual": "I",
+      "Name": [
+        "Ismael Gomez, Jr."
+      ],
+      "AKA": [],
+      "KeyFacts": "On July 18, 2022, BIS issued a Denial Order against Ismael Gomez, Jr. (&quot;Respondent&quot;) for a period of 10 years in relation to violations of 18 U.S.C. § 554(a). Specifically, the Respondent was convicted of fraudulently and knowingly exporting and sending or attempting to export and send from the United States to Mexico, one thousand and ten (1,010) rounds of .223 caliber ammunition. The Respondent was sentenced to 46 months in prison, three years of supervised release, and a $100 assessment.",
+      "Source": "",
+      "AlternativeSource": "E2733.pdf",
+      "LocalSource": "/sanctions/bis/E2733.pdf",
+      "DatesOfConduct": [
+        "Unspecified"
+      ],
+      "Items": [
+        "Ammunition"
+      ],
+      "TransactionValue": null,
+      "NumberOfViolations": null,
+      "VoluntaryDisclosure": -1,
+      "VoluntaryDisclosureDisplay": "Unknown",
+      "SettlementAgreement": 0,
+      "SettlementAgreementDisplay": "No",
+      "SettlementAmount": 0.0000,
+      "AdditionalMonetaryTerms": "No",
+      "NonMonetaryTerms": "No",
+      "SuspendedPenalty": 0,
+      "SuspendedPenaltyDisplay": "No",
+      "DenialOrder": 1,
+      "DenialOrderDisplay": "Yes",
+      "DenialOrderTerms": "10-Year Denial Order",
+      "DenialOrderOnly": 1,
+      "DenialOrderOnlyDisplay": "Yes",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-08-08T16:02:22",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-08-11T17:22:40",
+      "ChargingVehicles": [
+        {
+          "RegulatoryProvisionID": 1379,
+          "Display": "766.25",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 39,
+          "Display": "50 U.S.C. 1760(e)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 1850,
+          "Display": "18 U.S.C. 554(a)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2881,
+          "Display": "50 U.S.C. 4819(e)",
+          "Other": null
+        }
+      ],
+      "Agencies": [
+        {
+          "LookupType": 12,
+          "LookupID": 10,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 36,
+          "Display": "Individual",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "ItemTypes": [
+        {
+          "LookupType": 13,
+          "LookupID": 1,
+          "Display": "Systems, Equipment, and Components",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 110,
+          "Display": "EAR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 18,
+          "Display": "AECA",
+          "Other": null
+        }
+      ],
+      "TransactionTypes": [
+        {
+          "LookupType": 14,
+          "LookupID": 1,
+          "Display": "Export",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 1,
+          "Display": "Destination",
+          "Other": null
+        },
+        {
+          "LookupType": 15,
+          "LookupID": 2,
+          "Display": "End-Use",
+          "Other": null
+        }
+      ],
+      "ReasonsForControl": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 151,
+          "Display": "Mexico",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 151,
+            "CountryCode": "MX",
+            "CIACode": "MX  ",
+            "ISO3Code": "MEX",
+            "CountryName": "Mexico",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 7,
+            "SDNEntityCount": 282,
+            "SDNOtherCount": 398,
+            "ELCount": 3,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 7,
+            "SanctionRiskScore": 6800,
+            "SanctionRiskTier": 7395,
+            "ExportRiskScore": 595,
+            "ExportRiskTier": 4,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "Transhipments": [],
+      "ECCNs": []
+    },
+    {
+      "BISSanctionID": 4622,
+      "BISNumber": "E2734",
+      "EnforcementDate": "2022-07-18T00:00:00",
+      "CompanyOrIndividual": "I",
+      "Name": [
+        "Scott Douglas Browning"
+      ],
+      "AKA": [],
+      "KeyFacts": "On July 18, 2022, BIS issued a Denial Order against Scott Douglas Browning (&quot;Respondent&quot;) for a period of 7 years in relation to violations of Section 38 of the Arms Export Control Act. Specifically, the Respondent was convicted of willfully exporting and causing to be exported from the United States to the Netherlands defense articles, that is, Image Intensifier Generation 3 MX-10130, Image Intensifier Generation 3 MX-10160, Image Intensifier Generation 3 MX-11769, and the BAE Systems OASYS SkeetIR Micro Thermal Imaging Monocular 640x480, which are all designated as defense articles on the United States Munitions List, without having first obtained from the Department of State a license. The Respondent was sentenced to probation, $100 assessment, and $1,854,000 restitution.",
+      "Source": "",
+      "AlternativeSource": "E2734.pdf",
+      "LocalSource": "/sanctions/bis/E2734.pdf",
+      "DatesOfConduct": [
+        "Unspecified"
+      ],
+      "Items": [
+        "Defense articles"
+      ],
+      "TransactionValue": null,
+      "NumberOfViolations": null,
+      "VoluntaryDisclosure": 0,
+      "VoluntaryDisclosureDisplay": "No",
+      "SettlementAgreement": 0,
+      "SettlementAgreementDisplay": "No",
+      "SettlementAmount": 0.0000,
+      "AdditionalMonetaryTerms": "No",
+      "NonMonetaryTerms": "No",
+      "SuspendedPenalty": 0,
+      "SuspendedPenaltyDisplay": "No",
+      "DenialOrder": 1,
+      "DenialOrderDisplay": "Yes",
+      "DenialOrderTerms": "7-Year Denial Order",
+      "DenialOrderOnly": 1,
+      "DenialOrderOnlyDisplay": "Yes",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-08-08T21:25:42",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-08-11T17:23:01",
+      "ChargingVehicles": [
+        {
+          "RegulatoryProvisionID": 1379,
+          "Display": "766.25",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 39,
+          "Display": "50 U.S.C. 1760(e)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2881,
+          "Display": "50 U.S.C. 4819(e)",
+          "Other": null
+        }
+      ],
+      "Agencies": [
+        {
+          "LookupType": 12,
+          "LookupID": 10,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 36,
+          "Display": "Individual",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 52,
+          "Display": "Defense",
+          "Other": null
+        }
+      ],
+      "ItemTypes": [
+        {
+          "LookupType": 13,
+          "LookupID": 1,
+          "Display": "Systems, Equipment, and Components",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 110,
+          "Display": "EAR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 18,
+          "Display": "AECA",
+          "Other": null
+        }
+      ],
+      "TransactionTypes": [
+        {
+          "LookupType": 14,
+          "LookupID": 1,
+          "Display": "Export",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 2,
+          "Display": "End-Use",
+          "Other": null
+        }
+      ],
+      "ReasonsForControl": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 160,
+          "Display": "Netherlands",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 160,
+            "CountryCode": "NL",
+            "CIACode": "NL  ",
+            "ISO3Code": "NLD",
+            "CountryName": "Netherlands",
+            "AlternateName": "",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": false,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 0,
+            "SDNEntityCount": 21,
+            "SDNOtherCount": 2,
+            "ELCount": 6,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 4,
+            "SanctionRiskScore": 240,
+            "SanctionRiskTier": 576,
+            "ExportRiskScore": 336,
+            "ExportRiskTier": 3,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "Transhipments": [],
+      "ECCNs": []
+    },
+    {
+      "BISSanctionID": 4616,
+      "BISNumber": "E2728",
+      "EnforcementDate": "2022-07-08T00:00:00",
+      "CompanyOrIndividual": "I",
+      "Name": [
+        "Hassan Ali Moshir-Fatemi"
+      ],
+      "AKA": [],
+      "KeyFacts": "On July 8, 2022, BIS issued a Denial Order against Hassan Ali Moshir-Fatemi (&quot;Respondent&quot;) for a period of 10 years in relation to violations of the International Emergency Economic Powers Act. Specifically, the Respondent was convicted of knowingly and willfully conspiring and agreeing to export, reexport, and supply, and causing to be exported, reexported, and supplied, directly and indirectly, goods and services from the United States to Iran; and engaging in transactions for the purpose of avoiding and evading the Iranian Transaction Sanctions Regulations, including financing and facilitating transactions by foreign persons where such transactions are prohibited by United States law, without having first obtained from the Department of the Treasury. As a result of his conviction, the Court sentenced the Respondent to 12 months and one day imprisonment, three years of supervised release, a $100 assessment and a fine of $50,000.",
+      "Source": "",
+      "AlternativeSource": "E2728.pdf",
+      "LocalSource": "/sanctions/bis/E2728.pdf",
+      "DatesOfConduct": [
+        "Unspecified"
+      ],
+      "Items": [
+        "Goods\nServices"
+      ],
+      "TransactionValue": null,
+      "NumberOfViolations": null,
+      "VoluntaryDisclosure": -1,
+      "VoluntaryDisclosureDisplay": "Unknown",
+      "SettlementAgreement": 0,
+      "SettlementAgreementDisplay": "No",
+      "SettlementAmount": 0.0000,
+      "AdditionalMonetaryTerms": "No",
+      "NonMonetaryTerms": "No",
+      "SuspendedPenalty": -1,
+      "SuspendedPenaltyDisplay": "Unknown",
+      "DenialOrder": 1,
+      "DenialOrderDisplay": "Yes",
+      "DenialOrderTerms": "10-Year Denial Order",
+      "DenialOrderOnly": 1,
+      "DenialOrderOnlyDisplay": "Yes",
+      "IncludeInMatrix": false,
+      "EnteredBy": "IMPORT",
+      "EnteredDate": "2022-08-08T14:28:02",
+      "ModifiedBy": "IMPORT",
+      "ModifiedDate": "2022-08-11T17:23:30",
+      "ChargingVehicles": [
+        {
+          "RegulatoryProvisionID": 1379,
+          "Display": "766.25",
+          "Other": null
+        }
+      ],
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 39,
+          "Display": "50 U.S.C. 1760(e)",
+          "Other": null
+        },
+        {
+          "RegulatoryProvisionID": 2881,
+          "Display": "50 U.S.C. 4819(e)",
+          "Other": null
+        }
+      ],
+      "Agencies": [
+        {
+          "LookupType": 12,
+          "LookupID": 10,
+          "Display": "Unknown",
+          "Other": null
+        }
+      ],
+      "Industries": [
+        {
+          "LookupType": 3,
+          "LookupID": 35,
+          "Display": "Financial Services",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 36,
+          "Display": "Individual",
+          "Other": null
+        },
+        {
+          "LookupType": 3,
+          "LookupID": 37,
+          "Display": "Consumer Goods",
+          "Other": null
+        }
+      ],
+      "ItemTypes": [
+        {
+          "LookupType": 13,
+          "LookupID": 1,
+          "Display": "Systems, Equipment, and Components",
+          "Other": null
+        }
+      ],
+      "RegulatoryRegimes": [
+        {
+          "LookupType": 6,
+          "LookupID": 110,
+          "Display": "EAR",
+          "Other": null
+        }
+      ],
+      "StatutoryRegimes": [
+        {
+          "LookupType": 7,
+          "LookupID": 19,
+          "Display": "ECRA",
+          "Other": null
+        }
+      ],
+      "TransactionTypes": [
+        {
+          "LookupType": 14,
+          "LookupID": 1,
+          "Display": "Export",
+          "Other": null
+        },
+        {
+          "LookupType": 14,
+          "LookupID": 4,
+          "Display": "Reexport",
+          "Other": null
+        }
+      ],
+      "ViolationTypes": [
+        {
+          "LookupType": 15,
+          "LookupID": 1,
+          "Display": "Destination",
+          "Other": null
+        }
+      ],
+      "ReasonsForControl": [],
+      "Destinations": [
+        {
+          "CountryRole": 2,
+          "CountryID": 103,
+          "Display": "Iran",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 103,
+            "CountryCode": "IR",
+            "CIACode": "IR  ",
+            "ISO3Code": "IRN",
+            "CountryName": "Iran",
+            "AlternateName": "Iran, Islamic Republic Of",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": true,
+            "isOFACDestination": true,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": false,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": true,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": true,
+            "DPLCount": 13,
+            "SDNEntityCount": 734,
+            "SDNOtherCount": 290,
+            "ELCount": 97,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 41,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 144,
+            "OFACProgram": true,
+            "SanctionedGovernment": true,
+            "ComprehensiveSanctions": true,
+            "FATFBlack": true,
+            "FATFGrey": false,
+            "EARGroupA": false,
+            "EARGroupD": true,
+            "EARGroupE": true,
+            "MEU": false,
+            "MIEU": true,
+            "ICTSAdversary": true,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 16,
+            "SanctionRiskScore": 33809,
+            "SanctionRiskTier": 45815,
+            "ExportRiskScore": 12006,
+            "ExportRiskTier": 10,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "RespondentNationalities": [
+        {
+          "CountryRole": 4,
+          "CountryID": 225,
+          "Display": "United States",
+          "Other": null,
+          "FullCountryInfo": {
+            "ID": 225,
+            "CountryCode": "US",
+            "CIACode": "US  ",
+            "ISO3Code": "USA",
+            "CountryName": "United States",
+            "AlternateName": "U.S.A.",
+            "AlternateName2": "",
+            "TransnationalOrganization1": null,
+            "TransnationalOrganization2": null,
+            "isOFACSanctioned": false,
+            "isOFACDestination": false,
+            "isOFACTranshipment": true,
+            "isOFACRespondent": true,
+            "isBISDestination": true,
+            "isBISTranshipment": true,
+            "isBISRespondent": true,
+            "isDDTCSanctioned126": false,
+            "isDDTCRespondent": false,
+            "isOFAC": true,
+            "isBIS": true,
+            "isDDTC": false,
+            "DPLCount": 339,
+            "SDNEntityCount": 59,
+            "SDNOtherCount": 13,
+            "ELCount": 0,
+            "SSICount": 0,
+            "ITARDebarredCount": 0,
+            "PLCCount": 0,
+            "UVLCount": 0,
+            "NonProliferationCount": 0,
+            "CaptaCount": 0,
+            "FSECount": 0,
+            "MEUCount": 0,
+            "NSMBSCount": 0,
+            "NSCCMCCount": 0,
+            "SecondaryBasisCount": 0,
+            "OFACProgram": false,
+            "SanctionedGovernment": false,
+            "ComprehensiveSanctions": false,
+            "FATFBlack": false,
+            "FATFGrey": false,
+            "EARGroupA": true,
+            "EARGroupD": false,
+            "EARGroupE": false,
+            "MEU": false,
+            "MIEU": false,
+            "ICTSAdversary": false,
+            "EAR99Restricted": false,
+            "GP8Transit": false,
+            "ReasonsForControl": 0,
+            "SanctionRiskScore": 720,
+            "SanctionRiskTier": 720,
+            "ExportRiskScore": 0,
+            "ExportRiskTier": 0,
+            "OverrideOrder": 0
+          }
+        }
+      ],
+      "Transhipments": [],
+      "ECCNs": []
+    }
+  ]
+}

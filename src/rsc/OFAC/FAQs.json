@@ -1,0 +1,331 @@
+{
+  "Listings": [
+    {
+      "FaqID": "1",
+      "Agency": "OFAC",
+      "Question": "What is OFAC and what does it do?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "2",
+      "Agency": "OFAC",
+      "Question": "How long has OFAC been around?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "3",
+      "Agency": "OFAC",
+      "Question": "What does one mean by the term \"prohibited transactions\"?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "4",
+      "Agency": "OFAC",
+      "Question": "Are there exceptions to the prohibitions?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "5",
+      "Agency": "OFAC",
+      "Question": "How do I determine if I have a valid OFAC match?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "6",
+      "Agency": "OFAC",
+      "Question": "Where can I find the specific details about the embargoes?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "7",
+      "Agency": "OFAC",
+      "Question": "Can I get permission from OFAC to transact or trade with an embargoed country?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "8",
+      "Agency": "OFAC",
+      "Question": "What must I do to get permission to trade with an embargoed country?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "9",
+      "Agency": "OFAC",
+      "Question": "What do you mean by \"blocking?\"",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "10",
+      "Agency": "OFAC",
+      "Question": "What countries do I need to worry about in terms of U.S. sanctions?",
+      "resultWeight": 0
+    }
+  ],
+  "Details": [
+    {
+      "FaqID": "1",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "What is OFAC and what does it do?",
+      "Answer": "<div class=\"ExternalClassFF5420B659884E04BB74D38995A11855\"><p>The Office of Foreign Assets Control administers and enforces economic sanctions programs primarily against countries and groups of individuals, such as terrorists and narcotics traffickers. The sanctions can be either comprehensive or selective, using the blocking of assets and trade restrictions to accomplish foreign policy and national security goals.</p></div>",
+      "FaqDate": "2002-09-10T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:13:55",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:13:55",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "2",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "How long has OFAC been around?",
+      "Answer": "<div class=\"ExternalClass57713C7E4D844FE6B6BC7274534D3D7F\"><p>The Treasury Department has a long history of dealing with sanctions. Dating back prior to the War of 1812, Secretary of the Treasury Gallatin administered sanctions imposed against Great Britain for the harassment of American sailors. During the Civil War, Congress approved a law which prohibited transactions with the Confederacy, called for the forfeiture of goods involved in such transactions, and provided a licensing regime under rules and regulations administered by Treasury.</p>\n\n<p>OFAC is the successor to the Office of Foreign Funds Control (the &quot;FFC''), which was established at the advent of World War II following the German invasion of Norway in 1940. The FFC program was administered by the Secretary of the Treasury throughout the war. The FFC's initial purpose was to prevent Nazi use of the occupied countries' holdings of foreign exchange and securities and to prevent forced repatriation of funds belonging to nationals of those countries. These controls were later extended to protect assets of other invaded countries. After the United States formally entered World War II, the FFC played a leading role in economic warfare against the Axis powers by blocking enemy assets and prohibiting foreign trade and financial transactions.</p>\n\n<p>OFAC itself was formally created in December 1950, following the entry of China into the Korean War, when President Truman declared a national emergency and blocked all Chinese and North Korean assets subject to U.S. jurisdiction.</p></div>",
+      "FaqDate": "2006-05-02T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:13:56",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:13:56",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "3",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "What does one mean by the term \"prohibited transactions\"?",
+      "Answer": "<div class=\"ExternalClassBC68D9186769406D9769888FE0900277\"><p>Prohibited transactions are trade or financial transactions and other dealings in which U.S. persons may not engage unless authorized by OFAC or expressly exempted by statute. Because each program is based on different foreign policy and national security goals, prohibitions may vary between programs.</p></div>",
+      "FaqDate": "2006-06-16T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:13:57",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:13:57",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "4",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "Are there exceptions to the prohibitions?",
+      "Answer": "<div class=\"ExternalClass701974AFFE724AA4AA2EAC49539D7720\"><p>Yes. OFAC regulations often provide general licenses authorizing the performance of certain categories of transactions. OFAC also issues specific licenses on a case-by-case basis under certain limited situations and conditions. Guidance on how to request a specific license is found below and at 31 C.F.R. 501.801.</p>\n\n<p>To apply for a specific license, please go to our <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/ofac-license-application-page\" target=\"_blank\">License Application Page</a>.</p></div>",
+      "FaqDate": "2006-06-16T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-01-08T21:57:18",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-01-08T21:57:18",
+      "RegulatoryProvisions": [
+        {
+          "RegulatoryProvisionID": 53,
+          "Display": "501.801"
+        }
+      ],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "5",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "How do I determine if I have a valid OFAC match?",
+      "Answer": "<div class=\"ExternalClass3B88360A4BE448C4B2C3FD82410479E7\"><p>Please take the following <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/contact-ofac/when-should-i-call-the-ofac-hotline\" target=\"_blank\">“due diligence” steps in determining a valid OFAC match</a>.</p>\n\n<p><strong>If you are calling about a wire transfer or other “live” transaction&#58;</strong></p>\n\n<p>Step 1. Is the “hit” or “match” against OFAC’s Specially Designated Nationals (SDN) list, one of its other sanctions lists, or targeted countries, or is it “hitting” for some other reason (i.e., “Control List” or “PEP,” “CIA,” “Non-Cooperative Countries and Territories,” “Canadian Consolidated List (OSFI),” “World Bank Debarred Parties,” “Blocked Officials File,” or “government official of a designated country”), or can you not tell what the “hit” is?</p>\n\n<ul><li>If it’s hitting against OFAC’s SDN list, one of its other sanctions lists, or targeted countries, continue to 2 below.</li>\n\t<li>If it’s hitting for some other reason, you should contact the “keeper” of whichever other list the match is hitting against. For questions about&#58;</li>\n\t<li>The Denied Persons List and the Entities List, please contact the Bureau of Industry and Security at the U.S. Department of Commerce at 202-482-4811.</li>\n\t<li>The FBI’s Most Wanted List or any other FBI-issued watch list, please contact the Federal Bureau of Investigation (http&#58;//www.fbi.gov/contact/fo/fo.htm).</li>\n\t<li>The Debarred Parties list, please contact the Directorate of Defense Trade Controls at the U.S. Department of State, 202-663-1282.</li>\n\t<li>The Bank Secrecy Act and the USA PATRIOT Act, please contact the Financial Crimes Enforcement Network (FinCEN), 1-800-949-2732.</li>\n\t<li>If you are unsure whom to contact, please contact your screening software provider which told you there was a “hit.”</li>\n\t<li>If you can’t tell what the “hit” is, you should contact your screening software provider which told you there was a “hit.”</li>\n</ul><p>Step 2. Now that you’ve established that the hit is against one of OFAC’s sanctions lists or targeted countries, you must evaluate the quality of the hit. Compare the name in your transactions with the name on the sanctions list. Is the name in your transaction an individual while the name on the sanctions list is a vessel, organization or company (or vice-versa)?</p>\n\n<ul><li>If yes, you do not have a valid match.*</li>\n\t<li>If no, please continue to 3 below.</li>\n</ul><p>Step 3. How much of the listed entry’s name is matching against the name in your transaction? Is just one of two or more names matching (i.e., just the last name)?</p>\n\n<ul><li>If yes, you do not have a valid match.*</li>\n\t<li>If no, please continue to 4 below.</li>\n</ul><p>Step 4. Compare the complete sanctions list entry with all of the information you have on the matching name in your transaction. An entry often will have, for example, a full name, address, nationality, passport, tax ID or cedula number, place of birth, date of birth, former names and aliases. Are you missing a lot of this information for the name in your transaction?</p>\n\n<ul><li>If yes, go back and get more information and then compare your complete information against the entry.</li>\n\t<li>If no, please continue to 5 below.</li>\n</ul><p>Step 5. Are there a number of similarities or exact matches?</p>\n\n<ul><li>If yes, please call the hotline at 1-800-540-6322.</li>\n\t<li>If no, you do not have a valid match.*</li>\n</ul><p><strong>If you are calling about an account&#58;</strong></p>\n\n<p>Step 1. Is the “hit” or “match” against OFAC’s SDN list, one of OFAC's other sanctions lists or targeted countries, or is it “hitting” for some other reason (i.e., “Control List” or “PEP,” “CIA,” “Non-Cooperative Countries and Territories,” “Canadian Consolidated List (OSFI),” “World Bank Debarred Parties,” or “government official of a designated country”), or can you not tell what the “hit” is?</p>\n\n<ul><li>If it’s hitting against one of OFAC’s sanctions lists or targeted countries, continue to 2 below.</li>\n\t<li>If it’s hitting for some other reason, you should contact the “keeper” of whichever other list the match is hitting against. For questions about&#58;</li>\n\t<li>The Denied Persons List and the Entities List, please contact the Bureau of Industry and Security at the U.S. Department of Commerce at 202-482-4811.</li>\n\t<li>The FBI’s Most Wanted List or any other FBI-issued watch list, please contact the Federal Bureau of Investigation (http&#58;//www.fbi.gov/contact/fo/fo.htm).</li>\n\t<li>The Debarred Parties list, please contact the Directorate of Defense Trade Controls at the U.S. Department of State, 202-663-1282.</li>\n\t<li>The Bank Secrecy Act and the USA PATRIOT Act, please contact the Financial Crimes Enforcement Network (FinCEN), 1-800-949-2732.</li>\n\t<li>If you are unsure whom to contact, you should contact your screening software provider which told you there was a “hit.”</li>\n\t<li>If you can’t tell what the “hit” is, you should contact your screening software provider which told you there was a “hit.”</li>\n</ul><p>Step 2. Now that you’ve established that the hit is against one of OFAC’s sanctions lists or targeted countries, you must evaluate the quality of the hit. Compare the name of your customer with the name on the sanctions list. Is the name of your customer an individual while the name on the sanctions list is a vessel, organization or company (or vice-versa)?</p>\n\n<ul><li>If yes, you do not have a valid match.*</li>\n\t<li>If no, please continue to 3 below.</li>\n</ul><p>Step 3. How much of the listed entry’s name is matching against the name of your account holder? Is just one of two or more names matching (i.e., just the last name)?</p>\n\n<ul><li>If yes, you do not have a valid match.*</li>\n\t<li>If no, please continue to 4 below.</li>\n</ul><p>Step 4. Compare the complete entry with all of the information you have on the matching name of your account holder. An entry often will have, for example, a full name, address, nationality, passport, tax ID or cedula number, place of birth, date of birth, former names and aliases. Are you missing a lot of this information for the name of your account holder?</p>\n\n<ul><li>If yes, go back and get more information and then compare your complete information against the entry.</li>\n\t<li>If no, please continue to 5 below.</li>\n</ul><p>Step 5. Are there a number of similarities or exact matches?</p>\n\n<ul><li>If yes, please call the hotline at 1-800-540-6322.</li>\n\t<li>If no, you do not have a valid match.*</li>\n</ul><p>* If you have reason to know or believe that processing this transfer or operating this account would violate any of the Regulations, you must call the hotline and explain this knowledge or belief.</p>\n\n<p><strong>Strong and Weak Aliases</strong><br>\nFor additional information regarding strong and weak aliases on OFAC's sanctions lists, please see the Weak Aliases <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/faqs/topic/1646\" target=\"_blank\">following topic</a>.</p></div>",
+      "FaqDate": "2015-01-30T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:21:06",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:21:06",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 116,
+          "CategoryDisplay": "OFAC Match"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "6",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "Where can I find the specific details about the embargoes?",
+      "Answer": "<div class=\"ExternalClass5A68827E8CDA454B8F4BF5204B97E75B\"><p>A summary description of each particular embargo or sanctions program may be found in the <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information\" target=\"_blank\">Sanctions Programs and Country Information </a>area and in the <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/additional-ofac-resources/ofac-information-for-industry-groups\" target=\"_blank\">Guidance and Information for Industry Groups </a>area on OFAC's website. The text of Legal documents may be found in the <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/additional-ofac-resources/ofac-legal-library\" target=\"_blank\">Legal Documents area of OFAC's website </a>which contains the text of 31 C.F.R. Chapter V and appropriate amendments to that Chapter which have appeared in the Federal Register.</p></div>",
+      "FaqDate": "2018-05-21T04:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-01-17T08:48:42",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-01-17T08:48:42",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "7",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "Can I get permission from OFAC to transact or trade with an embargoed country?",
+      "Answer": "<div class=\"ExternalClass6EF1D485DBFF42E883B5ECAEB09D2FFB\"><p>OFAC usually has the authority by means of a specific license to permit a person or entity to engage in a transaction which otherwise would be prohibited. In some cases, however, legislation may restrict that authority.</p>\n\n<p>To apply for a specific license, please go to our <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/ofac-license-application-page\" target=\"_blank\">License Application Page</a>.</p></div>",
+      "FaqDate": "2002-09-10T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:13:59",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:13:59",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "8",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "What must I do to get permission to trade with an embargoed country?",
+      "Answer": "<div class=\"ExternalClass36F888A4A100485D9EFD9F3192B30AE9\"><p>In some situations, authority to engage in certain transactions is provided by means of a general license. In instances where a general license does not exist, a written request for a specific license must be filed with OFAC. The request must conform to the procedures set out in the regulations pertaining to the particular sanctions program. Generally, application guidelines and requirements must be strictly followed, and all necessary information must be included in the application in order for OFAC to consider an application. For an explanation about the difference between a general and a specific license as well as answers to other licensing questions, see the <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/faqs/topic/1501\" target=\"_blank\">licensing questions </a>section.</p>\n\n<p>To apply for a specific license, please go to our <a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/ofac-license-application-page\" target=\"_blank\">License Application Page</a>.</p></div>",
+      "FaqDate": "2002-09-10T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:14:00",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:14:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "9",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "What do you mean by \"blocking?\"",
+      "Answer": "<div class=\"ExternalClass2B2E9A8F344048508CDC17EA3BAFAAFD\"><p>Another word for it is &quot;freezing.&quot; It is simply a way of controlling targeted property. Title to the blocked property remains with the target, but the exercise of powers and privileges normally associated with ownership is prohibited without authorization from OFAC. Blocking immediately imposes an across-the-board prohibition against transfers or dealings of any kind with regard to the property.</p></div>",
+      "FaqDate": "2002-09-10T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:14:00",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:14:00",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    },
+    {
+      "FaqID": "10",
+      "Agency": "OFAC",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 83,
+      "SanctionsProgramDisplay": "General",
+      "Question": "What countries do I need to worry about in terms of U.S. sanctions?",
+      "Answer": "<div class=\"ExternalClassC52B10E76EAA4DCBB470262161ABD4A3\"><p>OFAC administers a number of U.S. economic sanctions and embargoes that target geographic regions and governments. Some programs are comprehensive in nature and block the government and include broad-based trade restrictions, while others target specific individuals and entities. (Please see the “<a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information\" target=\"_blank\">Sanctions Programs and Country Information</a>” page for information on specific programs.) It is important to note that in non-comprehensive programs, there may be broad prohibitions on dealings with countries, and also against specific named individuals and entities. The names are incorporated into OFAC’s list of Specially Designated Nationals and Blocked Persons (&quot;SDN list&quot;) which includes approximately 6,400 names of companies and individuals who are connected with the sanctions targets. In addition, OFAC maintains<a href=\"https&#58;//home.treasury.gov/policy-issues/financial-sanctions/other-ofac-sanctions-lists\" target=\"_blank\"> other sanctions lists </a>that may have different prohibitions associated with them. A number of the named individuals and entities are known to move from country to country and may end up in locations where they would be least expected. U.S. persons are prohibited from dealing with SDNs wherever they are located and all SDN assets are blocked. Entities that a person on the SDN List owns (defined as a direct or indirect ownership interest of 50% or more) are also blocked, regardless of whether that entity is separately named on the SDN List. Because OFAC's programs are dynamic, it is very important to check OFAC's website on a regular basis to ensure that your sanctions lists are current and you have complete information regarding the latest restrictions affecting countries and parties with which you plan to do business.</p></div>",
+      "FaqDate": "2018-05-21T12:00:00",
+      "isActive": true,
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2020-10-23T16:14:02",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2020-10-23T16:14:02",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 115,
+          "CategoryDisplay": "Basic OFAC"
+        }
+      ],
+      "ECCNs": []
+    }
+  ]
+}

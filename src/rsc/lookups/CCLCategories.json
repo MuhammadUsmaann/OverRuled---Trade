@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "0",
+        "Value": "0. Nuclear materials, facilities and equipment (and miscellaneous items)",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "1",
+        "Value": "1. Materials, Chemicals, Microorganisms and Toxins",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "2",
+        "Value": "2. Materials Processing)",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "3",
+        "Value": "3. Electronics)",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "4",
+        "Value": "4. Computers",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "5",
+        "Value": "5. Parts 1 & 2 -- Telecommunications and Information Security",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "6",
+        "Value": "6. Sensors and Lasers",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "7",
+        "Value": "7. Navigation and Avionics",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "8",
+        "Value": "8. Marine",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    },
+    {
+        "ID": "9",
+        "Value": "9. Aerospace and Propulsion",
+        "ObjectType": "CCLCategory",
+        "HasChildren": true
+    }
+]

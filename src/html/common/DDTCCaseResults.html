@@ -1,0 +1,275 @@
+﻿
+
+<div id="ddtcCaseResults" name="caseResults">
+    <div class="right inline p-15">
+
+        <div class="page-update-status inline" id="ddtcCasesLastUpdate" name="lastUpdate"  style="display: none !important;"></div>
+
+    </div>
+    <div>
+        <div class="overruled-table d-inline-block ">
+            <table id="ddtcCaseResultsGrid" name="caseResultsGrid"></table>
+        </div><!--ending of overruled-table-->
+
+    </div>
+</div>
+
+<div id="ddtcCaseDetails" class="sliding-case-details" name="caseDetails">
+
+    <div class="p-20">
+        <div class="case-detail-header clearfix">
+            <div class="inline left case-detail-title">
+                <h2 class="bold block">
+                    <span id="ddtcFlag">
+
+                    </span>
+                    <span id="ddtcRespondentName"></span>
+                </h2>
+                <div class="pt-5 md-font"><span id="ddtcIndustry"></span> | Enforcement Date: <span id="ddtcEnforcementDate"></span></div>
+            </div>
+            <div class="inline right">
+                <a href="#" target="_blank" class="button primary-button inline mr-5" id="ddtcSource">
+                    Source
+                </a>
+                <a href="#" class="button green-button inline mr-5 record-nav" aria-label="Previous Record" title="Previous Record" data-role="prev">
+
+                    <i class="fa fa-arrow-left"></i>
+                </a>
+                <a href="#" class="button green-button inline mr-5 record-nav" aria-label="Next Record" title="Next Record" data-role="next">
+
+                    <i class="fa fa-arrow-right"></i>
+                </a>
+                <a href="#" class="button white-button inline" id='btn-ddtc-case-detail-hide'>
+                    <img class="dark-cross-ico" />
+                </a>
+                <div class="text-right pt-5 hide">
+                    <span>Last Update: 31 Jan 2015</span>
+                </div>
+
+            </div>
+        </div><!--ending of case-detail-header-->
+        <div class="case-detail-body">
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Industry(ies)</div>
+                <div class="col-6 col-md-6"><span id="ddtcIndustry" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 2: Key Facts</div>
+            <div class="row">
+                <div class="col"><span id="ddtcKeyFacts" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Registration Type(s)</div>
+                <div class="col-6 col-md-6"><span id="ddtcRegistrationTypes" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">USML Categories</div>
+                <div class="col-6 col-md-6"><span id="ddtcUSMLCategories" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Involves Significant Military Equipment?</div>
+                <div class="col-6 col-md-6"><span id="ddtcInvolvesSME" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Mitigating Factors</div>
+                <div class="col-6 col-md-6"><span id="ddtcMitigatingFactors" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Aggravating Factors</div>
+                <div class="col-6 col-md-6"><span id="ddtcAggravatingFactors" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 3: Violation Information</div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold"># of Violations</div>
+                <div class="col-6 col-md-6"><span id="ddtcNumberOfViolations" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Voluntary Disclosure of Violations?</div>
+                <div class="col-6 col-md-6"><span id="ddtcVoluntaryDisclosure" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Violation Type(s)</div>
+                <div class="col-6 col-md-6"><span id="ddtcViolationTypes" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">126.1 Countries Involved</div>
+                <div class="col-6 col-md-6"><span id="ddtc126Countries" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Relevant Regulatory Provision(s)</div>
+                <div class="col-6 col-md-6"><span id="ddtcRegulations" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Statute of Limitations Tolled?</div>
+                <div class="col-6 col-md-6"><span id="ddtcSOLTolled" class="detailVal"></span></div>
+            </div>
+
+            <div class="sanctionDetailsSectionHead">Section 4: Consent Agreement</div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Term</div>
+                <div class="col-6 col-md-6"><span id="ddtcCATerm" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Applies to assignees/successors, entities affected by reorganizations</div>
+                <div class="col-6 col-md-6"><span id="ddtcCAAppliesToSuccessors" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Applies to future business acquisitions involved in AECA/ITAR-regulated activities</div>
+                <div class="col-6 col-md-6"><span id="ddtcCAAppliesToFutureAcquisitions" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Applies to future business acquisitions involved in AECA/ITAR-regulated activities</div>
+                <div class="col-6 col-md-6"><span id="ddtcCAAppliesToDivestments" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 ml-1 font-weight-bold">Notice to DDTC Required</div>
+                <div class="col-6 col-md-6"><span id="ddtcDDTCNoticeRequired" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 ml-1 font-weight-bold">Notice to Purchaser Required</div>
+                <div class="col-6 col-md-6"><span id="ddtcPurchaserNoticeRequiredDisplay" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 5: Designated Official/Special Compliance Officer</div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Designated Official Required?</div>
+                <div class="col-6 col-md-6"><span id="ddtcDORequired" class="detailVal"></span></div>
+            </div>
+            <div id="ddtcDO">
+                <div class="row">
+                    <div class="col-6 col-md-4 ml-1 font-weight-bold">Internal or External?</div>
+                    <div class="col-6 col-md-6"><span id="ddtcDOInternalOrExternal" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 ml-1 font-weight-bold">Option to switch to an Internal SCO?</div>
+                    <div class="col-6 col-md-6"><span id="ddtcDOOptionToSwitch" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 font-weight-bold">Term</div>
+                    <div class="col-6 col-md-6"><span id="ddtcDOTerm" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 font-weight-bold">SCO Areas of Responsibility</div>
+                    <div class="col-6 col-md-6"><span id="ddtcSCOResponsibilities" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 font-weight-bold">SCO Reporting Timeframe</div>
+                    <div class="col-6 col-md-6"><span id="ddtSCOReportingTimeframe" class="detailVal"></span></div>
+                </div>
+            </div>
+
+
+            <div class="sanctionDetailsSectionHead">Section 6: Respondent Obligations</div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Resource Review</div>
+                <div class="col-6 col-md-6"><span id="ddtcResourceReview" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Strengthened Compliance Procedures</div>
+                <div class="col-6 col-md-6"><span id="ddtcComplianceProc" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Review of functional processes reated to AECA and ITAR regulated activities</div>
+                <div class="col-6 col-md-6"><span id="ddtcFunctionalProc" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Classification Review</div>
+                <div class="col-6 col-md-6"><span id="ddtcClassificationReview" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">[Automated] Export Compliance System</div>
+                <div class="col-6 col-md-6"><span id="ddtcExportCompliance" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Reporting System for Violations</div>
+                <div class="col-6 col-md-6"><span id="ddtcViolationReporting" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Other</div>
+                <div class="col-6 col-md-6"><span id="ddtcOtherRequirements" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 7: Audit</div>
+
+            <div class="row" id="auditsRequiredNo">
+                <div class="col-6 col-md-4 font-weight-bold">Audits Required</div>
+                <div class="col-6 col-md-6"><span id="ddtcAuditsRequired" class="detailVal"></span></div>
+            </div>
+            <div id="auditsRequiredYes">
+                <div class="row">
+                    <div class="col"><span id="ddtcAuditDetails" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 font-weight-bold">Number of Audits Required</div>
+                    <div class="col-6 col-md-6"><span id="ddtcNumberOfAudits" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 font-weight-bold">Audit(s) Due</div>
+                    <div class="col-6 col-md-6"><span id="ddtcAuditDue" class="detailVal"></span></div>
+                </div>
+            </div>
+
+            <div class="sanctionDetailsSectionHead">Section 8: Penalty</div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Monetary Penalty</div>
+                <div class="col-6 col-md-6"><span id="ddtcSettlementAmount" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Suspended Amount</div>
+                <div class="col-6 col-md-6"><span id="ddtcSuspendedAmount" class="detailVal"></span></div>
+            </div>
+            <div id="suspendedPenalty">
+                <div class="row">
+                    <div class="col-6 col-md-4 ml-1 font-weight-bold">Pre-CA Suspended Penalty</div>
+                    <div class="col-6 col-md-6"><span id="ddtcPreCASuspendedTerms" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 ml-1 font-weight-bold">Condition for Suspension</div>
+                    <div class="col-6 col-md-6"><span id="ddtcSuspensionConditions" class="detailVal"></span></div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-4 ml-1 font-weight-bold">Penalty-related Reports Required</div>
+                    <div class="col-6 col-md-6"><span id="ddtcPenaltyRelatedReports" class="detailVal"></span></div>
+                </div>
+            </div>
+
+            <div class="sanctionDetailsSectionHead">Section 9: Debarrment</div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Debarred Parties</div>
+                <div class="col-6 col-md-6"><span id="ddtcDebarredParties" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 10: Department of State On-Site Review</div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Required</div>
+                <div class="col-6 col-md-6"><span id="ddtcDOSReview" class="detailVal"></span></div>
+            </div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Stipulator</div>
+                <div class="col-6 col-md-6"><span id="ddtcOSRStipulator" class="detailVal"></span></div>
+            </div>
+            <div class="sanctionDetailsSectionHead">Section 11: Waivers</div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">All rights to further steps in this matter</div>
+                <div class="col-6 col-md-6"><span id="ddtcWaiversAllFuture" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">All rights related to additional monetary penalty assessed in connection with a material violation of the consent agreement</div>
+                <div class="col-6 col-md-6"><span id="ddtcWaiversAdditionalPenalty" class="detailVal"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Right to contest the validity of the Consent Agreement or Order</div>
+                <div class="col-6 col-md-6"><span id="ddtcWaiversRightToContest" class="detailVal"></span></div>
+            </div>
+
+            <div class="sanctionDetailsSectionHead">Section 12: Certifications</div>
+
+            <div class="row">
+                <div class="col-6 col-md-4 font-weight-bold">Required</div>
+                <div class="col-6 col-md-6"><span id="ddtcCertDetails" class="detailVal"></span></div>
+            </div>
+        </div><!--ending of case-detail-body-->
+    </div><!--ending of p-20-->
+</div><!--ending of sliding-case-details -->
+
