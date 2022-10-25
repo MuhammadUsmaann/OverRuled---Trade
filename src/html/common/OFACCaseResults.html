@@ -1,8 +1,7 @@
-﻿
-
-<div id="ofacCaseResults" name="caseResults">
+﻿<div id="ofacCaseResults" name="caseResults">
     <div class="right inline p-15">
-        <div class="page-update-status inline" id="ofacCasesLastUpdate" name="lastUpdate" style="display: none !important; "></div>
+        <div class="page-update-status inline" id="ofacCasesLastUpdate" name="lastUpdate"
+            style="display: none !important; "></div>
         <a href="#" class="button orange-button inline mr-5" name="compareCases" id="ofacCompareCases">
             <span><img class="-top-1 window-white-ico" /> Compare Checked Cases</span>
         </a>
@@ -10,7 +9,8 @@
     <div>
         <div class="overruled-table d-inline-block ">
             <table id="ofacCaseResultsGrid" name="caseResultsGrid"></table>
-        </div><!--ending of overruled-table-->
+        </div>
+        <!--ending of overruled-table-->
 
     </div>
 
@@ -21,15 +21,42 @@
 
     <div class="p-20 pb-0">
         <div class="case-detail-header clearfix">
-            <div class="inline left case-detail-title">
-                <h2 class="bold flex">
-                    <span id="ofacFlag">
-                    </span>
-                    <span id="ofacRespondentName"></span>
-                </h2>
-                <div class="pt-5 md-font"><span id="ofacIndustry"></span> | Enforcement Date: <span id="ofacEnforcementDate"></span></div>
+            <div class="inline w-100 case-detail-title">
+                <div class="d-flex justify-content-between flex-md-row flex-column-reverse align-items-md-center w-100">
+                    <h2 class="bold flex">
+                        <span id="ofacFlag">
+                        </span>
+                        <span id="ofacRespondentName"></span>
+                    </h2>
+                    <div class="inline-flex flex-center justify-content-end mb-md-0 mb-2">
+                        <div class="inline mr-8">
+                            <a href="#" class="button inline-flex flex-center mr-5 record-nav"
+                                aria-label="Previous Record" title="Previous Record" data-role="prev">
+                                <i class="fa fa-arrow-left"></i>
+                            </a>
+                            <a href="#" class="button inline-flex flex-center record-nav" aria-label="Next Record"
+                                title="Next Record" data-role="next">
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </div>
+
+                        <a href="#" target="_blank" class="button primary-button inline mr-5" id="ofacSource">
+                            Source
+                        </a>
+                        <a href="#" class="button white-button inline" id='btn-ofac-case-detail-hide' data-role="hide">
+                            <img class="dark-cross-ico" height="16" />
+                        </a>
+                        <div class="text-right pt-5 hide">
+                            <span>Last Update: 31 Jan 2015</span>
+                        </div>
+                    </div>
+
+                </div>
             </div>
-            <div class="inline-flex flex-center right">
+            <div class="pt-5 md-font"><span id="ofacIndustry"></span> | Enforcement Date: <span
+                    id="ofacEnforcementDate"></span></div>
+
+            <!-- <div class="inline-flex flex-center ">
                 <div class="inline mr-8">
                     <a href="#" class="button inline-flex flex-center mr-5 record-nav" aria-label="Previous Record" title="Previous Record" data-role="prev">
                         <i class="fa fa-arrow-left"></i>
@@ -49,14 +76,15 @@
                     <span>Last Update: 31 Jan 2015</span>
                 </div>
 
-            </div>
-        </div><!--ending of case-detail-header-->
+            </div> -->
+        </div>
+        <!--ending of case-detail-header-->
         <div class="case-detail-body">
             <div class="pt-10 case-key-factors">
                 <h5 class="bold">Key Facts</h5>
                 <p class="pt-5" id="ofacKeyFacts">
                 </p>
-                <div class="wizard">
+                <div class="wizard d-flex flex-md-row flex-column">
                     <span class="step-1">
                         <div>Statutory Maximum Penalty</div>
                         <div id="ofacStatutoryMax"></div>
@@ -73,16 +101,22 @@
             </div>
             <div class="mt-10 case-index bg-gray p-15 round-5">
                 <div class="row">
-                    <div class="col-12"><h5 class="bold">Violation Information</h5></div>
+                    <div class="col-12">
+                        <h5 class="bold">Violation Information</h5>
+                    </div>
                 </div>
 
                 <div class="row mt-15">
                     <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">No. of Violations</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">No. of Violations</h6>
+                        </div>
                         <div class="orange-tag inline" id="ofacNumberOfViolations"></div>
                     </div>
                     <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Regulatory Provision(s)</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">Regulatory Provision(s)</h6>
+                        </div>
                         <div id="ofacRegulatoryProvisions"></div>
 
                     </div>
@@ -90,28 +124,38 @@
 
                 <div class="row mt-15">
                     <div class="col-6">
-                        <div class="mb-4"><h6 class="bold">Sanctioned Persons</h6></div>
+                        <div class="mb-4">
+                            <h6 class="bold">Sanctioned Persons</h6>
+                        </div>
                         <div class="inline" id="ofacSanctionedPersons"></div>
                     </div>
                     <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Regulatory Regime</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">Regulatory Regime</h6>
+                        </div>
                         <div id="ofacRegulatoryRegime"></div>
 
                     </div>
                 </div>
                 <div class="row mt-15">
                     <div class="col-6">
-                        <div class="mb-4"><h6 class="bold">Description of Goods or Services</h6></div>
+                        <div class="mb-4">
+                            <h6 class="bold">Description of Goods or Services</h6>
+                        </div>
                         <div class="inline" id="ofacGoodsAndServices"></div>
                     </div>
                     <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Statutory Regime</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">Statutory Regime</h6>
+                        </div>
                         <div id="ofacStatutoryRegime"></div>
                     </div>
                 </div>
                 <div class="row mt-15">
                     <div class="col-12">
-                        <div class="mb-8"><h6 class="bold">Sanctioned Countries</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">Sanctioned Countries</h6>
+                        </div>
                         <div id="ofacSanctionedCountries"></div>
                     </div>
                 </div>
@@ -123,22 +167,33 @@
                     </div>
                 </div>
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Voluntary Self-Disclosure</h6></div>
+                    <div class="col-sm-6 col-12 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Voluntary Self-Disclosure</h6>
+                        </div>
                         <div>
-                            <span class="light-green-tag  mr-5 " name="ofacVSD" id="ofacVSDYes"><img class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                            <span class="light-orange-tag  mr-5 " name="ofacVSD" id="ofacVSDNo"><img class="mr-5 -top-2  orange-cross-ico" />No</span>
-                            <span class="light-purple-tag  mr-5 " name="ofacVSD" id="ofacVSDPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                            <span class="light-green-tag  mr-5 " name="ofacVSD" id="ofacVSDYes"><img
+                                    class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                            <span class="light-orange-tag  mr-5 " name="ofacVSD" id="ofacVSDNo"><img
+                                    class="mr-5 -top-2  orange-cross-ico" />No</span>
+                            <span class="light-purple-tag  mr-5 " name="ofacVSD" id="ofacVSDPartial"><img
+                                    class="mr-5 -top-2 purple-circle-ico" />Partial</span>
                             <span class="ligh-gray-tag  mr-5 " name="ofacVSD" id="ofacVSDUnknown">Unknown</span>
                         </div>
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Egregious Case</h6></div>
+                    <div class="col-sm-6 col-12">
+                        <div class="mb-8">
+                            <h6 class="bold">Egregious Case</h6>
+                        </div>
                         <div>
-                            <span class="light-green-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousYes"> <img class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                            <span class="light-orange-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousNo"><img class="mr-5 -top-2 orange-cross-ico" />No</span>
-                            <span class="light-purple-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
-                            <span class="ligh-gray-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousUnknown">Unknown</span>
+                            <span class="light-green-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousYes"> <img
+                                    class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                            <span class="light-orange-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousNo"><img
+                                    class="mr-5 -top-2 orange-cross-ico" />No</span>
+                            <span class="light-purple-tag  mr-5 " name="ofacEgregious" id="ofacEgregiousPartial"><img
+                                    class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                            <span class="ligh-gray-tag  mr-5 " name="ofacEgregious"
+                                id="ofacEgregiousUnknown">Unknown</span>
                         </div>
 
                     </div>
@@ -154,9 +209,10 @@
                     <div class="col-12 thermometer-container">
                         <div class="knowledge-results relative">
                             <div class="blank-thermometer"></div>
-                            <ul id="ofacKnowledge">
+                            <ul id="ofacKnowledge" class="responsive-thermometer">
                                 <li class="level-disabled" style="max-width: 85px;" name="unknown">
                                     <div class="unknown-level"><span>Unknown</span></div>
+                                    <span class="custom-for-responsive ">Unknown</span>
                                 </li>
                                 <li class="level-low" name="reasonToKnow">
                                     <span>Reason to Know</span>
@@ -212,22 +268,26 @@
 
             </div>
 
-        </div><!--ending of case-detail-body-->
-    </div><!--ending of p-20-->
-</div><!--ending of sliding-case-details -->
+        </div>
+        <!--ending of case-detail-body-->
+    </div>
+    <!--ending of p-20-->
+</div>
+<!--ending of sliding-case-details -->
 
 <!--start of case comparison -->
 <div id="ofaccompareCase" class="sliding-compare-cases clearfix" name="caseCompare">
 
-    
+
     <div class="panel-content -compared-col clr">
         <div class="container">
-            
+
             <div class="top case-compare-header clearfix">
                 <div class="row">
                     <div class="col">
                         <h1 class="inline">Compare Cases</h1>
-                        <a href="#" class="button white-button inline right" id="btn-ofac-case-compare-hide" data-role="hide">
+                        <a href="#" class="button white-button inline right" id="btn-ofac-case-compare-hide"
+                            data-role="hide">
                             <img class="dark-cross-ico" height="16">
                         </a>
                     </div>
@@ -236,7 +296,9 @@
                     <div class="item-template" style="display: none;">
                         <div class="col compare-case-col">
                             <div class="custom-col">
-                                <h5 class="company-name"><span data-bs-toggle="tooltip" data-bs-placement="top" title="~KEY-FACTS~" class="ml--10 inline"><span class="inline mr--10 icon" name="ofaccompareCompanyName">~RESPONDENT-NAME~</span></span></h5>
+                                <h5 class="company-name"><span data-bs-toggle="tooltip" data-bs-placement="top"
+                                        title="~KEY-FACTS~" class="ml--10 inline"><span class="inline mr--10 icon"
+                                            name="ofaccompareCompanyName">~RESPONDENT-NAME~</span></span></h5>
                             </div>
                         </div>
                     </div>
@@ -247,7 +309,7 @@
                     </div>
                 </div>
 
-                
+
             </div>
             <div class="case-compare-body">
                 <div class="row" id="ofaccompareKeyFacts">
@@ -564,10 +626,17 @@
                             <div class="item-template" style="display: none;">
                                 <div class="col compare-case-col">
                                     <div class="custom-col border-right-0">
-                                        <span class="light-green-tag  mr-5 " style="display:none;" name="ofaccompareVSDYes"><img class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                                        <span class="light-orange-tag  mr-5 " style="display:none;" name="ofaccompareVSDNo"><img class="mr-5 -top-2  orange-cross-ico" />No</span>
-                                        <span class="light-purple-tag  mr-5 " style="display:none;" name="ofaccompareVSDPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
-                                        <span class="ligh-gray-tag  mr-5 " style="display:none;" name="ofaccompareVSDUnknown">Unknown</span>
+                                        <span class="light-green-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareVSDYes"><img
+                                                class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                                        <span class="light-orange-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareVSDNo"><img
+                                                class="mr-5 -top-2  orange-cross-ico" />No</span>
+                                        <span class="light-purple-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareVSDPartial"><img
+                                                class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                                        <span class="ligh-gray-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareVSDUnknown">Unknown</span>
 
                                     </div>
                                 </div>
@@ -584,10 +653,17 @@
                             <div class="item-template" style="display: none;">
                                 <div class="col compare-case-col">
                                     <div class="custom-col border-right-0">
-                                        <span class="light-green-tag  mr-5 " style="display:none;" name="ofaccompareEgregiouYes"> <img class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                                        <span class="light-orange-tag  mr-5 " style="display:none;" name="ofaccompareEgregiousNo"><img class="mr-5 -top-2 orange-cross-ico" />No</span>
-                                        <span class="light-purple-tag  mr-5 " style="display:none;" name="ofaccompareEgregiousPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
-                                        <span class="ligh-gray-tag  mr-5 " style="display:none;" name="ofaccompareEgregiousUnknown">Unknown</span>
+                                        <span class="light-green-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareEgregiouYes"> <img
+                                                class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                                        <span class="light-orange-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareEgregiousNo"><img
+                                                class="mr-5 -top-2 orange-cross-ico" />No</span>
+                                        <span class="light-purple-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareEgregiousPartial"><img
+                                                class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                                        <span class="ligh-gray-tag  mr-5 " style="display:none;"
+                                            name="ofaccompareEgregiousUnknown">Unknown</span>
 
                                     </div>
                                 </div>
@@ -668,22 +744,25 @@
                             </div>
                             <div class="col">
                                 <div class="custom-col">
-                                    <div class="aggravating factor"><span class="icon mr-5 inline"></span>Aggravating</div>
-                                    <div class="mitigating factor"><span class="icon mr-5 inline"></span>Mitigating</div>
+                                    <div class="aggravating factor"><span class="icon mr-5 inline"></span>Aggravating
+                                    </div>
+                                    <div class="mitigating factor"><span class="icon mr-5 inline"></span>Mitigating
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
         </div>
 
 
 
     </div>
 
-</div><!--ending of compare-cases results-->
+</div>
+<!--ending of compare-cases results-->
 
 <script id="ofacRespondentColumn" type="text/x-kendo-template">
     <div class="d-flex align-items-center">

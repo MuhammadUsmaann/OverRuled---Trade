@@ -1489,7 +1489,7 @@ a.orange-button {
 .side-bar {
   display: flex;
   flex-direction: column !important;
-  width: 85vw;
+  /* width: 85vw; */
 }
 .side-bar-right .side-bar {
   width: 15rem !important;
@@ -1528,7 +1528,7 @@ a.orange-button {
     width: 85vw !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
   .side-bar-left .side-bar {
     width: 20rem !important;
   }
@@ -1767,8 +1767,7 @@ img {
   -moz-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
-.flex,
-.wizard {
+.flex {
   display: flex;
 }
 .flex-center,
@@ -2414,10 +2413,10 @@ a:hover {
 .sliding-case-details .case-detail-header {
   border-bottom: 2px solid var(--main);
   background: #fff;
-  width: 910px;
+  width: 910px !important;
   padding-top: 20px;
   z-index: 10;
-  height: 110px;
+  /* height: 110px; */
   margin-top: -20px;
 }
 .sliding-case-details .case-detail-body {
@@ -2634,7 +2633,7 @@ a:hover {
 }
 .knowledge-results .blank-thermometer {
   top: -38px;
-  z-index: 10;
+  /* z-index: 10; */
   background: url(./img/blank-thermometer.svg) no-repeat;
   height: 116px;
   width: 892px;
