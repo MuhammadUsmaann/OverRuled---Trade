@@ -1,0 +1,218 @@
+[
+  {
+    "ProgramID": "BY",
+    "Program": "Belarus",
+    "AuthorityCount": 5,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "BA",
+    "Program": "Bosnia And Herzegovina",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "BI",
+    "Program": "Burundi",
+    "AuthorityCount": 13,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "CF",
+    "Program": "Central African Republic",
+    "AuthorityCount": 14,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "CN",
+    "Program": "China",
+    "AuthorityCount": 4,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "HR",
+    "Program": "Croatia",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "CU",
+    "Program": "Cuba",
+    "AuthorityCount": 4,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "CD",
+    "Program": "Democratic Republic of the Congo",
+    "AuthorityCount": 15,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "IR",
+    "Program": "Iran",
+    "AuthorityCount": 154,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "IQ",
+    "Program": "Iraq",
+    "AuthorityCount": 6,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "KV",
+    "Program": "Kosovo",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "LB",
+    "Program": "Lebanon",
+    "AuthorityCount": 4,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "LY",
+    "Program": "Libya",
+    "AuthorityCount": 17,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "ML",
+    "Program": "Mali",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "MD",
+    "Program": "Moldova",
+    "AuthorityCount": 4,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "ME",
+    "Program": "Montenegro",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "MM",
+    "Program": "Myanmar",
+    "AuthorityCount": 13,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "NI",
+    "Program": "Nicaragua",
+    "AuthorityCount": 13,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "KP",
+    "Program": "North Korea",
+    "AuthorityCount": 79,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "RU",
+    "Program": "Russia",
+    "AuthorityCount": 75,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "RS",
+    "Program": "Serbia",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "SO",
+    "Program": "Somalia",
+    "AuthorityCount": 10,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "SS",
+    "Program": "South Sudan",
+    "AuthorityCount": 13,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "SD",
+    "Program": "Sudan",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "SY",
+    "Program": "Syria",
+    "AuthorityCount": 56,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "UA",
+    "Program": "Ukraine",
+    "AuthorityCount": 50,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "VE",
+    "Program": "Venezuela",
+    "AuthorityCount": 18,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "YE",
+    "Program": "Yemen",
+    "AuthorityCount": 4,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "ZW",
+    "Program": "Zimbabwe",
+    "AuthorityCount": 12,
+    "ProgramType": "country"
+  },
+  {
+    "ProgramID": "5",
+    "Program": "Chemical & Biological Weapons",
+    "AuthorityCount": 1,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "7",
+    "Program": "Counter-Narcotics",
+    "AuthorityCount": 2,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "8",
+    "Program": "Counter-Terrorism",
+    "AuthorityCount": 4,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "10",
+    "Program": "Cyber",
+    "AuthorityCount": 1,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "12",
+    "Program": "Election Interference",
+    "AuthorityCount": 1,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "13",
+    "Program": "Global Magnitsky",
+    "AuthorityCount": 2,
+    "ProgramType": "program"
+  },
+  {
+    "ProgramID": "28",
+    "Program": "Transnational Criminal Organizations (TCO)",
+    "AuthorityCount": 1,
+    "ProgramType": "program"
+  }
+]

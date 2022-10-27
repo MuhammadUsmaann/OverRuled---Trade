@@ -1,0 +1,46 @@
+{
+  "Recent": [
+    "entity list",
+    "china",
+    "sudan",
+    "cuba",
+    "iran"
+  ],
+  "SavedList": [
+    {
+      "Key": 1,
+      "Value": "cuba-recent"
+    },
+    {
+      "Key": 2,
+      "Value": "North Korea"
+    }
+  ],
+  "SavedSearches": [
+    {
+      "SavedSearchID": 1,
+      "SearchName": "cuba-recent",
+      "UserName": "AGDOMAIN\\cwaldmann",
+      "BasedOnSearchLogID": 1007,
+      "LastExecutedLogID": 1007,
+      "EnteredBy": "AGDOMAIN\\cwaldmann",
+      "EnteredDate": "2021-04-22T15:47:19.357",
+      "ModifiedBy": "AGDOMAIN\\cwaldmann",
+      "ModifiedDate": "2021-04-22T15:47:19.357",
+      "Criteria": "{\r\n\"Agency\" : \"OFAC\",\r\n\"Keywords\" : \"cuba\",\r\n\"CompanName\" : \"\",\r\n\"EnforcementDateSelection\" : \"-6\",\r\n\"EnforcementDateBegin\" : \"2020-10-22\", \r\n\"EnforcementDateEnd\" : \"2021-04-22\",\r\n\"NumberOfViolationsLow\" : null,\r\n\"NumberOfViolationsHigh\" : null,\r\n\"PenaltySettlementAmountLow\" : null,\r\n\"PenaltySettlementAmountHigh\" : null,\r\n\"RespondentNationality\" : [],\r\n\"RegulatoryProvision\" : [],\r\n\"Industry\" : [],\r\n\"Regime\" : [],\r\n\"Program\": [],\r\n\"Country\" : [],\r\n\"AggravatingFactor\" : [],\r\n\"MitigatingFactor\" : [],\r\n\"VoluntaryDisclosure\" : [],\r\n\"EgregiousCase\" : []\r\n}"
+    },
+    {
+      "SavedSearchID": 2,
+      "SearchName": "North Korea",
+      "UserName": "AGDOMAIN\\ltalerman",
+      "BasedOnSearchLogID": 1359,
+      "LastExecutedLogID": 1359,
+      "EnteredBy": "AGDOMAIN\\ltalerman",
+      "EnteredDate": "2021-06-07T01:52:53.863",
+      "ModifiedBy": "AGDOMAIN\\ltalerman",
+      "ModifiedDate": "2021-06-07T01:52:53.863",
+      "Criteria": "{\r\n\"Agency\" : \"OFAC\",\r\n\"Keywords\" : \"North Korea\",\r\n\"CompanName\" : \"\",\r\n\"EnforcementDateSelection\" : \"ALL\",\r\n\"EnforcementDateBegin\" : \"\", \r\n\"EnforcementDateEnd\" : \"\",\r\n\"NumberOfViolationsLow\" : null,\r\n\"NumberOfViolationsHigh\" : null,\r\n\"PenaltySettlementAmountLow\" : null,\r\n\"PenaltySettlementAmountHigh\" : null,\r\n\"RespondentNationality\" : [],\r\n\"RegulatoryProvision\" : [],\r\n\"Industry\" : [],\r\n\"Regime\" : [],\r\n\"Program\": [],\r\n\"Country\" : [],\r\n\"AggravatingFactor\" : [],\r\n\"MitigatingFactor\" : [],\r\n\"VoluntaryDisclosure\" : [],\r\n\"EgregiousCase\" : []\r\n}"
+    }
+
+  ]
+}

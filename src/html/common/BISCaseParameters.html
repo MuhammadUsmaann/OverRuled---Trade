@@ -1,0 +1,159 @@
+﻿<div class="col-12">
+    <form>
+        <div class="form-group">
+            <label for="savedSearches" class="pb-5"><h6 class="bold">Saved Searches:</h6></label>
+            <input id="savedSearches" class="k-dropdown fluid" name="Saved Searches" data-placeholder="Select..." />
+            <div>
+            </div>
+        </div>
+        <div class="mt-10">
+            <div class="" id="kwHeader">
+                <h6 class="mb-0 font-weight-bold">
+                    Keyword(s)
+                </h6>
+            </div>
+            <div class="card-body form-group mb-0 pt-5">
+                <div>
+                    <input id="keyWord" data-role="keywordSearch" type="text" class="k-textbox form-control  generic-form-control" style="min-width: 75%;" />
+                </div>
+            </div>
+        </div>
+
+        <div id="paramAccordion" class="accordion cards-no-margin">
+            <div class="card">
+                <div class="card-header collapsed" id="edHeader" data-toggle="collapse" data-target="#edCollapse" aria-expanded="false" aria-controls="edCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+
+                        <label for="enforcementDateBegin">Enforcement Date</label>
+
+                    </h6>
+                </div>
+                <div id="enforcementDateCollapse" class="collapse" aria-labelledby="enforcementDateHeader">
+                    <div class="card-body form-group mb-0">
+                        <input type="radio" name="rbEnforcementDate" id="rbEnforcementDate_All" value="ALL" checked /> <label for="rbEnforcementDate_All">All</label><br />
+                        <input type="radio" name="rbEnforcementDate" id="rbEnforcementDate_6" value="-6" /> <label for="rbEnforcementDate_6">Last 6 months</label><br />
+                        <input type="radio" name="rbEnforcementDate" id="rbEnforcementDate_12" value="-12" /> <label for="rbEnforcementDate_12">Last year</label><br />
+                        <input type="radio" name="rbEnforcementDate" id="rbEnforcementDate_24" value="-24" /> <label for="rbEnforcementDate_24">Last 2 years</label><br />
+                        <input type="radio" name="rbEnforcementDate" id="rbEnforcementDate_SP" value="SR" /> <label for="rbEnforcementDate_SP">Specify range</label><br />
+                        <div class="row align-items-center" id="enforcementDateRange" style="display: none">
+                            <div class="col-5">
+                                <input id="enforcementDateBegin" style="width: 7rem" class="dateEntry" />
+                            </div>
+                            <div class="col-2 text-center"> to </div>
+                            <div class="col-5">
+                                <input id="enforcementDateEnd" style="width: 7rem" class="dateEntry" />
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header collapsed" id="settlementAmountHeader" data-toggle="collapse" data-target="#settlementAmountCollapse" aria-expanded="false" aria-controls="settlementAmountCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="settlementAmount">Penalty</label>
+                    </h6>
+                </div>
+                <div id="settlementAmountCollapse" class="collapse" aria-labelledby="settlementAmountHeader">
+                    <div class="card-body form-group">
+                        <input id="settlementAmountLow" name="settlementAmount" class="moneyEntry" style="width: 40%;" value="0" />
+                        -
+                        <input id="settlementAmountHigh" name="settlementAmount" class="moneyEntry" style="width: 40%;" value="" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header  collapsed" id="numberOfViolationsHeader" data-toggle="collapse" data-target="#numberOfViolationsCollapse" aria-expanded="false" aria-controls="numberOfViolationsCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="numberOfViolations"># of Violations:</label>
+                    </h6>
+                </div>
+                <div id="numberOfViolationsCollapse" class="collapse" aria-labelledby="numberOfViolationsHeader">
+                    <div class="card-body form-group">
+                        <input id="numberOfViolationsLow" name="numberOfViolations" class="numberEntry" style="width: 40%;" value="0" />
+                        -
+                        <input id="numberOfViolationsHigh" name="numberOfViolations" class="numberEntry" style="width: 40%;" value="" />
+
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header  collapsed" id="regulatoryProvisionHeader" data-toggle="collapse" data-target="#regulatoryProvisionCollapse" aria-expanded="false" aria-controls="regulatoryProvisionCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="regulatoryProvision">Regulatory Provision(s)</label>
+                    </h6>
+                </div>
+                <div id="regulatoryProvisionCollapse" class="collapse" aria-labelledby="regulatoryProvisionHeader">
+                    <div class="card-body form-group">
+                        <input id="regulatoryProvision" class="input generic-form-control w-100" name="Provision" data-placeholder="Select all that apply" />
+                        <i class="small">Selecting a parent regulation will automatically search against the children as well</i>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header collapsed" id="respondentNationalityHeader" data-toggle="collapse" data-target="#respondentNationalityCollapse" aria-expanded="false" aria-controls="respondentNationalityCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="respondentNationality">Respondent Nationality(s):</label>
+                    </h6>
+                </div>
+                <div id="rnCollapse" class="collapse" aria-labelledby="respondentNationalityHeader">
+                    <div class="card-body form-group">
+                        <select id="respondentNationality" name="Respondent Nationality" class="input generic-form-control" multiple="multiple" data-placeholder="Select all that apply"></select>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header collapsed" id="destinationHeader" data-toggle="collapse" data-target="#destinationCollapse" aria-expanded="false" aria-controls="destinationCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="destination">Respondent Nationality(s):</label>
+                    </h6>
+                </div>
+                <div id="destinationCollapse" class="collapse" aria-labelledby="destinationHeader">
+                    <div class="card-body form-group">
+                        <select id="destination" name="Destination" class="input generic-form-control" multiple="multiple" data-placeholder="Select all that apply"></select>
+
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header collapsed" id="industryHeader" data-toggle="collapse" data-target="#industryCollapse" aria-expanded="false" aria-controls="industryCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="industry">Primary Industry(s):</label>
+                    </h6>
+                </div>
+                <div id="industryCollapse" class="collapse" aria-labelledby="industryHeader">
+                    <div class="card-body form-group">
+                        <select id="industry" name="Industry" class="input generic-form-control" multiple="multiple" data-placeholder="Select all that apply"></select>
+
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header collapsed" id="voluntaryDisclosureHeader" data-toggle="collapse" data-target="#voluntaryDisclosureCollapse" aria-expanded="false" aria-controls="voluntaryDisclosureCollapse">
+                    <h6 class="mb-0 font-weight-bold">
+                        <i class="fa" aria-hidden="true"></i>
+                        <label for="voluntaryDisclosure">Voluntary Disclosure:</label>
+                    </h6>
+                </div>
+                <div id="voluntaryDisclosureCollapse" class="collapse" aria-labelledby="voluntaryDisclosureHeader">
+                    <div class="card-body form-group">
+                        <select id="voluntaryDisclosure" name="Voluntary Disclosure" class="input generic-form-control" multiple="multiple" data-placeholder="Select all that apply"></select>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

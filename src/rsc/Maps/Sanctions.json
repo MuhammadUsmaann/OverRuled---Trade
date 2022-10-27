@@ -1,0 +1,1496 @@
+[
+    {
+        "CountryCode": "AD",
+        "ISO3Code": "AND",
+        "CountryName": "Andorra",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AE",
+        "ISO3Code": "ARE",
+        "CountryName": "United Arab Emirates",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "AF",
+        "ISO3Code": "AFG",
+        "CountryName": "Afghanistan",
+        "RiskTier": 8
+    },
+    {
+        "CountryCode": "AG",
+        "ISO3Code": "ATG",
+        "CountryName": "Antigua And Barbuda",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AI",
+        "ISO3Code": "AIA",
+        "CountryName": "Anguilla",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AL",
+        "ISO3Code": "ALB",
+        "CountryName": "Albania",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "AM",
+        "ISO3Code": "ARM",
+        "CountryName": "Armenia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "AN",
+        "ISO3Code": "",
+        "CountryName": "Netherlands Antilles",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AO",
+        "ISO3Code": "AGO",
+        "CountryName": "Angola",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "AQ",
+        "ISO3Code": "ATA",
+        "CountryName": "Antarctica",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AR",
+        "ISO3Code": "ARG",
+        "CountryName": "Argentina",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "AS",
+        "ISO3Code": "ASM",
+        "CountryName": "American Samoa",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "AT",
+        "ISO3Code": "AUT",
+        "CountryName": "Austria",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "AU",
+        "ISO3Code": "AUS",
+        "CountryName": "Australia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "AW",
+        "ISO3Code": "ABW",
+        "CountryName": "Aruba",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "AZ",
+        "ISO3Code": "AZE",
+        "CountryName": "Azerbaijan",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "BA",
+        "ISO3Code": "BIH",
+        "CountryName": "Bosnia And Herzegovina",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "BB",
+        "ISO3Code": "BRB",
+        "CountryName": "Barbados",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "BD",
+        "ISO3Code": "BGD",
+        "CountryName": "Bangladesh",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "BE",
+        "ISO3Code": "BEL",
+        "CountryName": "Belgium",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "BF",
+        "ISO3Code": "BFA",
+        "CountryName": "Burkina Faso",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "BG",
+        "ISO3Code": "BGR",
+        "CountryName": "Bulgaria",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "BH",
+        "ISO3Code": "BHR",
+        "CountryName": "Bahrain",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "BI",
+        "ISO3Code": "BDI",
+        "CountryName": "Burundi",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "BJ",
+        "ISO3Code": "BEN",
+        "CountryName": "Benin",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "BM",
+        "ISO3Code": "BMU",
+        "CountryName": "Bermuda",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "BN",
+        "ISO3Code": "BRN",
+        "CountryName": "Brunei Darussalam",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "BO",
+        "ISO3Code": "BOL",
+        "CountryName": "Bolivia",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "BR",
+        "ISO3Code": "BRA",
+        "CountryName": "Brazil",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "BS",
+        "ISO3Code": "BHS",
+        "CountryName": "Bahamas",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "BT",
+        "ISO3Code": "BTN",
+        "CountryName": "Bhutan",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "BV",
+        "ISO3Code": "BVT",
+        "CountryName": "Bouvet Island",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "BW",
+        "ISO3Code": "BWA",
+        "CountryName": "Botswana",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "BY",
+        "ISO3Code": "BLR",
+        "CountryName": "Belarus",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "BZ",
+        "ISO3Code": "BLZ",
+        "CountryName": "Belize",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "CA",
+        "ISO3Code": "CAN",
+        "CountryName": "Canada",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "CC",
+        "ISO3Code": "CCK",
+        "CountryName": "Cocos (keeling) Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "CD",
+        "ISO3Code": "COD",
+        "CountryName": "Democratic Republic of the Congo",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "CF",
+        "ISO3Code": "CAF",
+        "CountryName": "Central African Republic",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "CG",
+        "ISO3Code": "COG",
+        "CountryName": "Congo",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "CH",
+        "ISO3Code": "CHE",
+        "CountryName": "Switzerland",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "CI",
+        "ISO3Code": "CIV",
+        "CountryName": "Cote D'ivoire",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "CK",
+        "ISO3Code": "COK",
+        "CountryName": "Cook Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "CL",
+        "ISO3Code": "CHL",
+        "CountryName": "Chile",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "CM",
+        "ISO3Code": "CMR",
+        "CountryName": "Cameroon",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "CN",
+        "ISO3Code": "CHN",
+        "CountryName": "China",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "CO",
+        "ISO3Code": "COL",
+        "CountryName": "Colombia",
+        "RiskTier": 8
+    },
+    {
+        "CountryCode": "CR",
+        "ISO3Code": "CRI",
+        "CountryName": "Costa Rica",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "CU",
+        "ISO3Code": "CUB",
+        "CountryName": "Cuba",
+        "RiskTier": 9
+    },
+    {
+        "CountryCode": "CV",
+        "ISO3Code": "CPV",
+        "CountryName": "Cape Verde",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "CX",
+        "ISO3Code": "CXR",
+        "CountryName": "Christmas Island",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "CY",
+        "ISO3Code": "CYP",
+        "CountryName": "Cyprus",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "CZ",
+        "ISO3Code": "CZE",
+        "CountryName": "Czech Republic",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "DE",
+        "ISO3Code": "DEU",
+        "CountryName": "Germany",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "DJ",
+        "ISO3Code": "DJI",
+        "CountryName": "Djibouti",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "DK",
+        "ISO3Code": "DNK",
+        "CountryName": "Denmark",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "DM",
+        "ISO3Code": "DMA",
+        "CountryName": "Dominica",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "DO",
+        "ISO3Code": "DOM",
+        "CountryName": "Dominican Republic",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "DZ",
+        "ISO3Code": "DZA",
+        "CountryName": "Algeria",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "EC",
+        "ISO3Code": "ECU",
+        "CountryName": "Ecuador",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "EE",
+        "ISO3Code": "EST",
+        "CountryName": "Estonia",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "EG",
+        "ISO3Code": "EGY",
+        "CountryName": "Egypt",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "EH",
+        "ISO3Code": "ESH",
+        "CountryName": "Western Sahara",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "ER",
+        "ISO3Code": "ERI",
+        "CountryName": "Eritrea",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "ES",
+        "ISO3Code": "ESP",
+        "CountryName": "Spain",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "ET",
+        "ISO3Code": "ETH",
+        "CountryName": "Ethiopia",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "FI",
+        "ISO3Code": "FIN",
+        "CountryName": "Finland",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "FJ",
+        "ISO3Code": "FJI",
+        "CountryName": "Fiji",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "FK",
+        "ISO3Code": "FLK",
+        "CountryName": "Falkland Islands (malvinas)",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "FM",
+        "ISO3Code": "FSM",
+        "CountryName": "Micronesia, Federated States Of",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "FO",
+        "ISO3Code": "FRO",
+        "CountryName": "Faroe Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "FR",
+        "ISO3Code": "FRA",
+        "CountryName": "France",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "GA",
+        "ISO3Code": "GAB",
+        "CountryName": "Gabon",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GB",
+        "ISO3Code": "GBR",
+        "CountryName": "United Kingdom",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "GD",
+        "ISO3Code": "GRD",
+        "CountryName": "Grenada",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GE",
+        "ISO3Code": "GEO",
+        "CountryName": "Georgia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "GF",
+        "ISO3Code": "GUF",
+        "CountryName": "French Guiana",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GH",
+        "ISO3Code": "GHA",
+        "CountryName": "Ghana",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "GI",
+        "ISO3Code": "GIB",
+        "CountryName": "Gibraltar",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "GL",
+        "ISO3Code": "GRL",
+        "CountryName": "Greenland",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GM",
+        "ISO3Code": "GMB",
+        "CountryName": "Gambia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "GN",
+        "ISO3Code": "GIN",
+        "CountryName": "Guinea",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "GP",
+        "ISO3Code": "GLP",
+        "CountryName": "Guadeloupe",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GQ",
+        "ISO3Code": "GNQ",
+        "CountryName": "Equatorial Guinea",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "GR",
+        "ISO3Code": "GRC",
+        "CountryName": "Greece",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "GS",
+        "ISO3Code": "SGS",
+        "CountryName": "South Georgia And The South Sandwich Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GT",
+        "ISO3Code": "GTM",
+        "CountryName": "Guatemala",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "GU",
+        "ISO3Code": "GUM",
+        "CountryName": "Guam",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GW",
+        "ISO3Code": "GNB",
+        "CountryName": "Guinea-bissau",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "GY",
+        "ISO3Code": "GUY",
+        "CountryName": "Guyana",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "HK",
+        "ISO3Code": "HKG",
+        "CountryName": "Hong Kong",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "HM",
+        "ISO3Code": "HMD",
+        "CountryName": "Heard Island And Mcdonald Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "HN",
+        "ISO3Code": "HND",
+        "CountryName": "Honduras",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "HR",
+        "ISO3Code": "HRV",
+        "CountryName": "Croatia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "HT",
+        "ISO3Code": "HTI",
+        "CountryName": "Haiti",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "HU",
+        "ISO3Code": "HUN",
+        "CountryName": "Hungary",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "ID",
+        "ISO3Code": "IDN",
+        "CountryName": "Indonesia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "IE",
+        "ISO3Code": "IRL",
+        "CountryName": "Ireland",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "IL",
+        "ISO3Code": "ISR",
+        "CountryName": "Israel",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "IN",
+        "ISO3Code": "IND",
+        "CountryName": "India",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "IO",
+        "ISO3Code": "IOT",
+        "CountryName": "British Indian Ocean Territory",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "IQ",
+        "ISO3Code": "IRQ",
+        "CountryName": "Iraq",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "IR",
+        "ISO3Code": "IRN",
+        "CountryName": "Iran",
+        "RiskTier": 10
+    },
+    {
+        "CountryCode": "IS",
+        "ISO3Code": "ISL",
+        "CountryName": "Iceland",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "IT",
+        "ISO3Code": "ITA",
+        "CountryName": "Italy",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "JM",
+        "ISO3Code": "JAM",
+        "CountryName": "Jamaica",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "JO",
+        "ISO3Code": "JOR",
+        "CountryName": "Jordan",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "JP",
+        "ISO3Code": "JPN",
+        "CountryName": "Japan",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "KE",
+        "ISO3Code": "KEN",
+        "CountryName": "Kenya",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "KG",
+        "ISO3Code": "KGZ",
+        "CountryName": "Kyrgyzstan",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "KH",
+        "ISO3Code": "KHM",
+        "CountryName": "Cambodia",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "KI",
+        "ISO3Code": "KIR",
+        "CountryName": "Kiribati",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "KM",
+        "ISO3Code": "COM",
+        "CountryName": "Comoros",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "KN",
+        "ISO3Code": "KNA",
+        "CountryName": "Saint Kitts And Nevis",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "KP",
+        "ISO3Code": "PRK",
+        "CountryName": "North Korea",
+        "RiskTier": 10
+    },
+    {
+        "CountryCode": "KR",
+        "ISO3Code": "KOR",
+        "CountryName": "South Korea",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "KV",
+        "ISO3Code": "",
+        "CountryName": "Kosovo",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "KW",
+        "ISO3Code": "KWT",
+        "CountryName": "Kuwait",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "KY",
+        "ISO3Code": "CYM",
+        "CountryName": "Cayman Islands",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "KZ",
+        "ISO3Code": "KAZ",
+        "CountryName": "Kazakstan",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "LA",
+        "ISO3Code": "LAO",
+        "CountryName": "Laos",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "LB",
+        "ISO3Code": "LBN",
+        "CountryName": "Lebanon",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "LC",
+        "ISO3Code": "LCA",
+        "CountryName": "Saint Lucia",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "LI",
+        "ISO3Code": "LIE",
+        "CountryName": "Liechtenstein",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "LK",
+        "ISO3Code": "LKA",
+        "CountryName": "Sri Lanka",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "LR",
+        "ISO3Code": "LBR",
+        "CountryName": "Liberia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "LS",
+        "ISO3Code": "LSO",
+        "CountryName": "Lesotho",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "LT",
+        "ISO3Code": "LTU",
+        "CountryName": "Lithuania",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "LU",
+        "ISO3Code": "LUX",
+        "CountryName": "Luxembourg",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "LV",
+        "ISO3Code": "LVA",
+        "CountryName": "Latvia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "LY",
+        "ISO3Code": "LBY",
+        "CountryName": "Libya",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "MA",
+        "ISO3Code": "MAR",
+        "CountryName": "Morocco",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "MC",
+        "ISO3Code": "MCO",
+        "CountryName": "Monaco",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "MD",
+        "ISO3Code": "MDA",
+        "CountryName": "Moldova",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "ME",
+        "ISO3Code": "MNE",
+        "CountryName": "Montenegro",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "MG",
+        "ISO3Code": "MDG",
+        "CountryName": "Madagascar",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "MH",
+        "ISO3Code": "MHL",
+        "CountryName": "Marshall Islands",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "MK",
+        "ISO3Code": "MKD",
+        "CountryName": "North Macedonia",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "ML",
+        "ISO3Code": "MLI",
+        "CountryName": "Mali",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "MM",
+        "ISO3Code": "MMR",
+        "CountryName": "Myanmar",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "MN",
+        "ISO3Code": "MNG",
+        "CountryName": "Mongolia",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "MO",
+        "ISO3Code": "MAC",
+        "CountryName": "Macau",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "MP",
+        "ISO3Code": "MNP",
+        "CountryName": "Northern Mariana Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "MQ",
+        "ISO3Code": "MTQ",
+        "CountryName": "Martinique",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "MR",
+        "ISO3Code": "MRT",
+        "CountryName": "Mauritania",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "MS",
+        "ISO3Code": "MSR",
+        "CountryName": "Montserrat",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "MT",
+        "ISO3Code": "MLT",
+        "CountryName": "Malta",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "MU",
+        "ISO3Code": "MUS",
+        "CountryName": "Mauritius",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "MV",
+        "ISO3Code": "MDV",
+        "CountryName": "Maldives",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "MW",
+        "ISO3Code": "MWI",
+        "CountryName": "Malawi",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "MX",
+        "ISO3Code": "MEX",
+        "CountryName": "Mexico",
+        "RiskTier": 8
+    },
+    {
+        "CountryCode": "MY",
+        "ISO3Code": "MYS",
+        "CountryName": "Malaysia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "MZ",
+        "ISO3Code": "MOZ",
+        "CountryName": "Mozambique",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "NA",
+        "ISO3Code": "NAM",
+        "CountryName": "Namibia",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "NC",
+        "ISO3Code": "NCL",
+        "CountryName": "New Caledonia",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "NE",
+        "ISO3Code": "NER",
+        "CountryName": "Niger",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "NF",
+        "ISO3Code": "NFK",
+        "CountryName": "Norfolk Island",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "NG",
+        "ISO3Code": "NGA",
+        "CountryName": "Nigeria",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "NI",
+        "ISO3Code": "NIC",
+        "CountryName": "Nicaragua",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "NL",
+        "ISO3Code": "NLD",
+        "CountryName": "Netherlands",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "NO",
+        "ISO3Code": "NOR",
+        "CountryName": "Norway",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "NP",
+        "ISO3Code": "NPL",
+        "CountryName": "Nepal",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "NR",
+        "ISO3Code": "NRU",
+        "CountryName": "Nauru",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "NU",
+        "ISO3Code": "NIU",
+        "CountryName": "Niue",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "NZ",
+        "ISO3Code": "NZL",
+        "CountryName": "New Zealand",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "OM",
+        "ISO3Code": "OMN",
+        "CountryName": "Oman",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "PA",
+        "ISO3Code": "PAN",
+        "CountryName": "Panama",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "PE",
+        "ISO3Code": "PER",
+        "CountryName": "Peru",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "PF",
+        "ISO3Code": "PYF",
+        "CountryName": "French Polynesia",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PG",
+        "ISO3Code": "PNG",
+        "CountryName": "Papua New Guinea",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PH",
+        "ISO3Code": "PHL",
+        "CountryName": "Philippines",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "PK",
+        "ISO3Code": "PAK",
+        "CountryName": "Pakistan",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "PL",
+        "ISO3Code": "POL",
+        "CountryName": "Poland",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "PM",
+        "ISO3Code": "SPM",
+        "CountryName": "Saint Pierre And Miquelon",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PN",
+        "ISO3Code": "PCN",
+        "CountryName": "Pitcairn",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PR",
+        "ISO3Code": "PRI",
+        "CountryName": "Puerto Rico",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PS",
+        "ISO3Code": "PSE",
+        "CountryName": "Palestine",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "PT",
+        "ISO3Code": "PRT",
+        "CountryName": "Portugal",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "PW",
+        "ISO3Code": "PLW",
+        "CountryName": "Palau",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "PY",
+        "ISO3Code": "PRY",
+        "CountryName": "Paraguay",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "QA",
+        "ISO3Code": "QAT",
+        "CountryName": "Qatar",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "RE",
+        "ISO3Code": "REU",
+        "CountryName": "Reunion",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "RO",
+        "ISO3Code": "ROU",
+        "CountryName": "Romania",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "RS",
+        "ISO3Code": "SRB",
+        "CountryName": "Serbia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "RU",
+        "ISO3Code": "RUS",
+        "CountryName": "Russia",
+        "RiskTier": 9
+    },
+    {
+        "CountryCode": "RW",
+        "ISO3Code": "RWA",
+        "CountryName": "Rwanda",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SA",
+        "ISO3Code": "SAU",
+        "CountryName": "Saudi Arabia",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "SB",
+        "ISO3Code": "SLB",
+        "CountryName": "Solomon Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "SC",
+        "ISO3Code": "SYC",
+        "CountryName": "Seychelles",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SD",
+        "ISO3Code": "SDN",
+        "CountryName": "Sudan",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "SE",
+        "ISO3Code": "SWE",
+        "CountryName": "Sweden",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SG",
+        "ISO3Code": "SGP",
+        "CountryName": "Singapore",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "SH",
+        "ISO3Code": "SHN",
+        "CountryName": "Saint Helena",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "SI",
+        "ISO3Code": "SVN",
+        "CountryName": "Slovenia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SJ",
+        "ISO3Code": "SJM",
+        "CountryName": "Svalbard And Jan Mayen",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "SK",
+        "ISO3Code": "SVK",
+        "CountryName": "Slovakia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SL",
+        "ISO3Code": "SLE",
+        "CountryName": "Sierra Leone",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SM",
+        "ISO3Code": "SMR",
+        "CountryName": "San Marino",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "SN",
+        "ISO3Code": "SEN",
+        "CountryName": "Senegal",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "SO",
+        "ISO3Code": "SOM",
+        "CountryName": "Somalia",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "SR",
+        "ISO3Code": "SUR",
+        "CountryName": "Suriname",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "ST",
+        "ISO3Code": "STP",
+        "CountryName": "Sao Tome And Principe",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "SV",
+        "ISO3Code": "SLV",
+        "CountryName": "El Salvador",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "SY",
+        "ISO3Code": "SYR",
+        "CountryName": "Syria",
+        "RiskTier": 10
+    },
+    {
+        "CountryCode": "SZ",
+        "ISO3Code": "SWZ",
+        "CountryName": "Swaziland",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TC",
+        "ISO3Code": "TCA",
+        "CountryName": "Turks And Caicos Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TD",
+        "ISO3Code": "TCD",
+        "CountryName": "Chad",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TF",
+        "ISO3Code": "ATF",
+        "CountryName": "French Southern Territories",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TG",
+        "ISO3Code": "TGO",
+        "CountryName": "Togo",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TH",
+        "ISO3Code": "THA",
+        "CountryName": "Thailand",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "TJ",
+        "ISO3Code": "TJK",
+        "CountryName": "Tajikistan",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "TK",
+        "ISO3Code": "TKL",
+        "CountryName": "Tokelau",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TM",
+        "ISO3Code": "TKM",
+        "CountryName": "Turkmenistan",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "TN",
+        "ISO3Code": "TUN",
+        "CountryName": "Tunisia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "TO",
+        "ISO3Code": "TON",
+        "CountryName": "Tonga",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TP",
+        "ISO3Code": "TLS",
+        "CountryName": "Timor-Leste",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TR",
+        "ISO3Code": "TUR",
+        "CountryName": "Turkey",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "TT",
+        "ISO3Code": "TTO",
+        "CountryName": "Trinidad And Tobago",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "TV",
+        "ISO3Code": "TUV",
+        "CountryName": "Tuvalu",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "TW",
+        "ISO3Code": "TWN",
+        "CountryName": "Taiwan",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "TZ",
+        "ISO3Code": "TZA",
+        "CountryName": "Tanzania",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "UA",
+        "ISO3Code": "UKR",
+        "CountryName": "Ukraine",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "UG",
+        "ISO3Code": "UGA",
+        "CountryName": "Uganda",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "UM",
+        "ISO3Code": "UMI",
+        "CountryName": "United States Minor Outlying Islands",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "US",
+        "ISO3Code": "USA",
+        "CountryName": "United States",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "UY",
+        "ISO3Code": "URY",
+        "CountryName": "Uruguay",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "UZ",
+        "ISO3Code": "UZB",
+        "CountryName": "Uzbekistan",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "VA",
+        "ISO3Code": "VAT",
+        "CountryName": "Holy See (vatican City State)",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "VC",
+        "ISO3Code": "VCT",
+        "CountryName": "Saint Vincent And The Grenadines",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "VE",
+        "ISO3Code": "VEN",
+        "CountryName": "Venezuela",
+        "RiskTier": 8
+    },
+    {
+        "CountryCode": "VG",
+        "ISO3Code": "VGB",
+        "CountryName": "Virgin Islands, British",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "VI",
+        "ISO3Code": "VIR",
+        "CountryName": "Virgin Islands, U.s.",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "VN",
+        "ISO3Code": "VNM",
+        "CountryName": "Vietnam",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "VU",
+        "ISO3Code": "VUT",
+        "CountryName": "Vanuatu",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "WF",
+        "ISO3Code": "WLF",
+        "CountryName": "Wallis And Futuna",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "WS",
+        "ISO3Code": "WSM",
+        "CountryName": "Samoa",
+        "RiskTier": 1
+    },
+    {
+        "CountryCode": "YE",
+        "ISO3Code": "YEM",
+        "CountryName": "Yemen",
+        "RiskTier": 6
+    },
+    {
+        "CountryCode": "YT",
+        "ISO3Code": "MYT",
+        "CountryName": "Mayotte",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "ZA",
+        "ISO3Code": "ZAF",
+        "CountryName": "South Africa",
+        "RiskTier": 3
+    },
+    {
+        "CountryCode": "ZM",
+        "ISO3Code": "ZMB",
+        "CountryName": "Zambia",
+        "RiskTier": 2
+    },
+    {
+        "CountryCode": "ZW",
+        "ISO3Code": "ZWE",
+        "CountryName": "Zimbabwe",
+        "RiskTier": 7
+    },
+    {
+        "CountryCode": "SS",
+        "ISO3Code": "SSD",
+        "CountryName": "South Sudan",
+        "RiskTier": 5
+    },
+    {
+        "CountryCode": "U1",
+        "ISO3Code": "",
+        "CountryName": "Unknown",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "N1",
+        "ISO3Code": "",
+        "CountryName": "N/A",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "UT",
+        "ISO3Code": "",
+        "CountryName": "Third country (unspecified)",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "OT",
+        "ISO3Code": "",
+        "CountryName": "Other",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "YU",
+        "ISO3Code": "",
+        "CountryName": "Yugoslavia",
+        "RiskTier": 4
+    },
+    {
+        "CountryCode": "XS",
+        "ISO3Code": "",
+        "CountryName": "Somaliland",
+        "RiskTier": 0
+    },
+    {
+        "CountryCode": "UC",
+        "ISO3Code": "",
+        "CountryName": "Crimea",
+        "RiskTier": 8
+    }
+]

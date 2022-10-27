@@ -1,0 +1,108 @@
+button:focus{
+    outline:none;
+}
+.button{
+    @include border-radius(3px);
+    @extend .pt-8, .pb-10, .pl-12, .pr-12, .bold, .xs-box-shadow;
+    font-size: 14px;
+    border: none;
+    min-height: 38px;
+    height: 42px;
+    overflow: hidden;
+    line-height: 22px;
+    &:hover{
+        text-decoration: none;
+    }
+}
+.green-button{
+    color:$white !important;
+    background:$green;
+    text-decoration: none !important;
+    &:hover{
+        text-decoration: none;
+        color:$white;
+        background: rgba($green, $alpha: 0.9);
+    }
+}
+.primary-button{
+    color:$white !important;
+    background:var(--main);
+    @include border(1px, solid, var(--main), all);
+    text-decoration: none !important;
+    &:hover{
+        text-decoration: none;
+        color:$white;
+        background:#{'rgba(var(--main-rgb), 0.9)'};
+    }
+}
+.orange-button{
+  color:$white !important;
+  background:$orange;
+  @include border(1px, solid, $orange, all);
+  text-decoration: none !important;
+  &:hover{
+      text-decoration: none;
+      color:$white;
+      background: rgba($orange, $alpha: 0.9);
+  }
+}
+.white-button{
+    color:$dark;
+    background:$white !important;
+    @include border(1px, solid, $dark, all);
+    text-decoration: none !important;
+    &:hover{
+        text-decoration: none !important;
+        color:$dark;
+    }
+    &:focus{
+        @include border(1px, solid, $dark, all);
+    }
+}
+a.white-button{
+  text-decoration:none;
+  color:$dark !important;
+}
+a.orange-button{
+  text-decoration:none;
+  color:$white !important;
+}
+.checkbox-style {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+    padding: 0;
+  }
+  .checkbox-style li {
+    float: left;
+    width: 355px;
+    position: relative;
+    height: 130px;
+  }
+  .checkbox-style label,
+  .checkbox-style input {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  .checkbox-style input[type="radio"] {
+    opacity: 0.01;
+    z-index: 100;
+  }
+  .checkbox-style input[type="radio"]:checked+label,
+  .Checked+label {
+    background:#{'rgba(var(--main-rgb), 0.10)'}; 
+    @include border(1px, solid, var(--main), all);
+    box-shadow: none;
+  }
+  .checkbox-style label {
+    @extend .p-15, .round-3, .xs-box-shadow;
+    @include border(1px, solid, $dark, all);
+    cursor: pointer;
+    z-index: 90;
+  }
+  .checkbox-style label:hover {
+    background:#{'rgba(var(--main-rgb), 0.10)'}; 
+  }

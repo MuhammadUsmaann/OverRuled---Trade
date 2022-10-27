@@ -1,0 +1,91 @@
+@media only screen and (min-width: 320px) and (max-width: 844px) {
+  .tb-nav-inner {
+    max-width: 100% !important;
+    min-width: 100% !important;
+    margin: 0px;
+    padding: 0 15px;
+  }
+  #expand_item.desk {
+    display: none !important;
+  }
+  #item_hamburger {
+    left: auto !important;
+    right: 0px !important;
+    display: block !important;
+  }
+  .right-search-holder {
+    display: none !important;
+  }
+  .tb-panel-header {
+    flex-direction: column;
+  }
+  .tb-panel-header .select-wrapper {
+    width: 100%;
+    float: left;
+  }
+  .page-title {
+    top: 107px !important;
+    padding: 0 15px;
+  }
+  .top-news-ticker {
+    top: 50px !important;
+  }
+  .top-news-ticker .show-news-ticker {
+    width: calc(100% - 90px);
+    float: left;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  .top-news-ticker .show-news-ticker .text-dark {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .tb-main {
+    padding-top: 106px;
+  }
+  .tb-nav {
+    padding-left: 0px !important;
+  }
+  #tb_menu {
+    top: 156px !important;
+  }
+  #recentCaseCarousel_mobile .align-boxes {
+    white-space: normal;
+  }
+  .dashboard-map {
+    border-top-right-radius: 6px !important;
+    border-bottom: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  #worldMap {
+    height: 234px !important;
+  }
+  #flex_row_1.custom-mob {
+    display: block !important;
+  }
+  #flex_row_1.custom-mob .tb-panel {
+    height: auto !important;
+  }
+  #flex_row_1.custom-mob .align-boxes {
+    white-space: normal;
+  }
+  #flex_row_1.custom-mob .high-risk-countries .tb-panel {
+    margin-left: 7px !important;
+    border: 1px solid #464343 !important;
+    border-radius: 6px !important;
+    height: 306px !important;
+    border-top: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    margin-top: -7px;
+    padding-top: 15px;
+    min-height: 220px !important;
+    height: 220px !important;
+  }
+  .world-map-chart-holder {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,63 @@
+{
+	"Simple": [
+		{
+			"Statute": "IEEPA",
+			"Quadrant_1": 50000.0000,
+			"Quadrant_2": 250000.0000,
+			"Quadrant_3": 1557760.0000,
+			"Quadrant_4": 3115520.0000
+		},
+		{
+			"Statute": "Summary",
+			"Quadrant_1": 50000.0000,
+			"Quadrant_2": 250000.0000,
+			"Quadrant_3": 1557760.0000,
+			"Quadrant_4": 3115520.0000
+		}
+	],
+	"Complex": [
+		{
+			"Statute": "AEDPA",
+			"Quadrant_1": 500.0000,
+			"Quadrant_2": 10000.0000,
+			"Quadrant_3": 41122.0000,
+			"Quadrant_4": 82244.0000
+		},
+		{
+			"Statute": "DIAMOND",
+			"Quadrant_1": 500.0000,
+			"Quadrant_2": 10000.0000,
+			"Quadrant_3": 7037.0000,
+			"Quadrant_4": 14074.0000
+		},
+		{
+			"Statute": "IEEPA",
+			"Quadrant_1": 500.0000,
+			"Quadrant_2": 10000.0000,
+			"Quadrant_3": 155776.0000,
+			"Quadrant_4": 311552.0000
+		},
+		{
+			"Statute": "KINGPIN",
+			"Quadrant_1": 500.0000,
+			"Quadrant_2": 10000.0000,
+			"Quadrant_3": 774037.5000,
+			"Quadrant_4": 1548075.0000
+		},
+		{
+			"Statute": "Summary",
+			"Quadrant_1": 2500.0000,
+			"Quadrant_2": 50000.0000,
+			"Quadrant_3": 1023880.5000,
+			"Quadrant_4": 2047761.0000
+		},
+		{
+			"Statute": "TWEA",
+			"Quadrant_1": 500.0000,
+			"Quadrant_2": 10000.0000,
+			"Quadrant_3": 45908.0000,
+			"Quadrant_4": 91816.0000
+		}
+	],
+	"LastUpdate": "2021-03-17T00:00:00"
+}

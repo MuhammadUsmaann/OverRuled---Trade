@@ -1,0 +1,306 @@
+{
+  "Listings": [
+    {
+      "FaqID": "301",
+      "Agency": "BIS",
+      "Question": "Many of my formerly ITAR-controlled items became “600 series” items on October 15, 2013 and other items became “600 series” items on January 6, 2014. I am still shipping them under my Directorate of Defense Trade Controls (DDTC) license in......",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "302",
+      "Agency": "BIS",
+      "Question": "What is the “600 series”?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "303",
+      "Agency": "BIS",
+      "Question": "Have “600 series” ECCNs been added to the CCL?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "304",
+      "Agency": "BIS",
+      "Question": "Are there additional “600 series” ECCNs to be added to the CCL?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "305",
+      "Agency": "BIS",
+      "Question": "What is the classification of parts and components that are (a) not enumerated or otherwise described on the USML and (b) common to the C-130 and L-100/L-382 aircraft but not any other aircraft?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "306",
+      "Agency": "BIS",
+      "Question": "What is the classification of parts and components that are (a) not enumerated or otherwise described on the USML, (b) common to the C-130 and L-100/L-382 aircraft and also common to aircraft in production controlled under ECCN 9A991, and (c) not....",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "307",
+      "Agency": "BIS",
+      "Question": "What happens if my customer reexports or transfers a License Exception STA-eligible item without first obtaining a prior consignee statement?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "308",
+      "Agency": "BIS",
+      "Question": "The STA prior consignee statement requires a non-government consignee of a “600 series” item received under STA (either as an export, reexport, or transfer) to agree to an end-use check. Does this mean that an item exported under the “600 series”....",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "309",
+      "Agency": "BIS",
+      "Question": "In order to use License Exception STA (EAR section 740.20), is there a specific form the consignee must use to satisfy the conditions of the exception?",
+      "resultWeight": 0
+    },
+    {
+      "FaqID": "310",
+      "Agency": "BIS",
+      "Question": "I exported under License Exception STA a “600 series” item to a defense contractor in a Country Group A:5 country for the ultimate end use by the military of that Country Group A:5 country. I have already obtained a prior consignee statement from....",
+      "resultWeight": 0
+    }
+  ],
+  "Details": [
+    {
+      "FaqID": "301",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 107,
+      "SanctionsProgramDisplay": "Transition Issues",
+      "Question": "Many of my formerly ITAR-controlled items became “600 series” items on October 15, 2013 and other items became “600 series” items on January 6, 2014. I am still shipping them under my Directorate of Defense Trade Controls (DDTC) license in......",
+      "Answer": "<div class=\"ExternalClassEFD13A05BEB44D109357BDD482D8BBC2\"><div>                                        <p>Many of my formerly ITAR-controlled items became “600 series” items on October 15, 2013 and other items became “600 series” items on January 6, 2014. I am still shipping them under my Directorate of Defense Trade Controls (DDTC) license in accordance with the transition procedures. Do I need to report the “600 series” Export Control Classification Numbers (ECCNs) in Automated Export System (AES) along with my DDTC license?</p><div><div><p dir=\"LTR\" align=\"LEFT\">A.2&#58; You are not required to report the ECCNs of &quot;600 series&quot; items shipped under grandfathered DDTC licenses during the transition period. However, you may do so without making an AES error.</p></div></div><p>&#160;</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:52:33",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:52:33",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "302",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 101,
+      "SanctionsProgramDisplay": "600 Series Items",
+      "Question": "What is the “600 series”?",
+      "Answer": "<div class=\"ExternalClassD61432FAA7AA400C9949D0BD9B720C03\"><div>                                        <p dir=\"LTR\" align=\"LEFT\">&quot;600 series&quot; refers to ECCNs in the &quot;xY6zz&quot; format on the Commerce Control List (CCL). Items controlled under the &quot;600 series&quot; were previously controlled on the United States Munitions List (USML) or are covered by the Wassenaar Arrangement Munitions List (WAML) and include certain items formerly classified under ECCNs ending in -018. The &quot;6&quot; indicates the entry is a munitions entry on the CCL. The &quot;x&quot; represents the CCL category (0 through 9) and &quot;Y&quot; the CCL product group (A through E). In most cases, the &quot;zz&quot; represents the WAML category. The &quot;600 series&quot; constitutes the munitions ECCNs within the larger CCL.</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:29",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:29",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "303",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 101,
+      "SanctionsProgramDisplay": "600 Series Items",
+      "Question": "Have “600 series” ECCNs been added to the CCL?",
+      "Answer": "<div class=\"ExternalClass205F226896EE47798690FBFC2C19BAD9\"><div>                                        <p>&#160;Yes. The table below shows the new ECCNs that have been added to the EAR since the export control reform effort began in 2013. The table shows the dates on which the final rule that implemented the ECCNs was published, and the dates on which the final rules became effective. The last column in the table shows the USML category that is related to the new ECCNs.</p><p></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr><td width=\"160\"><p align=\"center\"><b><span>Items</span></b><span></span></p></td><td width=\"48\"><p align=\"center\"><b><span>USML Cat.</span></b></p></td><td width=\"222\"><p align=\"center\"><b><span>ECCNs</span></b></p></td><td width=\"186\"><p align=\"center\"><b><span>P&#58; Proposed Rule</span></b></p><p align=\"center\"><b><span>F&#58; Final Rule</span></b></p></td><td width=\"126\"><p align=\"center\"><b><span>Effective &#160; Date</span></b></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Firearms</span></p></td><td width=\"48\"><p align=\"center\"><span>I</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>P</span></p></td><td width=\"126\"><p align=\"center\"><span></span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Guns and Armament</span></p></td><td width=\"48\"><p align=\"center\"><span>II</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>P</span></p></td><td width=\"126\"><p align=\"center\"><span></span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Ammunition</span></p></td><td width=\"48\"><p align=\"center\"><span>III</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>P</span></p></td><td width=\"126\"><p align=\"center\"><span></span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Rockets/Missile</span></p></td><td width=\"48\"><p align=\"center\"><span>IV</span></p></td><td width=\"222\"><p align=\"center\"><span>0A604, 0B604, 0D604, 0E604</span></p><p align=\"center\"><span>9A604, 9B604, 9D604, 9E604</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-01-31/pdf/2013-01901.pdf\" target=\"_blank\"><span>USML &#160; IV</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-01-31/pdf/2013-01904.pdf\" target=\"_blank\"><span>CCL</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31323.pdf\" target=\"_blank\"><span>USML V</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31322.pdf\" target=\"_blank\"><span>CCL 1Y608</span></a></span></span></span><span><span><span><span><span></span></span></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>July 1, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Explosives/Energetic Materials</span></p></td><td width=\"48\"><p align=\"center\"><span>V</span></p></td><td width=\"222\"><p align=\"center\"><span>1B608, 1C608, 1D608, 1E608</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-05-02/pdf/2012-10455.pdf\" target=\"_blank\"><span>USML &#160; V</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-05-02/pdf/2012-10456.pdf\" target=\"_blank\"><span>CCL &#160; 1Y608</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31323.pdf\" target=\"_blank\"><span>USML &#160; V</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31322.pdf\" target=\"_blank\"><span>CCL &#160; 1Y608</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>July 1, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Vessels/Submersibles</span></p></td><td width=\"48\"><p align=\"center\"><span>VI</span></p><p align=\"center\"><span>XX</span></p></td><td width=\"222\"><p align=\"center\"><span>8A609, 8B609, 8C609, </span></p><p align=\"center\"><span>8D609, 8E609</span></p><p align=\"center\"><span>8A620, 8B620, 8D620, 8E620</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-23/pdf/2011-32865.pdf\" target=\"_blank\"><span>USML &#160; VI/XX</span></a><span></span></span></span></p><p align=\"center\"><span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-23/pdf/2011-32867.pdf\" target=\"_blank\"><span>CCL &#160; 8Y609/8Y620</span></a><span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16145.pdf\" target=\"_blank\"><span>USML &#160; VI/XX;</span></a><span></span></span></span></p><p align=\"center\"><span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16238.pdf\" target=\"_blank\"><span>CCL &#160; 8Y609/8Y620</span></a><b><span></span></b></span></p></td><td width=\"126\"><p align=\"center\"><span>January 6, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Military Vehicles</span></p></td><td width=\"48\"><p align=\"center\"><span>VII</span></p></td><td width=\"222\"><p align=\"center\"><span>0A606, 0B606, 0C606,</span></p><p align=\"center\"><span>0D606, 0E606</span></p></td><td width=\"186\"><p align=\"center\"><span>P1&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2010-12-10/pdf/2010-31158.pdf\" target=\"_blank\"><span>USML &#160; VII</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-07-15/pdf/2011-17846.pdf\" target=\"_blank\"><span>CCL &#160; 0Y606</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>P2&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-06/pdf/2011-30975.pdf\" target=\"_blank\"><span>USML &#160; VII</span></a><span>;<span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-06/pdf/2011-30976.pdf\" target=\"_blank\"><span> &#160; CCL 0Y606</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58;<span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16145.pdf\" target=\"_blank\"><span> &#160; USML VII</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16238.pdf\" target=\"_blank\"><span>CCL &#160; 0Y606</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>January 6, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Aircraft</span></p></td><td width=\"48\"><p align=\"center\"><span>VIII</span></p></td><td width=\"222\"><p align=\"center\"><span>9A610, 9B610, 9C610, </span></p><p align=\"center\"><span>9D610, 9E610</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-11-07/pdf/2011-28502.pdf\" target=\"_blank\"><span>USML &#160; VIII;</span></a><span> <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-11-07/pdf/2011-28504.pdf\" target=\"_blank\"><span>CCL &#160; 9Y610</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-04-16/pdf/2013-08351.pdf\" target=\"_blank\"><span>USML &#160; VIII</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-04-16/pdf/2013-08352.pdf\" target=\"_blank\"><span>CCL &#160; 9Y610</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>October 15, 2013</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Military Training Equipment and &#160; Training</span></p></td><td width=\"48\"><p align=\"center\"><span>IX</span></p></td><td width=\"222\"><p align=\"center\"><span>0A614, 0B614, 0D614, 0E614</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-06-13/pdf/2012-14443.pdf\" target=\"_blank\"><span>USML &#160; IX</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-06-07/pdf/2012-13745.pdf\" target=\"_blank\"><span>CCL &#160; 0Y614</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31323.pdf\" target=\"_blank\"><span>USML &#160; IX</span></a><span>&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31322.pdf\" target=\"_blank\"><span>CCL &#160; 0Y614</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>July 1, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Personal Protective Equipment</span></p></td><td width=\"48\"><p align=\"center\"><span>X</span></p></td><td width=\"222\"><p align=\"center\"><span></span></p><p align=\"center\"><span>1A613, 1B613, 1D613, 1E613</span></p><p align=\"center\"><span></span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-06-07/pdf/2012-13744.pdf\" target=\"_blank\"><span>USML &#160; X</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-06-13/pdf/2012-14444.pdf\" target=\"_blank\"><span>CCL &#160; 1Y613</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31323.pdf\" target=\"_blank\"><span>USML &#160; X</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-01-02/pdf/2013-31322.pdf\" target=\"_blank\"><span>CCL &#160; 1Y613</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>July 1, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Military Electronics</span></p></td><td width=\"48\"><p align=\"center\"><span>XI</span></p></td><td width=\"222\"><p align=\"center\"><span></span></p><p align=\"center\"><span>3A611, 3B611, 3D611, 3E611</span></p><p align=\"center\"><span>9A620, 9B620, 9D620, 9E620</span></p><p align=\"center\"><span></span></p></td><td width=\"186\"><p align=\"center\"><span>P1&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-11-28/pdf/2012-28477.pdf\" target=\"_blank\"><span>USML &#160; XI</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-11-28/pdf/2012-28396.pdf\" target=\"_blank\"><span>CCL &#160; 3Y611/9Y620</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>P2&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-25/pdf/2013-17556.pdf\" target=\"_blank\"><span>USML &#160; XI</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-25/pdf/2013-17559.pdf\" target=\"_blank\"><span>CCL &#160; 3Y611/9Y620</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-07-01/pdf/2014-14681.pdf\" target=\"_blank\"><span>USML &#160; XI</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-07-01/pdf/2014-14683.pdf\" target=\"_blank\"><span>CCL &#160; 3Y611/9Y620</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>December 30, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Sensors/Night Vision</span></p></td><td width=\"48\"><p align=\"center\"><span>XII</span></p></td><td width=\"222\"><p align=\"center\"><span>7A611, 7B611, 7D611, 7E611</span></p></td><td width=\"186\"><p align=\"center\"><span>P1&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-05-05/pdf/2015-09673.pdf\" target=\"_blank\"><span>USML &#160; XII</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-05-05/pdf/2015-10353.pdf\" target=\"_blank\"><span>CCL &#160; 6Y615/7Y611</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>P2&#58; <span><a href=\"https&#58;//www.gpo.gov/fdsys/pkg/FR-2016-02-19/pdf/2016-03197.pdf\" target=\"_blank\"><span>USML/XII</span></a><span>; &#160; <span><a href=\"https&#58;//www.gpo.gov/fdsys/pkg/FR-2016-02-19/pdf/2016-03182.pdf\" target=\"_blank\"><span>CCL &#160; 7Y611</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"https&#58;//www.gpo.gov/fdsys/pkg/FR-2016-10-12/pdf/2016-24225.pdf\" target=\"_blank\"><span>USML &#160; Cat XII</span></a><span>; <span><a href=\"https&#58;//www.gpo.gov/fdsys/pkg/FR-2016-10-12/pdf/2016-24220.pdf\" target=\"_blank\"><span>CCL &#160; 7Y611</span></a><span><span></span></span></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>December 31, 2016</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Auxiliary Military Equipment</span></p></td><td width=\"48\"><p align=\"center\"><span>XIII</span></p></td><td width=\"222\"><p align=\"center\"><span>0A617, 0B617, 0C617, 0D617, 0E617</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-05-18/pdf/2012-12123.pdf\" target=\"_blank\"><span>USML &#160; XIII</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2012-05-18/pdf/2012-12124.pdf\" target=\"_blank\"><span>CCL &#160; 0Y617</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16145.pdf\" target=\"_blank\"><span>USML &#160; XIII</span></a><span> ; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-07-08/pdf/2013-16238.pdf\" target=\"_blank\"><span>CCL &#160; 0Y617</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>January 6, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Toxicological Agents</span></p></td><td width=\"48\"><p align=\"center\"><span>XIV</span></p></td><td width=\"222\"><p align=\"center\"><span>1A607, 1B607, 1C607, 1D607, 1E607</span></p></td><td width=\"186\"><p align=\"center\"><span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-06-17/pdf/2015-14472.pdf\" target=\"_blank\"><span>USML &#160; XIV</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-06-17/pdf/2015-14474.pdf\" target=\"_blank\"><span>CCL &#160; 1Y607</span></a><b><span></span></b></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>December 31, 2016</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Spacecraft Systems</span></p></td><td width=\"48\"><p align=\"center\"><span>XV</span></p></td><td width=\"222\"><p align=\"center\"><span>9A515, 9B515, 9D515, 9E515</span></p></td><td width=\"186\"><p align=\"center\"><span>P&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-05-24/pdf/2013-11985.pdf\" target=\"_blank\"><span>USML &#160; XV</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-05-24/pdf/2013-11986.pdf\" target=\"_blank\"><span>CCL &#160; 9Y515</span></a><span></span></span></span></span></span></p><p align=\"center\"><span>F; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-05-13/pdf/2014-10806.pdf\" target=\"_blank\"><span>USML &#160; XV</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2014-05-13/pdf/2014-10807.pdf\" target=\"_blank\"><span>CCL &#160; 9Y515</span></a><b><span></span></b></span></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>Rad Hard ICs&#58; &#160; 6/27/14</span></p><p align=\"center\"><span>All Other Items&#58; &#160; 11/10/14</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Nuclear</span></p></td><td width=\"48\"><p align=\"center\"><span>XVI</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>F&#58; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2013-01-30/pdf/2013-01825.pdf\" target=\"_blank\"><span>USML &#160; XVI</span></a><b><span></span></b></span></span></p></td><td width=\"126\"><p align=\"center\"><span>July 1, 2014</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Classified</span></p></td><td width=\"48\"><p align=\"center\"><span>XVII</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>F&#58; April 16, 2013</span></p></td><td width=\"126\"><p align=\"center\"><span>October 15, 2013</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Directed Energy</span></p><p align=\"center\"><span>Weapons</span></p></td><td width=\"48\"><p align=\"center\"><span>XVIII</span></p></td><td width=\"222\"><p align=\"center\"><span>6B619, 6D619, 6E619</span></p></td><td width=\"186\"><p align=\"center\"><span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-06-17/pdf/2015-14472.pdf\" target=\"_blank\"><span>USML &#160; XVIII</span></a><span>; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2015-06-17/pdf/2015-14474.pdf\" target=\"_blank\"><span>CCL &#160; 6Y619</span></a><b><span></span></b></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>December 31, 2016</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Gas Turbine Engines</span></p></td><td width=\"48\"><p align=\"center\"><span>XIX</span></p></td><td width=\"222\"><p align=\"center\"><span>9A619, 9B619, 9C619, </span></p><p align=\"center\"><span>9D619, 9E619</span></p></td><td width=\"186\"><p align=\"center\"><span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-06/pdf/2011-30977.pdf\" target=\"_blank\"><span>USML &#160; XIX</span></a><span>; &#160; <span><a href=\"http&#58;//www.gpo.gov/fdsys/pkg/FR-2011-12-06/pdf/2011-30978.pdf\" target=\"_blank\"><span>CCL &#160; 9Y619</span></a><b><span></span></b></span></span></span></p></td><td width=\"126\"><p align=\"center\"><span>October 15, 2013</span></p></td></tr><tr><td width=\"160\"><p align=\"center\"><span>Not Otherwise Enumerated</span></p></td><td width=\"48\"><p align=\"center\"><span>XXI</span></p></td><td width=\"222\"><p align=\"center\"><span>N/A</span></p></td><td width=\"186\"><p align=\"center\"><span>F&#58; April 16, 2013</span></p></td><td width=\"126\"><p align=\"center\"><span>October 15, 2013</span></p></td></tr></tbody></table><p></p><div><div>&#160;</div></div><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p></p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:30",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:30",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "304",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 101,
+      "SanctionsProgramDisplay": "600 Series Items",
+      "Question": "Are there additional “600 series” ECCNs to be added to the CCL?",
+      "Answer": "<div class=\"ExternalClass4257706E13E34B3E9F424695F41BD1F8\"><div>                                        <p>Yes,&#160;items from USML categories IV, V, IX, and X&#58; military training equipment, energetic materials, personal protective equipment, shelters, articles related to launch vehicles, missiles, rockets, military explosives, and related items&#160;have been added to the &quot;600 series&quot; of the CCL. To follow transfers from the ITAR USML to the EAR CCL, see the ECR dashboard at</p><div><div><p align=\"LEFT\" dir=\"LTR\"><span><span><span><span><span><span></span></span></span></span></span></span></p><p></p><p><a href=\"http&#58;//export.gov/static/RedGreenYellow%20ECR%20Dashbaord%20Editor%20081313_Latest_eg_main_044971.pdf\" target=\"_blank\">http&#58;//export.gov/static/RedGreenYellow%20ECR%20Dashbaord%20Editor%20081313_Latest_eg_main_044971.pdf</a></p><p>&#160;</p><p align=\"LEFT\" dir=\"LTR\">Subsequent final rules will be published creating additional &quot;600 series&quot; entries that correspond with revised USML Categories. After the publication date and prior to the effective date of each final rule, you may pre-position applications for Commerce licenses for items that will transition, as well as submit classification requests to BIS for items that you believe will move to the &quot;600 series.&quot; However, until the effective date, you must follow the existing ITAR and EAR.</p><p></p></div></div><p>&#160;</p><p></p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:31",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:31",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "305",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 101,
+      "SanctionsProgramDisplay": "600 Series Items",
+      "Question": "What is the classification of parts and components that are (a) not enumerated or otherwise described on the USML and (b) common to the C-130 and L-100/L-382 aircraft but not any other aircraft?",
+      "Answer": "<div class=\"ExternalClassE5F7C5302FA647B1A394B22D3C9433BE\"><div>                                        <p>The manufacturer of the aircraft, the Lockheed Martin Corporation, and the Department of State have confirmed that all models and versions of both types of aircraft are within the scope of USML Category VIII(a)(14) (22 CFR § 121.1). This means that parts, components, accessories, and attachments for use in or with the C-130 or L-100/L-382 aircraft that are not enumerated or otherwise described on the USML are controlled under ECCN 9A610.x, or if specifically identified in 9A610.y, controlled under 9A610.y, unless one of the release provisions in paragraph (b) to the EAR's definition of &quot;specially designed&quot; applies (15 CFR § 772.1). In addition, the Rolls Royce 501 D engine used on L-100/L-382 aircraft and other aircraft in production controlled under ECCN 9A991, is controlled under ECCN 9A991.d. Parts common to the T-56 military engine used on the C-130 and other military aircraft and the 501 D used on the L-100/L-382 aircraft are also controlled under ECCN 9A991.d.</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:32",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:32",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "306",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 101,
+      "SanctionsProgramDisplay": "600 Series Items",
+      "Question": "What is the classification of parts and components that are (a) not enumerated or otherwise described on the USML, (b) common to the C-130 and L-100/L-382 aircraft and also common to aircraft in production controlled under ECCN 9A991, and (c) not....",
+      "Answer": "<div class=\"ExternalClass75709EA3420C44CF9D5F921B80EBA883\"><div>                                        <p>What is the classification of parts and components that are (a) not enumerated or otherwise described on the USML, (b) common to the C-130 and L-100/L-382 aircraft and also common to aircraft in production controlled under ECCN 9A991, and (c) not enumerated or described on the CCL other than in 9A991.d?</p><p>ECCN 9A991.d.</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:33",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:33",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "307",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 102,
+      "SanctionsProgramDisplay": "License Exception Strategic Trade Authorization (STA)",
+      "Question": "What happens if my customer reexports or transfers a License Exception STA-eligible item without first obtaining a prior consignee statement?",
+      "Answer": "<div class=\"ExternalClass8B6867EA7250420DB8B243B6C4604FF0\"><div>                                        <p>Any reexport or transfer of an item under License Exception STA without obtaining and maintaining a prior consignee statement is a violation of the EAR. BIS routinely conducts end-use checks on items authorized for export under STA and will request the foreign party to produce a copy of a prior consignee statement if the item was subsequently reexported or transferred under License Exception STA. If the foreign party cannot provide such documentation, the foreign person may be subject to BIS enforcement action.</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:34",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:34",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "308",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 102,
+      "SanctionsProgramDisplay": "License Exception Strategic Trade Authorization (STA)",
+      "Question": "The STA prior consignee statement requires a non-government consignee of a “600 series” item received under STA (either as an export, reexport, or transfer) to agree to an end-use check. Does this mean that an item exported under the “600 series”....",
+      "Answer": "<div class=\"ExternalClass507671F29FF343BC814CC9D92BE7A4F0\"><div>                                        <p>The STA prior consignee statement requires a non-government consignee of a “600 series” item received under STA (either as an export, reexport, or transfer) to agree to an end-use check. Does this mean that an item exported under the “600 series” under other Commerce authorizations, including a license or another license exception, is not subject to an end-use check?</p><div><div><p dir=\"LTR\" align=\"LEFT\">A.2. No, any item subject to the EAR, including any &quot;600 series&quot; item, regardless of the form of its export authorization, may be subject to an end-use check. This includes exports authorized under a BIS license, license exception, and &quot;no license required&quot; status under the EAR, and all items subject to the EAR, including CCL items (including &quot;600 series&quot; items&quot;) and items designated as EAR99.</p></div></div><p>&#160;</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:34",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:34",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "309",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 102,
+      "SanctionsProgramDisplay": "License Exception Strategic Trade Authorization (STA)",
+      "Question": "In order to use License Exception STA (EAR section 740.20), is there a specific form the consignee must use to satisfy the conditions of the exception?",
+      "Answer": "<div class=\"ExternalClassBE4F08E0DAE342B993CF83F061F7706E\"><div>                                        <p>No. BIS understands that transactions are different and that there are multiple ways to satisfy the educational and recordkeeping objectives of the certification requirements in License Exception STA. Thus, when creating the license exception, BIS did not prescribe that a specific form be used. In response to this question, however, BIS has created the following template following the regulatory text that could be inserted into a form. If completed fully and accurately, the certification requirement of License Exception STA would be satisfied.</p><p dir=\"LTR\" align=\"LEFT\"><span><span><span><a href=\"https&#58;//www.bis.doc.gov/index.php/component/docman/?task=doc_download&amp;gid=962\" target=\"_blank\">CLICK HERE for the template for &quot;600 series&quot; items</a></span></span></span></p><p dir=\"LTR\" align=\"LEFT\"><span><span><span><a href=\"https&#58;//www.bis.doc.gov/index.php/component/docman/?task=doc_download&amp;gid=1192\" target=\"_blank\">CLICK HERE for the template for the 9x515 items</a></span></span></span></p><p><span><span><span><a href=\"https&#58;//www.bis.doc.gov/index.php/component/docman/?task=doc_download&amp;gid=1193\" target=\"_blank\">CLICK HERE for the template for other items </a></span></span></span></p><p>&#160;</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:35",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:35",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    },
+    {
+      "FaqID": "310",
+      "Agency": "BIS",
+      "CategoryID": 0,
+      "CategoryDisplay": "",
+      "SubcategoryID": 0,
+      "SubcategoryDisplay": "",
+      "SanctionsProgramID": 102,
+      "SanctionsProgramDisplay": "License Exception Strategic Trade Authorization (STA)",
+      "Question": "I exported under License Exception STA a “600 series” item to a defense contractor in a Country Group A:5 country for the ultimate end use by the military of that Country Group A:5 country. I have already obtained a prior consignee statement from....",
+      "Answer": "<div class=\"ExternalClass8FAA4C4968474489B92D611C77DDFB1D\"><div>                                        <p>I exported under License Exception STA a “600 series” item to a defense contractor in a Country Group A&#58;5 country for the ultimate end use by the military of that Country Group A&#58;5 country. I have already obtained a prior consignee statement from that defense contractor in the Country Group A&#58;5 country who received and currently possesses the “600 series” item, but do I also need to obtain a separate prior consignee statement from the Country Group A&#58;5 government itself before the defense contractor can furnish that “600 series” item to the Country Group A&#58;5 military?</p><div><div><p align=\"LEFT\" dir=\"LTR\">A.4. You (including the defense contractor in the Country Group A&#58;5 country) do not need to obtain a prior consignee statement from the Country Group A&#58;5 government. While License Exception STA requires a prior consignee statement from the defense contractor for export to the Country Group A&#58;5 country, the subsequent transfer (in-country) from the defense contractor to the Country Group A&#58;5 military does not require an additional authorization under the EAR. A transfer (in-country) for which no license is required does not require an EAR authorization. Therefore, since a prior consignee statement was provided by the defense contractor and the subsequent transfers (in-country) do not require an additional authorization, a separate prior consignee statement is not needed from the Country Group A&#58;5 military <i>or</i> from any other party receiving the &quot;600 series&quot; item in-country prior to the Country Group A&#58;5 military receiving the &quot;600 series&quot; item for its ultimate end use.</p><p align=\"LEFT\" dir=\"LTR\">Consignees that provide the prior consignee statements should be aware that they are ultimately responsible for ensuring that the &quot;600 series&quot; item is provided to an end-user that is eligible to receive &quot;600-series&quot; items under License Exception STA. Thus, the consignee should take reasonable steps to assure that any parties who will handle the item understand and comply with this STA limitation (in other words, the consignee should take reasonable steps to put any such parties on notice). One potential approach for putting those other parties on notice could include communicating to all parties that the &quot;600 series&quot; item they are receiving was exported under License Exception STA for ultimate end use by the Country Group A&#58;5 military and obtaining written commitments from those parties that they will comply with these requirements. Another potential approach for putting those other parties on notice may be through contractual liability clauses.</p></div></div><p>&#160;</p>            <div>                        </div>            <div>                    </div>    </div></div>",
+      "FaqDate": "2021-07-14T07:00:00",
+      "EnteredBy": "ADMIN",
+      "EnteredDate": "2021-07-14T21:51:36",
+      "ModifiedBy": "ADMIN",
+      "ModifiedDate": "2021-07-14T21:51:36",
+      "RegulatoryProvisions": [],
+      "Categories": [
+        {
+          "CategoryID": 187,
+          "CategoryDisplay": "General"
+        }
+      ]
+    }
+  ]
+}

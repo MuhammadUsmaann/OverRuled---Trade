@@ -1,0 +1,68 @@
+@mixin border(
+    $border-size: 1px,
+    $border-pattern: solid,
+    $border-color: black,
+    $border-position: all,
+    $border-clear: none ) {
+  @if $border-position == all {
+    border: $border-size $border-pattern $border-color;
+  }
+  @else {
+    border-#{$border-position}: $border-size
+    $border-pattern $border-color;
+  }
+  @if $border-clear == none {
+    $border-position: all;
+  }
+  @else {
+    border-#{$border-clear}: none;
+  }
+}
+
+@mixin border-radius($top-left:null, $top-right:null, $bottom-right:null, $bottom-left:null){
+  -webkit-border-radius: $top-left $top-right $bottom-right $bottom-left;
+     -moz-border-radius: $top-left $top-right $bottom-right $bottom-left;
+      -ms-border-radius: $top-left $top-right $bottom-right $bottom-left;
+          border-radius: $top-left $top-right $bottom-right $bottom-left;
+}
+@mixin box-shadow($top, $left, $blur, $color, $inset:"") {
+  -webkit-box-shadow: $top $left $blur $color ($inset);
+  -moz-box-shadow: $top $left $blur $color ($inset);
+  box-shadow: $top $left $blur $color ($inset);
+}
+
+@mixin anim($params...){
+  $values: null;
+  @for $i from 0 to length($params) {
+    @debug #{nth($params, $i + 1)};
+    @if '#{nth($params, $i + 1)}' != '!important' {
+      $values: #{nth($params, $i + 1)} $animation__time $animation__easing, $values;
+    }
+  }
+  @if '#{nth($params, length($params))}' != '!important' {
+    transition: $values;
+  }
+  @else {
+    transition: $values !important;
+  }
+}
+@mixin clearfix(){
+  &:before,
+  &:after{
+    content: " ";
+    display: table;
+  }
+  &:after{
+    display: block;
+    clear: both;
+    height: 1px;
+    margin-top: -1px;
+    visibility: hidden;
+  }
+  &{
+    *zoom: 1;
+  }
+}
+.lg-shadow{
+  box-shadow: 0 14px 30px rgba(0,0,0,0.2);
+}

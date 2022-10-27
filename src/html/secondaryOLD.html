@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Overruled - Trade | Secondary Sanctions</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-store, max-age=0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Overruled | Powered by Akin Gump">
+    <meta name="author" content="Akin Gump IT Solutions">
+    <link id="icon" rel="icon" sizes="16x16 32x32 64x64" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://use.typekit.net/irw3akf.css">
+    <script type="text/javascript">
+
+        if (_isIE()) {
+            var redirectUrl = window.location.href;
+            window.location.href = "IncompatibleBrowser.html?redirectUrl=" + redirectUrl;
+        }
+
+        function _isIE() {
+            var ua = window.navigator.userAgent;
+
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+                // IE 10 or older => return version number
+                return true;
+            }
+
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+                // IE 11 => return version number
+                return true
+            }
+
+            // other browser
+            return false;
+        }
+    </script>
+</head>
+<body>
+
+
+    <div id="header"></div>
+    <div id="sidenav"></div>
+    <div class="tb-main">
+        <div class="main-content" style="display: none;">
+            <div class="header">
+            </div>
+            <div class="row flex-grow-1 overflow-hidden  main mt-1">
+
+                <div id="centerDiv" class="col center-div page-height-noscroll">
+                    <div class="tb-panel-block" style="height: 100%;" id="mapPanel">
+                        <div class="tb-panel-header " style="justify-content: space-between;">
+                            OFAC Secondary Sanctions
+                        </div>
+                        <div class="tb-panel-body" style="width: 100%; height: 85%;">
+                            <div id="worldMap" style="width: 100%; height: 100%;" class="map-legend-tl"></div>
+                        </div>
+                        <div class="tb-panel-footer">
+                            <b><i>Click a country or program to see detailed secondary sanction information.</i></b>
+                        </div>
+                    </div>
+                </div>
+                <div class="fixed-right sidebar-toggle-buttons right" id="rightSidebar-buttons" style="display: none;">
+                    <button class="navbar-toggler side-bar-toggler side-bar-right-toggler  mr-1" type="button" data-toggle="collapse" data-target="#rightSidebar" aria-controls="rightSidebar" aria-expanded="false" aria-label="Toggle Sanctions" title="Toggle Sanctions">
+
+                        <i class="fa fa-chevron-circle-right"></i>
+                        <i class="fa fa-chevron-circle-left"></i>
+                    </button>
+                </div>
+                <div class="fixed-right side-bar-right mr-1 wide50 sm-wide100 " >
+
+                    <div class="collapse " id="rightSidebar">
+                        <div class="ml-1 side-bar mr-4">
+                            <div class="sticky-top opaque w-100">
+
+                                <div class="form-group row">
+                                    <div class="col-md-3  col-form-label">
+                                        <label for="region" class="font-weight-bold">Country/Program</label>
+
+                                    </div>
+                                    <div class="col-md-7">
+                                        <input id="region" class="k-dropdown form-control w-100" name="Country" data-placeholder="Select a country..." />
+
+                                        <a href="#" class="d-none d-md-inline d-lg-none" id="showMap" title="Show Map" aria-label="Show Map"><i class="fas fa-globe-asia"></i></a>
+
+                                    </div>
+                                </div>
+                                
+                                <div id="authorityDiv" style="display: none;">
+                                    
+                                    <div class="form-group row mb-1 pb-1 border-bottom" id="authoritySelect">
+                                        <div class="col-md-3  col-form-label">
+                                            <label for="authority" class="font-weight-bold">Sanctioning Authority</label>
+
+                                        </div>
+                                        <div class="col-md-7">
+                                            <input id="authority" class="k-dropdown form-control w-100" name="Authority" data-placeholder="Select a country..." />
+
+                                        </div>
+                                    </div>
+                                    <div id="authorityDetails" class="mb-2 border-primary border-bottom">
+
+                                        <div class="row">
+                                            <div class="col" id="issuedDate"><b>Issued: </b><span id="issued"></span></div>
+                                            <div class="col" id="effectiveDate"><b>Effective: </b><span id="effective"></span></div>
+                                        </div>
+                                        <div class="row" id="amendment">
+                                            <div class="col" id="amendmentIssuedDate"><b>Amended: </b><span id="amended"></span></div>
+                                            <div class="col" id="amendmentEffectiveDate"><b>Effective: </b><span id="amendedEffective"></span></div>
+                                        </div>
+                                        <div class="row" id="source">
+                                            <div class="col"><a id="aSource" target="_blank"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="authorityTabs" class="tabstrip90PctH" style="display: none;">
+                                <ul>
+                                    <li class="sectionsTab  k-state-active">
+                                        Relevant Sections
+                                    </li>
+                                    <li class="faqsTab">
+                                        Related FAQs
+                                    </li>
+                                </ul>
+
+                                <div class="tab" id="sections"></div>
+                                <div class="tab" id="faqs">
+
+                                    <div id="faqPlaceholder"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+        <div id="footer">
+
+        </div>
+    </div>
+
+     <script src="js/secondary.js" type="text/javascript"></script>
+
+</body>
+</html>

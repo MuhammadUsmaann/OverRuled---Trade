@@ -1,0 +1,150 @@
+{
+  "TotalPenalties": {
+    "Table": [
+        {
+            "Year": "2012-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2013-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2014-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2015-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2016-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2017-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2018-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2019-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2020-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2021-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        },
+        {
+            "Year": "2022-01-01T00:00:00",
+            "TotalSettlementsUS": 0.0000,
+            "TotalSettlementsNonUS": 0.0000,
+            "TotalActionsUS": 0,
+            "TotalActionsNonUS": 0
+        }
+    ]
+},
+  "ActionsByIndustry": {
+    "Table": [
+      {
+        "Industry": "Aerospace, Shipping & Transportation",
+        "TotalSettlements": 2463666000.0000,
+        "IndustryActions": 64,
+        "IndustryPercent": 0.15166,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Technology",
+        "TotalSettlements": 143673442.0000,
+        "IndustryActions": 56,
+        "IndustryPercent": 0.13270,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Industrial",
+        "TotalSettlements": 4847921.0000,
+        "IndustryActions": 32,
+        "IndustryPercent": 0.07583,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Consumer Goods",
+        "TotalSettlements": 21145000.0000,
+        "IndustryActions": 14,
+        "IndustryPercent": 0.03318,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Agricultural/Food & Medicine",
+        "TotalSettlements": 26709250.0000,
+        "IndustryActions": 12,
+        "IndustryPercent": 0.02844,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Metals & Mining",
+        "TotalSettlements": 3093000.0000,
+        "IndustryActions": 9,
+        "IndustryPercent": 0.02133,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Telecommunications",
+        "TotalSettlements": 1875000.0000,
+        "IndustryActions": 4,
+        "IndustryPercent": 0.00948,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Energy",
+        "TotalSettlements": 485000.0000,
+        "IndustryActions": 3,
+        "IndustryPercent": 0.00711,
+        "IsOther": 0
+      },
+      {
+        "Industry": "Other",
+        "TotalSettlements": 25554000.0000,
+        "IndustryActions": 31,
+        "IndustryPercent": 0.07346,
+        "IsOther": 1
+      }
+    ]
+  }
+}

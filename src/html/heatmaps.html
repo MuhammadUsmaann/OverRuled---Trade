@@ -1,0 +1,364 @@
+﻿﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Overruled - Trade | Heat Maps</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-store, max-age=0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Overruled | Powered by Akin Gump">
+    <meta name="author" content="Akin Gump IT Solutions">
+    <link id="icon" rel="icon" sizes="16x16 32x32 64x64" type="image/x-icon">
+    <link rel="stylesheet" href="https://use.typekit.net/irw3akf.css">
+    <script type="text/javascript">
+        setTimeout(() => {
+            console.log(document.getElementsByClassName('tb-main')[0])
+            document.getElementsByClassName('tb-main')[0].style.display = 'none';
+        }, 10);
+        let mycheck = 0;
+        function SearchHolder() {
+            if (mycheck == 0) {
+
+                document.getElementById("searchholderresponsive").classList.add("show-searchbar");
+                document.getElementById("searchholderresponsive").classList.remove("hide-searchbar");
+                mycheck++;
+            }
+            else if (mycheck > 0) {
+                document.getElementById("searchholderresponsive").classList.remove("show-searchbar");
+                document.getElementById("searchholderresponsive").classList.add("hide-searchbar");
+                mycheck = 0;
+            }
+        }
+        if (_isIE()) {
+            var redirectUrl = window.location.href;
+            window.location.href = "IncompatibleBrowser.html?redirectUrl=" + redirectUrl;
+        }
+
+        function _isIE() {
+            var ua = window.navigator.userAgent;
+
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+                // IE 10 or older => return version number
+                return true;
+            }
+
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+                // IE 11 => return version number
+                return true
+            }
+
+            // other browser
+            return false;
+        }
+    </script>
+</head>
+
+<body id="headmappage">
+    <div id="header"></div>
+    <div id="sidenav"></div>
+    <div class="tb-main p-20">
+        <div class="mob-section clr">
+            <div class="flex flex-center hide-searchbar " id="searchholderresponsive">
+                <div id="agencyNavWrapper" class="select-wrapper inline mr-10 ml-20 relative">
+                    <div class="select">
+                        <div class="select__trigger">
+                            <span name="selectedPage" id="navSelectedPage">OFAC Sanctions</span>
+                            <div class="arrow"></div>
+                        </div>
+                        <div class="custom-options" id="agencyNav" name="agencyOptions">
+                            <span class="custom-option" data-value="OFAC"
+                                onclick="window.location.replace('./index.html?a=ofac')">OFAC Sanctions</span>
+                            <span class="custom-option" data-value="BIS"
+                                onclick="window.location.replace('./index.html?a=bis')">BIS Export Controls</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- search -->
+                <div class="inline header-search">
+                    <!-- <div class="tb-menu-item" id="search_item">
+                        <img class="tb-menu-icon" src="img/icons/icon_search_2.svg" />
+                    </div> -->
+                    <!-- search input (expanded view) -->
+                    <div id="search_item_expanded">
+                        <div id="search_input_div">
+                            <div class="">
+                                <input id="search_input" data-role="keywordSearch" type="text"
+                                    class="border-0 inline left search-type-box input-text" placeholder="Search..."
+                                    alt="Search Trade" title="Search Trade" aria-label="Search Trade" />
+                            </div>
+                            <div class="select-wrapper left inline">
+                                <div class="select">
+                                    <div class="select__trigger">
+                                        <span name="selectedPage" id="searchSelectedPage">OFAC Sanctions</span>
+                                        <div class="arrow"></div>
+                                    </div>
+                                    <div class="custom-options" id="agencySearch" name="agencyOptions">
+                                        <span class="custom-option selected" data-value="OFAC">OFAC Sanctions</span>
+                                        <span class="custom-option" data-value="BIS">BIS Export Controls</span>
+                                        <span class="custom-option" data-value="DDTC">DDTC Export Controls</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" id="search_link"
+                                class="bg-orange white inline header-seach-btn round-3 right inline"><img
+                                    class="search-white"></a>
+                            <!--<input type="text" id="search_input" placeholder="Search Trade" alt="Search Tradebase" title="Search Tradebase" aria-label="Search Tradebase" />
+                            <a id="search_link" href="#"><img id="search_icon_dark" src="img/icons/icon_search_2_dark.svg" /></a>-->
+                        </div>
+                    </div>
+                    <!-- advanced search -->
+                </div>
+            </div>
+        </div>
+        <div class="main-content" style="display: none;">
+            <div class="header">
+            </div>
+            <div class="main">
+                <div id="centerDiv" class="col p-10 page-height-autoscroll">
+                    <div id="mapTabs" class="tabstrip100PctH">
+                        <ul>
+                            <li class="sanctionsrisk">
+                                <span class="responsive-sanctionrisk">Overruled Risk -</span> Sanctions
+
+                                <span class="ml-2" href="#" id="sanctionsToolTip" name="tooltipLink"
+                                    data-title="Overruled Risk Index - Sanctions"><i class="k-icon k-i-info"></i></span>
+                            </li>
+                            <li class="exportsrisk">
+                                <span class="responsive-sanctionrisk">Overruled Risk -</span> Exports
+                                <span class="ml-2" href="#" id="exportsToolTip" name="tooltipLink"
+                                    data-title="Overruled Risk Index - Exports"><i class="k-icon k-i-info"></i></span>
+                            </li>
+                            <li class="combinedrisk">
+                                <span class="responsive-sanctionrisk">Overruled Risk -</span> Combined
+                                <span class="ml-2" href="#" id="combinedToolTip" name="tooltipLink"
+                                    data-title="Overruled Risk Index - Combined"><i class="k-icon k-i-info"></i></span>
+                            </li>
+                        </ul>
+                        <div class="tab pb-2 mb-2" id="sanctionRiskTab">
+                            <div class="clearfix show-heatmap">
+                                <div class="map-area-container">
+                                    <div id="sanctionHeatMap" class="map-area map-legend-bl"></div>
+                                </div>
+                                <div class="countries-area-container">
+                                    <div class="high-risk-countries">
+                                        <div id="sanctionlist_panel" class="tb-panel border-0">
+                                            <div class="tb-panel-header block" style="min-height: auto;">
+                                                <div id="sanctionlist_search_div">
+                                                    <div class="k-textbox fluid search-by-country">
+                                                        <input id="sanctionlist_search_input" type="text"
+                                                            class="border-0 inline left search-type-box input-text pl-10"
+                                                            placeholder="Filter by country..." alt="Filter by country"
+                                                            title="Filter by country" aria-label="Filter by country" />
+                                                        <a href="#" id="sanctionlist_search_link"
+                                                            class="white inline header-seach-btn round-3 right inline relative"
+                                                            style="top:-43px;"><img src="img/search-black-ico.svg"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tb-panel-body flex p-0 overflow-y">
+                                                <div class="show-risk-countries">
+                                                    <ul id="sanctionRiskList"></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab pb-2 mb-2" id="exportRiskTab">
+                            <div class="clearfix show-heatmap">
+                                <div class="map-area-container">
+                                    <div id="exportHeatMap" class="map-area map-legend-bl"></div>
+                                </div>
+                                <div class="countries-area-container">
+                                    <div class="high-risk-countries">
+                                        <div id="exportlist_panel" class="tb-panel border-0">
+                                            <div class="tb-panel-header block" style="min-height: auto;">
+                                                <div id="exportlist_search_div">
+                                                    <div class="k-textbox fluid search-by-country">
+                                                        <input id="exportlist_search_input" type="text"
+                                                            class="border-0 inline left search-type-box input-text pl-10"
+                                                            placeholder="Filter by country..." alt="Filter by country"
+                                                            title="Filter by country" aria-label="Filter by country" />
+                                                        <a href="#" id="exportlist_search_link"
+                                                            class="white inline header-seach-btn round-3 right inline relative"
+                                                            style="top:-43px;"><img src="img/search-black-ico.svg"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tb-panel-body flex p-0 overflow-y">
+                                                <div class="show-risk-countries">
+                                                    <ul id="exportRiskList"></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab pb-2 mb-2" id="combinedRiskTab">
+                            <div class="clearfix show-heatmap">
+                                <div class="map-area-container">
+                                    <div id="combinedHeatMap" class="map-area map-legend-bl fluid"></div>
+                                </div>
+                                <div class="countries-area-container">
+                                    <div class="high-risk-countries">
+                                        <div id="combinedlist_panel" class="tb-panel border-0">
+                                            <div class="tb-panel-header block" style="min-height: auto;">
+                                                <div id="combinedlist_search_div">
+                                                    <div class="k-textbox fluid search-by-country">
+                                                        <input id="combinedlist_search_input" type="text"
+                                                            class="border-0 inline left search-type-box input-text pl-10"
+                                                            placeholder="Filter by country..." alt="Filter by country"
+                                                            title="Filter by country" aria-label="Filter by country" />
+                                                        <a href="#" id="combinedlist_search_link"
+                                                            class="white inline header-seach-btn round-3 right inline relative"
+                                                            style="top:-43px;"><img src="img/search-black-ico.svg"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tb-panel-body flex p-0 overflow-y">
+                                                <div class="show-risk-countries">
+                                                    <ul id="combinedRiskList"></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="fixed-right sidebar-toggle-buttons right" id="rightSidebar-buttons" style="display: none;">
+                    <button class="navbar-toggler side-bar-toggler side-bar-right-toggler  mr-1" type="button"
+                        data-toggle="collapse" data-target="#rightSidebar" aria-controls="rightSidebar"
+                        aria-expanded="false" aria-label="Toggle Sanctions" title="Toggle Sanctions">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        <i class="fa fa-chevron-circle-left"></i>
+                    </button>
+                </div>
+                <div class="fixed-right side-bar-right mr-1 wide50 sm-wide100 ">
+                    <div class="collapse " id="rightSidebar">
+                        <div class="ml-1 side-bar mr-4">
+                            <div class="sticky-top opaque align-items-center">
+                                <b class="pr-5">Country (TRI): </b><input id="region" class="k-dropdown w-50" name="Country"
+                                    data-placeholder="Select a country..." />
+                                <a href="#" class="d-inline pl-5 d-lg-none" id="showMap" title="Show Map"
+                                    aria-label="Show Map"><i class="fas fa-globe-asia"></i></a>
+                            </div>
+                            <div id="sanctionResults" class="mt-2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-10 xs-font">
+                    These heat maps are not intended to pass judgment on any country or its policies. Instead, the heat
+                    maps provide a standardized methodology for assessing a single risk factor – country risk – based on
+                    the data sources listed above. The heat maps do not purport to convey risk beyond specifically
+                    designated parties (e.g., by accounting for subsidiaries or other affiliations). The country risks
+                    assessed by these heat maps are merely one factor of several that should be used in assessing
+                    overall transaction risk, and should not be taken as dispositive in determining whether to proceed
+                    with a business transaction or dealing.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer"></div>
+    <script id="tooltip-template" type="text/x-kendo-template">
+        <div class="tb-panel tb-tooltip-wide m-0">
+            <div class="tb-panel-header" style="justify-content: space-between;">
+                <span>#=target.data('title')#</span>
+                <span style="display: flex; align-items: center;" name="close-wrapper">
+                </span>
+            </div>
+            <div class="tb-panel-body text-left overflow-auto" style="display: block;">
+                <div name="tooltipContent">
+                </div>
+            </div>
+        </div>
+    </script>
+    <div id="sanctionsToolTipContent" style="display: none;">
+        This heat map presents a visualization of relative sanctions and money laundering risks by country, taking into
+        account over a dozen variable data sources that reflect the sanctions programs and lists administered by OFAC
+        and the U.S. State Department.  Given the dynamic nature of sanctions, and how quickly they can be imposed or
+        lifted, this heat map updates dynamically to reflect changes in sanctions list designations and other changes to
+        the sanctions and money laundering risk environment.  Countries are grouped by band on a scale of 0 (lowest
+        risk) to 12 (highest risk).  
+        <div class="small italic mt-2 font-italic">
+            The risks presented in Sanctions Risk Map are compiled through a proprietary algorithm that draws upon the
+            following data sources, each of which has been assigned a different weight in Overruled’s proprietary
+            algorithm:
+            <ul>
+                <li>
+                    Number of parties designated on the following lists:
+                    <ul>
+                        <li>OFAC List of Specially Designated Nationals and Blocked Persons</li>
+                        <li>OFAC Sectoral Sanctions Identifications List</li>
+                        <li>OFAC Palestinian Legislative Council List</li>
+                        <li>OFAC Correspondent and Payable Through Account (CAPTA) List (formerly “561 List”)</li>
+                        <li>OFAC List of Foreign Sanctions Evaders</li>
+                        <li>OFAC Non-SDN Menu-Based Sanctions List</li>
+                        <li>OFAC Non-SDN Communist Chinese Military Companies List</li>
+                        <li>U.S. State Department Non-Proliferation Sanctions List</li>
+                    </ul>
+                </li>
+                <li>Number of secondary sanctions bases targeting particular counties as identified in Overruled’s
+                    Secondary Sanctions Database;</li>
+                <li>List of countries subject to comprehensive/country-wide sanctions;</li>
+                <li>List of countries whose governments are subject to blocking measures;</li>
+                <li>List of countries subject to OFAC sanctions programs (including list-based programs); and</li>
+                <li>Financial Action Task Force lists of high-risk jurisdictions and jurisdictions under increased
+                    monitoring (as published in U.S. Financial Crimes Enforcement Network (FinCen) Advisories).</li>
+            </ul>
+        </div>
+    </div>
+    <div id="exportsToolTipContent" style="display: none;">
+        This heat map presents a visualization of relative export control risks by country, incorporating nearly a
+        variable dozen data sources that reflect the restricted party and country lists administered by BIS and the U.S.
+        State Department.  As export controls continuously evolve and apply to new parties and countries, this heat map
+        updates dynamically to reflect these additional designations and other changes to the export control risk
+        environment.  Countries are grouped by band on a scale of 0 (lowest risk) to 10 (highest risk).
+        <div class="small italic mt-2 font-italic">
+            The risks presented in Exports Risk Map are compiled through a proprietary algorithm that draws upon the
+            following data sources, each of which has been assigned a different weight in Overruled’s proprietary
+            algorithm:
+            <ul>
+                <li>
+                    Number of parties designated on the following lists:
+                    <ul>
+                        <li>BIS Entity List;</li>
+                        <li>BIS Denied Persons List;</li>
+                        <li>BIS Unverified List;</li>
+                        <li>BIS Military End-Users List;</li>
+                    </ul>
+                </li>
+                <li>EAR Country Groups (including ITAR 126.1 (Arms Embargo) Countries and State Sponsors of Terrorism);
+                </li>
+                <li>Countries subject to Military End-Use/User Controls;</li>
+                <li>Countries subject to Military Intelligence End-Use/User Controls; and</li>
+                <li>Countries designated as ICTS Foreign Adversaries.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="combinedToolTipContent" style="display: none;">
+        This heat map presents a visualization of relative combined Sanctions and Exports risk.  Countries are grouped
+        by band on a scale of 0 (lowest risk) to 12 (highest risk).  
+        <div class="small italic mt-2 font-italic">
+            For information on the elements making up the invididual sanction and export scores, click on the <i
+                class="k-icon k-i-info"></i> icon on the corresponding tabs.
+
+        </div>
+    </div>
+    <script src="js/heatmaps.js" type="text/javascript"></script>
+</body>
+<script>
+    document.getElementsByClassName('tb-main')[0].style.display = 'block';
+</script>
+
+</html>

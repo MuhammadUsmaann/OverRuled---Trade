@@ -1,0 +1,35 @@
+{
+	"Simple":[
+    {
+        "Statute": "IEEPAECRA",
+        "Quadrant_1": 500000.0010,
+        "Quadrant_2": 1500000.0000,
+        "Quadrant_3": 2316757.5000,
+        "Quadrant_4": 4633515.0000
+    },
+		{
+			"Statute": "Summary",
+			"Quadrant_1": 500000.0010,
+			"Quadrant_2": 1500000.0000,
+			"Quadrant_3": 2316757.5000,
+			"Quadrant_4": 4633515.0000
+		}
+],
+	"Complex": [
+		{
+			"Statute": "IEEPAECRA",
+			"Quadrant_1": 1000.0000,
+			"Quadrant_2": 20000.0000,
+			"Quadrant_3": 296741.5000,
+			"Quadrant_4": 593483.0000
+		},
+		{
+			"Statute": "Summary",
+			"Quadrant_1": 1000.0000,
+			"Quadrant_2": 20000.0000,
+			"Quadrant_3": 296741.5000,
+			"Quadrant_4": 593483.0000
+		}
+	],
+	"LastUpdate": "2021-01-15T00:00:00"
+}
