@@ -1,6 +1,4 @@
-﻿
-
-<div id="bisCaseResults" name="caseResults">
+﻿<div id="bisCaseResults" name="caseResults">
     <div class="right inline p-15">
         <div class="page-update-status inline" id="bisCasesLastUpdate" name="lastUpdate"></div>
 
@@ -8,132 +6,170 @@
     <div>
         <div class="overruled-table d-inline-block ">
             <table id="bisCaseResultsGrid" name="caseResultsGrid"></table>
-        </div><!--ending of overruled-table-->
+        </div>
+        <!--ending of overruled-table-->
 
     </div>
 </div>
 
 <div id="bisCaseDetails" class="sliding-case-details" name="caseDetails">
-    
+
     <div class="p-20 pb-0">
-        <div class="case-detail-header clearfix">
-            <div class="inline left case-detail-title">
-                <h2 class="bold flex">
-                    <span id="bisFlag">
-                    </span>
-                    <span id="bisRespondentName"></span>
-                </h2>
-                <div class="pt-5 md-font"><span id="bisIndustry"></span> | Enforcement Date: <span id="bisEnforcementDate"></span></div>
-            </div>
-            <div class="inline-flex flex-center right">
-                <div class="inline mr-8">
-                <a href="#" class="button inline-flex flex-center mr-5 record-nav" aria-label="Previous Record" title="Previous Record" data-role="prev">
-                    <i class="fa fa-arrow-left"></i>
-                </a>
-                <a href="#" class="button inline-flex flex-center record-nav" aria-label="Next Record" title="Next Record" data-role="next">
-                    <i class="fa fa-arrow-right"></i>
-                </a>
-            </div>
+        <div class="case-detail-header clearfix ">
+            <div class="inline left case-detail-title w-100">
+                <div class="d-flex justify-content-between flex-lg-row flex-column-reverse align-items-lg-center w-100">
+                    <h2 class="bold flex">
+                        <span id="bisFlag">
+                        </span>
+                        <span id="bisRespondentName"></span>
+                    </h2>
+                    <div class="inline-flex flex-center align-items-start justify-content-between mb-md-0 mb-5">
+                        <div class="inline mr-8">
+                            <a href="#" class="button inline-flex flex-center mr-5 record-nav"
+                                aria-label="Previous Record" title="Previous Record" data-role="prev">
+                                <i class="fa fa-arrow-left"></i>
+                            </a>
+                            <a href="#" class="button inline-flex flex-center record-nav" aria-label="Next Record"
+                                title="Next Record" data-role="next">
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </div>
 
-                <a href="#" target="_blank" class="button primary-button inline mr-5" id="bisSource">
-                    Source
-                </a>
-                <a href="#" class="button green-button inline mr-5">
-                    <span><img class="-top-1 window-white-ico"/> Compare Case</span>
-                </a>
-                <a href="#" class="button white-button inline" id='btn-bis-case-detail-hide' data-role="hide">
-                    <img class="dark-cross-ico" height="16" />
-                </a>
-                <div class="text-right pt-5 hide">
-                    <span>Last Update: 31 Jan 2015</span>
+                        <div><a href="#" target="_blank" class="button primary-button inline mr-5" id="bisSource">
+                                Source
+                            </a>
+                            <a href="#" class="button green-button inline mr-5">
+                                <span><img class="-top-1 window-white-ico" /> Compare Case</span>
+                            </a>
+                        </div>
+                        <a href="#" class="button white-button inline" id='btn-bis-case-detail-hide' data-role="hide">
+                            <img class="dark-cross-ico" height="16" />
+                        </a>
+                        <div class="text-right pt-5 hide">
+                            <span>Last Update: 31 Jan 2015</span>
+                        </div>
+                    </div>
                 </div>
-
+                <div class="pt-5 md-font"><span id="bisIndustry"></span> | Enforcement Date: <span
+                        id="bisEnforcementDate"></span></div>
             </div>
-        </div><!--ending of case-detail-header-->
+
+        </div>
+        <!--ending of case-detail-header-->
         <div class="case-detail-body">
             <div class="pt-10 case-key-factors">
                 <h5 class="bold">Key Facts</h5>
                 <p class="pt-5" id="bisKeyFacts">
                 </p>
                 <div class="row">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Monetary Penalty</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Monetary Penalty</h6>
+                        </div>
                         <div class="orange-tag inline" id="bisSettlementAmount"></div>
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Denial Order</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Denial Order</h6>
+                        </div>
                         <div class="orange-tag inline" id="bisDenialOrder"></div>
                     </div>
                 </div>
                 <div class="row  mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Additional Penalty</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Additional Penalty</h6>
+                        </div>
                         <div class="inline" id="bisAdditionalSettlement"></div>
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Non-Monetary Penalty</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Non-Monetary Penalty</h6>
+                        </div>
                         <div class="inline" id="bisNonMonetaryPenalty"></div>
                     </div>
                 </div>
                 <div class="row pt-15">
                     <div class="col-12">
-                        <div class="mb-8"><h6 class="bold">Suspended Penalty</h6></div>
+                        <div class="mb-8">
+                            <h6 class="bold">Suspended Penalty</h6>
+                        </div>
                         <div class="inline" id="bisSuspendedPenalty"></div>
                     </div>
                 </div>
             </div>
             <div class="mt-10 case-index bg-gray p-15 round-5">
                 <div class="row">
-                    <div class="col-12"><h5 class="bold">Violation Information</h5></div>
+                    <div class="col-12">
+                        <h5 class="bold">Violation Information</h5>
+                    </div>
                 </div>
 
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">No. of Violations</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">No. of Violations</h6>
+                        </div>
                         <div class="orange-tag inline" id="bisNumberOfViolations"></div>
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Violation Types</h6></div>
+                    <div class="col-12 col-md-6 d-flex case-result-responsive-col flex-row justify-content-between mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Violation Types</h6>
+                        </div>
                         <div id="bisViolationTypes"></div>
                     </div>
                 </div>
 
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Charging Vehicles</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Charging Vehicles</h6>
+                        </div>
                         <div id="bisChargingVehicles"></div>
 
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Other Related Provisions</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Other Related Provisions</h6>
+                        </div>
                         <div id="bisRegulatoryProvisions"></div>
 
                     </div>
                 </div>
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Regulatory Regime</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Regulatory Regime</h6>
+                        </div>
                         <div id="bisRegulatoryRegimes"></div>
 
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Statutory Regime</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5 ">
+                        <div class="mb-8">
+                            <h6 class="bold">Statutory Regime</h6>
+                        </div>
                         <div id="bisStatutoryRegimes"></div>
                     </div>
                 </div>
                 <div class="row mt-15">
                     <div class="col-12">
-                        <div class="mb-4"><h6 class="bold">Description of Items</h6></div>
+                        <div class="mb-4">
+                            <h6 class="bold">Description of Items</h6>
+                        </div>
                         <div class="inline" id="bisItems"></div>
                     </div>
                 </div>
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Ultimate Destinations</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Ultimate Destinations</h6>
+                        </div>
                         <div id="bisDestinations"></div>
                     </div>
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Intermediate Destinations</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Intermediate Destinations</h6>
+                        </div>
                         <div id="bisTranshipments"></div>
                     </div>
                 </div>
@@ -145,20 +181,631 @@
                     </div>
                 </div>
                 <div class="row mt-15">
-                    <div class="col-6">
-                        <div class="mb-8"><h6 class="bold">Voluntary Self-Disclosure</h6></div>
+                    <div class="col-12 col-md-6 mb-md-0 mb-5">
+                        <div class="mb-8">
+                            <h6 class="bold">Voluntary Self-Disclosure</h6>
+                        </div>
                         <div>
-                            <span class="light-green-tag  mr-5 " name="bisVSD" id="bisVSDYes"><img class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                            <span class="light-orange-tag  mr-5 " name="bisVSD" id="bisVSDNo"><img class="mr-5 -top-2 orange-cross-ico" />No</span>
-                            <span class="light-purple-tag  mr-5 " name="bisVSD" id="bisVSDPartial"><img class="mr-5 -top-2 purple-circle-ico" />Partial</span>
+                            <span class="light-green-tag  mr-5 " name="bisVSD" id="bisVSDYes"><img
+                                    class="mr-5 -top-2 green-tick-ico" />Yes</span>
+                            <span class="light-orange-tag  mr-5 " name="bisVSD" id="bisVSDNo"><img
+                                    class="mr-5 -top-2 orange-cross-ico" />No</span>
+                            <span class="light-purple-tag  mr-5 " name="bisVSD" id="bisVSDPartial"><img
+                                    class="mr-5 -top-2 purple-circle-ico" />Partial</span>
                             <span class="ligh-gray-tag  mr-5 " name="bisVSD" id="bisVSDUnknown">Unknown</span>
                         </div>
                     </div>
                 </div>
             </div>
-        </div><!--ending of case-detail-body-->
-    </div><!--ending of p-20-->
-</div><!--ending of sliding-case-details -->
+        </div>
+        <!--ending of case-detail-body-->
+    </div>
+    <!--ending of p-20-->
+</div>
+<!--ending of sliding-case-details -->
+
+<div class="compare-cases-results" id="comparecasesresults">
+
+    <div class="slideInPanel clearfix">
+        <div class="top clearfix">
+            <h1 class="inline">Compare Cases</h1>
+            <a href="#" class="button white-button inline right" id="btn-ofac-case-detail-hide" data-role="hide"
+                onclick="hidecompareCase()">
+                <img class="dark-cross-ico" height="16">
+            </a>
+        </div>
+        <div class="panel-content -compared-col clr">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col">
+                        <div class="custom-col">
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col case1">
+                        <div class="custom-col">
+                            <h5 class="company-name"><span class="inline mr--10 icon">Payoneer Inc.<span
+                                        data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top"
+                                        class="ml--10 inline"></span></h5>
+                            <p class="sm mb--0">Financial Services | Enforcement Date: 7/23/2021</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col case2">
+                        <div class="custom-col">
+                            <h5 class="company-name"><span class="inline mr--10 icon"></span>Hook, Line, and Sinker<span
+                                    data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top"
+                                    class="ml--10 inline"></span>
+                            </h5>
+                            <p class="sm mb--0">E-Commerce Services | Enforcement Date: 4/18/2022</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col case3">
+                        <div class="custom-col">
+                            <h5 class="company-name"><span class="inline mr--10 icon"></span>Moxie Marketing<span
+                                    data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top"
+                                    class="ml--10 inline"></span>
+                            </h5>
+                            <p class="sm mb--0">E-Commerce Services | Enforcement Date: 4/18/2022</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row panelty-price">
+                    <div class="col-lg-12 tabular-heading">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col border-right-0">
+                                    <h5 class="title"><b>Penalty Information</b></h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col Penalty Information border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Penalty Amount</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="price accent">$1,400,301</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="price accent">$2,400,301</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="price accent">$3,400,301</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Base Penalty</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="price ">$3,889,726</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="price ">$4,889,726</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="price ">$6,889,726</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Statutory Maximum Penalty</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="price ">$666,142,614</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="price ">$315,142,614</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="price ">$456,142,614</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row panelty-price">
+                    <div class="col-lg-12 tabular-heading">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col border-right-0">
+                                    <h5 class="title"><b>Violation Information</b></h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col border-right-0">
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col border-right-0">
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">No. of Violations</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="tag accent">2,259</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="tag accent">1,920</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="tag accent">1,281</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Regulatory Provision(s)</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Regulatory Regime</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Statutory Regime</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Sanctioned Persons</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Description of Goods or Services</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    Processed Payment
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    Processed Payment
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    Processed Payment
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Sanctioned Countries</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Zimbabwe</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Zimbabwe</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                                    <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="row panelty-price">
+                    <div class="col-lg-12 tabular-heading">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col border-right-0">
+                                    <h5 class="title"><b>Enforcement Factors</b></h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Voluntary Self-Disclosure</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="tag option2">Partial</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="tag option2">Partial</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="tag option2">Partial</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Egregious Case</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <span class="light-green-tag mr-5"><img
+                                            class="mr-5 -top-2 green-tick-ico">Yes</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <span class="light-green-tag mr-5"><img
+                                            class="mr-5 -top-2 green-tick-ico">Yes</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <span class="light-green-tag mr-5"><img
+                                            class="mr-5 -top-2 green-tick-ico">Yes</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row panelty-price">
+                    <div class="col-lg-12 tabular-heading">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <h5 class="title"><b>Level of Knowledge</b></h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <p class="mb--0">Level</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    Rackless
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    Actual Knowledge
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    Reason to Know
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row panelty-price factors">
+                    <div class="col-lg-12 tabular-heading">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col border-right-0">
+                                    <h5 class="title"><b>Aggravating and Mitigating
+                                            Factors</b></h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col border-right-0">
+
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-3 col">
+                                <div class="custom-col">
+                                    <div class="aggravating factor"><span class="icon mr-5 inline"></span>Aggravating
+                                    </div>
+                                    <div class="mitigating factor"><span class="icon mr-5 inline"></span>Mitigating
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case1">
+                                <div class="custom-col">
+                                    <ul>
+                                        <li class="aggravating">Actual Knowledge</li>
+                                        <li class="aggravating">Concealment</li>
+                                        <li class="aggravating">Deficient Compliance Program</li>
+                                        <li class="aggravating">Economic or Other Benefit to the
+                                            Sanctioned Individual, Entity, or Country</li>
+                                        <li class="aggravating">Harm to U.S. National Security or Foreign
+                                            Policy</li>
+                                        <li class="aggravating">Other Illegal Conduct Involved</li>
+                                        <li class="aggravating">Prior Notice</li>
+                                        <li class="aggravating">Reason to Know</li>
+                                        <li class="aggravating">Reckless Violation of Law</li>
+                                        <li class="aggravating">Willful Violation of Law</li>
+                                        <li class="mitigating">Activities Likely Authorized</li>
+                                        <li class="mitigating">Enhanced Compliance Program</li>
+                                        <li class="mitigating">Humanitarian Activity</li>
+                                        <li class="mitigating">License Eligibility Likely</li>
+                                        <li class="mitigating">Low Likelihood of Recurrence</li>
+                                        <li class="mitigating">Recent SDN Changes</li>
+                                        <li class="mitigating">Tolling Agreement</li>
+                                        <li class="mitigating">Voluntary Self-Disclosure</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case2">
+                                <div class="custom-col">
+                                    <ul>
+                                        <li class="aggravating">Actual Knowledge</li>
+                                        <li class="aggravating">Concealment</li>
+                                        <li class="aggravating">Willful Violation of Law</li>
+                                        <li class="mitigating">Low Likelihood of Recurrence</li>
+                                        <li class="mitigating">Recent SDN Changes</li>
+                                        <li class="mitigating">Tolling Agreement</li>
+                                        <li class="mitigating">Voluntary Self-Disclosure</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col case3">
+                                <div class="custom-col">
+                                    <ul>
+                                        <li class="aggravating">Actual Knowledge</li>
+                                        <li class="aggravating">Concealment</li>
+                                        <li class="aggravating">Deficient Compliance Program</li>
+                                        <li class="aggravating">Economic or Other Benefit to the
+                                            Sanctioned Individual, Entity, or Country</li>
+                                        <li class="aggravating">Harm to U.S. National Security or Foreign
+                                            Policy</li>
+                                        <li class="aggravating">Other Illegal Conduct Involved</li>
+                                        <li class="aggravating">Prior Notice</li>
+                                        <li class="aggravating">Reason to Know</li>
+
+                                        <li class="mitigating">Activities Likely Authorized</li>
+                                        <li class="mitigating">Enhanced Compliance Program</li>
+                                        <li class="mitigating">Humanitarian Activity</li>
+                                        <li class="mitigating">License Eligibility Likely</li>
+                                        <li class="mitigating">Low Likelihood of Recurrence</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+<!--ending of compare-cases results-->
+
 <script id="bisRespondentColumn" type="text/x-kendo-template">
     <div class="d-flex align-items-center">
         <div class="show-tooltip f32 d-flex align-items-center">
@@ -169,5 +816,3 @@
         #: RespondentName #
     </div>
 </script>
-
-

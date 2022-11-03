@@ -14,6 +14,22 @@
 
     <link rel="stylesheet" href="https://use.typekit.net/irw3akf.css">
     <script type="text/javascript">
+        function validate() {
+            var ddl = document.getElementById("savedSearches");
+            if (ddl == "selectcard") {
+                alert("Please select a card type");
+            }
+        }
+        function opencompareCase() {
+            document.getElementById('comparecasesresults').classList.add('show')
+            document.getElementById('fadebg').classList.add('show')
+
+        }
+        function hidecompareCase() {
+            document.getElementById('comparecasesresults').classList.remove('show')
+            document.getElementById('fadebg').classList.remove('show')
+        }
+        
         setTimeout(() => {
             console.log(document.getElementsByClassName('tb-main')[0])
             document.getElementsByClassName('tb-main')[0].style.display = 'none';
@@ -73,7 +89,7 @@
 
 <body id="casespage">
 
-    <div class="fade-bg"></div>
+    <div class="fade-bg" id="fadebg" onclick="hidecompareCase()"></div>
     <div id="header"></div>
     <div id="sidenav"></div>
     <div class="tb-main p-20">
@@ -135,11 +151,12 @@
                 <div class="fixed-left side-bar-left mt-10 pt-0">
                     <div class="collapse show" id="leftSidebar">
                         <div class="ml-4 mr-3 side-bar">
-                            <button class="btn btn-icon btn-primary w-100px d-none" type="button" id="filtertoogglebtn"
+
+                            <!-- <button class="btn btn-icon btn-primary w-100px d-none" type="button" id="filtertoogglebtn"
                                 onclick="ToggleFilter()">
                                 <span class="btn-inner--icon"><i class="k-icon k-i-filter"></i></span>
                                 <span class="btn-inner--text">Filter</span>
-                            </button>
+                            </button> -->
                             <div id="sidebar-left-main">
                                 <div class="row sticky-top opaque sidebar-fixed-top-row p-5" id="searchButtons">
                                     <div class="text-center">
@@ -205,23 +222,26 @@
                 </div>
             </div>
 
-            <div>
-                <div class="d-flex justify-content-between align-items-center px-15">
-                    <div class=" p-15 mt-10 pl-0">
+            <div id="casepagecenterdiv">
+                <a href="#" class="d-lg-none px-15" id="ofacCaseFilter" name="modifyCaseFilters" title="Change Filters"
+                    aria-label="Change Filters">
+                    <i class="k-icon k-i-filter"></i>
+                    <span class=" d-lg-inline">
+                        Modify Filters
+                    </span>
+                </a>
+                <div
+                    class="mt-10 d-flex justify-content-between align-items-sm-center align-items-start flex-column-reverse flex-sm-row px-15">
+                    <div class="pl-6 ">
                         <span class="h5 bold">Results</span>
-                        <a href="#" class="d-lg-none" id="ofacCaseFilter" name="modifyCaseFilters" title="Change Filters"
-                            aria-label="Change Filters">
-                            <i class="k-icon k-i-filter"></i>
-                            <span class="d-none d-md-inline">
-                                Modify Filters
-                            </span>
-                        </a>
                     </div>
-                    <div class=" inline p-15">
+                    <div class=" inline ">
                         <div class="page-update-status inline" id="ofacCasesLastUpdate" name="lastUpdate"
                             style="display: none !important; "></div>
-                        <a href="#" class="button orange-button inline mr-5" name="compareCases" id="ofacCompareCases">
-                            <span><img class="-top-1 window-white-ico" /> Compare Checked Cases </span>
+                        <a href="#" class="button orange-button inline mr-5" name="compareCases" id="ofacCompareCases"
+                            onclick="opencompareCase()">
+                            <span class="comparecase-btn"><img class="-top-1 window-white-ico" /> Compare Checked Cases
+                            </span>
                         </a>
                     </div>
                 </div>
@@ -230,8 +250,8 @@
                     <div id="resultsDiv"></div>
                 </div>
             </div>
-            
-           
+
+
         </div>
     </div>
     </div>

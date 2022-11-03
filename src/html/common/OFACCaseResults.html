@@ -1,17 +1,14 @@
 ﻿<div id="ofacCaseResults" name="caseResults">
-  <!-- <div class="right inline p-15">
-    <div class="page-update-status inline" id="ofacCasesLastUpdate" name="lastUpdate"
-      style="display: none !important; "></div>
-    <a href="#" class="button orange-button inline mr-5" name="compareCases" id="ofacCompareCases">
-      <span><img class="-top-1 window-white-ico" /> Compare Checked Cases </span>
-    </a>
-  </div> -->
+  <div class="right inline pr-20">
+    <div class="page-update-status inline" id="ofacCasesLastUpdate" name="lastUpdate"></div>
+  </div>
   <div>
     <div class="overruled-table d-inline-block ">
       <table id="ofacCaseResultsGrid" name="caseResultsGrid"></table>
     </div>
-  </div>
+    <!--ending of overruled-table-->
 
+  </div>
 
 </div>
 <div id="ofacCaseDetails" class="sliding-case-details" name="caseDetails">
@@ -52,8 +49,8 @@
 
         </div>
       </div>
-      <div class=" md-font"><span id="ofacIndustry"></span> | Enforcement Date: <span
-          id="ofacEnforcementDate"></span></div>
+      <div class=" md-font"><span id="ofacIndustry"></span> | Enforcement Date: <span id="ofacEnforcementDate"></span>
+      </div>
 
       <!-- <div class="inline-flex flex-center ">
               <div class="inline mr-8">
@@ -273,330 +270,361 @@
 </div>
 <!--ending of sliding-case-details -->
 
-<!--start of case comparison -->
-<div id="ofaccompareCase" class="sliding-compare-cases clearfix" name="caseCompare">
+<div class="compare-cases-results" id="comparecasesresults">
 
-
-  <div class="panel-content -compared-col clr">
-    <div class="container">
-
-      <div class="top case-compare-header clearfix">
+  <div class="slideInPanel clearfix">
+    <div class="top clearfix">
+      <h1 class="inline">Compare Cases</h1>
+      <a href="#" class="button white-button inline right" id="btn-ofac-case-detail-hide" data-role="hide"
+        onclick="hidecompareCase()">
+        <img class="dark-cross-ico" height="16">
+      </a>
+    </div>
+    <div class="panel-content -compared-col clr">
+      <div class="container">
         <div class="row">
-          <div class="col">
-            <h1 class="inline">Compare Cases</h1>
-            <a href="#" class="button white-button inline right" id="btn-ofac-case-compare-hide" data-role="hide">
-              <img class="dark-cross-ico" height="16">
-            </a>
-          </div>
-        </div>
-        <div class="row" id="ofaccompareHeader">
-          <div class="item-template" style="display: none;">
-            <div class="col compare-case-col">
-              <div class="custom-col">
-                <h5 class="company-name"><span data-bs-toggle="tooltip" data-bs-placement="top" title="~KEY-FACTS~"
-                    class="ml--10 inline"><span class="inline mr--10 icon"
-                      name="ofaccompareCompanyName">~RESPONDENT-NAME~</span></span></h5>
-              </div>
-            </div>
-          </div>
-          <div class="col">
+          <div class="col-lg-3 col">
             <div class="custom-col">
 
             </div>
           </div>
-        </div>
-
-
-      </div>
-      <div class="case-compare-body">
-        <div class="row" id="ofaccompareKeyFacts">
-          <div class="item-template" style="display: none;">
-            <div class="col compare-case-col">
-              <div class="custom-col border-right-0">
-                <a href="#" name="ofaccomapreKeyFactsTip">Key Facts</a>
-                <div style="display: none;" name="ofaccompareKeyFactsVal">
-                  <div class="tb-panel tb-tooltip m-0">
-                    <div class="tb-panel-header" style="justify-content: space-between;">
-                      <span>Key Facts</span>
-                      <span style="display: flex; align-items: center;" name="close-wrapper">
-                      </span>
-                    </div>
-                    <div class="tb-panel-body text-left overflow-auto" style="display: block;">
-                      <div name="tooltipContent">
-                        ~KEY-FACTS~
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col">
+          <div class="col-lg-3 col case1">
             <div class="custom-col">
-
+              <h5 class="company-name"><span class="inline mr--10 icon">Payoneer Inc.<span data-bs-toggle="tooltip"
+                    data-bs-placement="top" title="Tooltip on top" class="ml--10 inline"></span></h5>
+              <p class="sm mb--0">Financial Services | Enforcement Date: 7/23/2021</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col case2">
+            <div class="custom-col">
+              <h5 class="company-name"><span class="inline mr--10 icon"></span>Hook, Line, and Sinker<span
+                  data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top" class="ml--10 inline"></span>
+              </h5>
+              <p class="sm mb--0">E-Commerce Services | Enforcement Date: 4/18/2022</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col case3">
+            <div class="custom-col">
+              <h5 class="company-name"><span class="inline mr--10 icon"></span>Moxie Marketing<span
+                  data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top" class="ml--10 inline"></span>
+              </h5>
+              <p class="sm mb--0">E-Commerce Services | Enforcement Date: 4/18/2022</p>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-12">
-          <div class="row" id="ofaccompareRespondentNationality">
-
-            <div class="item-template" style="display: none;">
-              <div class="col compare-case-col">
-                <div class="custom-col border-right-0">
-                  ~RESPONDENT-NATIONALITY~
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="custom-col">
-                <b>Nationality</b>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-        <div class="col-lg-12">
-          <div class="row" id="ofaccompareIndustry">
-
-            <div class="item-template" style="display: none;">
-              <div class="col compare-case-col">
-                <div class="custom-col border-right-0">
-                  <span class="price ">~INDUSTRY~</span>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="custom-col">
-                <b>Industry</b>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-        <div class="col-lg-12">
-          <div class="row" id="ofaccompareEnforcementDate">
-
-            <div class="item-template" style="display: none;">
-              <div class="col compare-case-col">
-                <div class="custom-col border-right-0">
-                  <span class="price ">~ENFORCEMENT-DATE~</span>
-
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="custom-col">
-                <b>Enforcement Date</b>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="row penalty-price">
+        <div class="row panelty-price">
           <div class="col-lg-12 tabular-heading">
-            <div class="row" id="ofaccomparePenaltyHeader">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col border-right-0">
                   <h5 class="title"><b>Penalty Information</b></h5>
                 </div>
               </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col Penalty Information border-right-0">
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col border-right-0">
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccomparePenalty">
-
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    <span class="price accent">~PENALTY~</span>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Penalty Amount</b>
+                  <p class="mb--0">Penalty Amount</p>
                 </div>
               </div>
-
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="price accent">$1,400,301</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="price accent">$2,400,301</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="price accent">$3,400,301</span>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareBasePenalty">
-
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    <span class="price ">~BASE-PENALTY~</span>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Base Penalty</b>
+                  <p class="mb--0">Base Penalty</p>
                 </div>
               </div>
-
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="price ">$3,889,726</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="price ">$4,889,726</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="price ">$6,889,726</span>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareMaxPenalty">
-
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    <span class="price ">~STATUTORY-MAX~</span>
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Statutory Maximum Penalty</p>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col">
-                  <b>Statutory Maximum Penalty</b>
+                  <span class="price ">$666,142,614</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="price ">$315,142,614</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="price ">$456,142,614</span>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="row penalty-price">
-          <div class="col-lg-12 tabular-heading">
-            <div class="row" id="ofaccompareViolationsHeader">
 
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+        <div class="row panelty-price">
+          <div class="col-lg-12 tabular-heading">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col border-right-0">
                   <h5 class="title"><b>Violation Information</b></h5>
                 </div>
               </div>
-
+              <div class="col-lg-3 col case1">
+                <div class="custom-col border-right-0">
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col border-right-0">
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareNumberOfViolations">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    <span class="tag accent">~NUMBER-VIOLATIONS~</span>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
                   <p class="mb--0">No. of Violations</p>
                 </div>
               </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="tag accent">2,259</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="tag accent">1,920</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="tag accent">1,281</span>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareRegulatoryProvisions">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~REGULATORY-PROVISIONS~
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Regulatory Provision(s)</b>
+                  <p class="mb--0">Regulatory Provision(s)</p>
                 </div>
               </div>
-
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">538.205</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">541.201</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">542.207</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">544.201</span>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareRegulatoryRegimes">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~REGULATORY-REGIMES~
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Regulatory Regime</p>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col">
-                  <b>Regulatory Regime</b>
+                  <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">ITSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SySR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">SSR</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">WMDPSR</span>
                 </div>
               </div>
             </div>
 
-            <div class="row" id="ofaccompareStatutoryRegimes">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~STATUTORY-REGIMES~
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Statutory Regime</b>
+                  <p class="mb--0">Statutory Regime</p>
                 </div>
               </div>
-
-            </div>
-
-
-            <div class="row" id="ofaccompareSanctionedPersons">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~SANCTIONED-PERSONS~
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col">
-                  <b>Sanction Persons</b>
+                  <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
                 </div>
               </div>
-            </div>
-
-
-            <div class="row" id="ofaccompareGoods">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~GOODS~
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+              <div class="col-lg-3 col case2">
                 <div class="custom-col">
-                  <b>Description of Goods or Services</b>
+                  <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">TWEA</span>
                 </div>
               </div>
             </div>
 
 
-            <div class="row" id="ofaccompareSanctionedCountries">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col">
-                    ~SANCTIONED-COUNTRIES~
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Sanctioned Countries</b>
+                  <p class="mb--0">Sanctioned Persons</p>
                 </div>
               </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Yes - SDN</span>
+                </div>
+              </div>
+            </div>
 
+
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Description of Goods or Services</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  Processed Payment
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  Processed Payment
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  Processed Payment
+                </div>
+              </div>
+            </div>
+
+
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Sanctioned Countries</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Zimbabwe</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Zimbabwe</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="white-tag inline mr-5 xs-box-shadow">Iran</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Sudan</span>
+                  <span class="white-tag inline mr-5 xs-box-shadow">Syria</span>
+                </div>
+              </div>
             </div>
 
           </div>
@@ -604,97 +632,124 @@
 
         <div class="row panelty-price">
           <div class="col-lg-12 tabular-heading">
-            <div class="row" id="ofaccompareFactorsHeader">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col border-right-0">
                   <h5 class="title"><b>Enforcement Factors</b></h5>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="col-lg-12">
-            <div class="row" id="ofaccompareVSD">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    <span class="light-green-tag  mr-5 " style="display:none;" name="ofaccompareVSDYes"><img
-                        class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                    <span class="light-orange-tag  mr-5 " style="display:none;" name="ofaccompareVSDNo"><img
-                        class="mr-5 -top-2  orange-cross-ico" />No</span>
-                    <span class="light-purple-tag  mr-5 " style="display:none;" name="ofaccompareVSDPartial"><img
-                        class="mr-5 -top-2 purple-circle-ico" />Partial</span>
-                    <span class="ligh-gray-tag  mr-5 " style="display:none;" name="ofaccompareVSDUnknown">Unknown</span>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col border-right-0">
 
-                  </div>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case2">
+                <div class="custom-col border-right-0">
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
                 <div class="custom-col">
-                  <b>Voluntary Self-Disclosure</b>
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareEgregious">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    <span class="light-green-tag  mr-5 " style="display:none;" name="ofaccompareEgregiouYes"> <img
-                        class="mr-5 -top-2 green-tick-ico" />Yes</span>
-                    <span class="light-orange-tag  mr-5 " style="display:none;" name="ofaccompareEgregiousNo"><img
-                        class="mr-5 -top-2 orange-cross-ico" />No</span>
-                    <span class="light-purple-tag  mr-5 " style="display:none;" name="ofaccompareEgregiousPartial"><img
-                        class="mr-5 -top-2 purple-circle-ico" />Partial</span>
-                    <span class="ligh-gray-tag  mr-5 " style="display:none;"
-                      name="ofaccompareEgregiousUnknown">Unknown</span>
-
-                  </div>
-                </div>
-              </div>
-              <div class="col">
+            <div class="row">
+              <div class="col-lg-3 col">
                 <div class="custom-col">
-                  <b>Egregious Case</b>
+                  <p class="mb--0">Voluntary Self-Disclosure</p>
                 </div>
               </div>
-
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="tag option2">Partial</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="tag option2">Partial</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="tag option2">Partial</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-12">
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Egregious Case</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col case1">
+                <div class="custom-col">
+                  <span class="light-green-tag mr-5"><img class="mr-5 -top-2 green-tick-ico">Yes</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <span class="light-green-tag mr-5"><img class="mr-5 -top-2 green-tick-ico">Yes</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <span class="light-green-tag mr-5"><img class="mr-5 -top-2 green-tick-ico">Yes</span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
+
         <div class="row panelty-price">
           <div class="col-lg-12 tabular-heading">
-            <div class="row" id="ofaccompareKnowledgeHeader">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <h5 class="title"><b>Level of Knowledge</b></h5>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col border-right-0">
-                  <h5 class="title"><b>Level of Knowledge</b></h5>
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col border-right-0">
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareLevelOfKnowledge">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    ~LEVEL-OF-KNOWLEDGE~
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <p class="mb--0">Level</p>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col">
-                  <b>Level</b>
+                  Rackless
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  Actual Knowledge
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  Reason to Know
                 </div>
               </div>
             </div>
@@ -703,41 +758,98 @@
 
         <div class="row panelty-price factors">
           <div class="col-lg-12 tabular-heading">
-            <div class="row" id="ofaccompareAMFactorHeader">
-              <div class="item-template" style="display: none;">
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col border-right-0">
+                  <h5 class="title"><b>Aggravating and Mitigating
+                      Factors</b></h5>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col border-right-0">
-                  <h5 class="title">
-                    <b>
-                      Aggravating and Mitigating
-                      Factors
-                    </b>
-                  </h5>
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col border-right-0">
+
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-12">
-            <div class="row" id="ofaccompareAMFactors">
-              <div class="item-template" style="display: none;">
-
-                <div class="col compare-case-col">
-                  <div class="custom-col border-right-0">
-                    ~AGGMIT-FACTORS~
-                  </div>
+            <div class="row">
+              <div class="col-lg-3 col">
+                <div class="custom-col">
+                  <div class="aggravating factor"><span class="icon mr-5 inline"></span>Aggravating</div>
+                  <div class="mitigating factor"><span class="icon mr-5 inline"></span>Mitigating</div>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-lg-3 col case1">
                 <div class="custom-col">
-                  <div class="aggravating factor"><span class="icon mr-5 inline"></span>Aggravating
-                  </div>
-                  <div class="mitigating factor"><span class="icon mr-5 inline"></span>Mitigating
-                  </div>
+                  <ul>
+                    <li class="aggravating">Actual Knowledge</li>
+                    <li class="aggravating">Concealment</li>
+                    <li class="aggravating">Deficient Compliance Program</li>
+                    <li class="aggravating">Economic or Other Benefit to the
+                      Sanctioned Individual, Entity, or Country</li>
+                    <li class="aggravating">Harm to U.S. National Security or Foreign
+                      Policy</li>
+                    <li class="aggravating">Other Illegal Conduct Involved</li>
+                    <li class="aggravating">Prior Notice</li>
+                    <li class="aggravating">Reason to Know</li>
+                    <li class="aggravating">Reckless Violation of Law</li>
+                    <li class="aggravating">Willful Violation of Law</li>
+                    <li class="mitigating">Activities Likely Authorized</li>
+                    <li class="mitigating">Enhanced Compliance Program</li>
+                    <li class="mitigating">Humanitarian Activity</li>
+                    <li class="mitigating">License Eligibility Likely</li>
+                    <li class="mitigating">Low Likelihood of Recurrence</li>
+                    <li class="mitigating">Recent SDN Changes</li>
+                    <li class="mitigating">Tolling Agreement</li>
+                    <li class="mitigating">Voluntary Self-Disclosure</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col case2">
+                <div class="custom-col">
+                  <ul>
+                    <li class="aggravating">Actual Knowledge</li>
+                    <li class="aggravating">Concealment</li>
+                    <li class="aggravating">Willful Violation of Law</li>
+                    <li class="mitigating">Low Likelihood of Recurrence</li>
+                    <li class="mitigating">Recent SDN Changes</li>
+                    <li class="mitigating">Tolling Agreement</li>
+                    <li class="mitigating">Voluntary Self-Disclosure</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col case3">
+                <div class="custom-col">
+                  <ul>
+                    <li class="aggravating">Actual Knowledge</li>
+                    <li class="aggravating">Concealment</li>
+                    <li class="aggravating">Deficient Compliance Program</li>
+                    <li class="aggravating">Economic or Other Benefit to the
+                      Sanctioned Individual, Entity, or Country</li>
+                    <li class="aggravating">Harm to U.S. National Security or Foreign
+                      Policy</li>
+                    <li class="aggravating">Other Illegal Conduct Involved</li>
+                    <li class="aggravating">Prior Notice</li>
+                    <li class="aggravating">Reason to Know</li>
+
+                    <li class="mitigating">Activities Likely Authorized</li>
+                    <li class="mitigating">Enhanced Compliance Program</li>
+                    <li class="mitigating">Humanitarian Activity</li>
+                    <li class="mitigating">License Eligibility Likely</li>
+                    <li class="mitigating">Low Likelihood of Recurrence</li>
+
+                  </ul>
                 </div>
               </div>
             </div>
@@ -745,25 +857,22 @@
         </div>
       </div>
 
+
+
     </div>
-
-
-
   </div>
-
 </div>
 <!--ending of compare-cases results-->
 
-<div id="ofacRespondentColumn" type="text/x-kendo-template">
+
+
+<script id="ofacRespondentColumn" type="text/x-kendo-template">
   <div class="d-flex align-items-center">
+      <div class="show-tooltip f32 d-flex align-items-center">
+          <div class="country-flag mr-5 inline flag #= RespondentCountryCodes == null ? 'AR' : RespondentCountryCodes.toLowerCase()#"></div>
+          <span class="tooltiptext">#: RespondentNationalities#</span>
 
-    <div class="show-tooltip f32 d-flex align-items-center">
-      <div
-        class="country-flag mr-5 inline flag #= RespondentCountryCodes == null ? 'AR' : RespondentCountryCodes.toLowerCase()#">
       </div>
-      <span class="tooltiptext">#: RespondentNationalities#</span>
-
-    </div>
-    #: RespondentName #
+      #: RespondentName #
   </div>
-</div>
+</script>
