@@ -796,7 +796,7 @@ th[data-role="columnsorter"] a:hover {
     display: none !important;
   }
   .search-icon-responsive {
-    display: block !important;
+    display: flex !important;
   }
 }
 
@@ -1141,7 +1141,7 @@ body::-webkit-scrollbar-thumb {
   height: auto !important;
 }
 #item_hamburger {
-  right: 60px !important;
+  right: 90px !important;
   top: 6px;
   padding: 7px 0px;
 }
@@ -1326,7 +1326,22 @@ body::-webkit-scrollbar-thumb {
   span.penalty {
     font-size: 17px !important;
   }
+  #sourceclose {
+    margin-right: 10px !important;
+  }
+  #ofacRespondentName{
+    font-size: 18px !important;
+  }
+  .case-detail-header .md-font{
+    font-size: 16px !important;
+  }
 }
 .calculator-centerdiv{
   margin-left: 20px ;
+}
+.checkbox-style li {
+  height: 145px ;
+}
+#footer{
+  margin-top: 20px !important;
 }

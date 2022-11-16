@@ -1,4 +1,3 @@
-
 /* // my responsive work */
 
 @media screen and (min-width: 320px) and (max-width: 1045px) {
@@ -523,7 +522,7 @@ body::-webkit-scrollbar-thumb {
   .section-content-display {
     width: 100% !important;
   }
-  .calculator-centerdiv{
+  .calculator-centerdiv {
     margin-left: 0px !important;
   }
 }
@@ -536,7 +535,22 @@ body::-webkit-scrollbar-thumb {
   span.penalty {
     font-size: 17px !important;
   }
+  #sourceclose {
+    margin-right: 10px !important;
+  }
+  #ofacRespondentName{
+    font-size: 18px !important;
+  }
+  .case-detail-header .md-font{
+    font-weight: 16px !important;
+  }
 }
-.calculator-centerdiv{
-  margin-left: 20px ;
+.calculator-centerdiv {
+  margin-left: 20px;
+}
+.checkbox-style li {
+  height: 145px;
+}
+#footer {
+  margin-top: 20px !important;
 }

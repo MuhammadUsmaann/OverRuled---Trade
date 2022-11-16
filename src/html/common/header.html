@@ -3,7 +3,7 @@
         <div id="logo_div" class="inline"></div>
         <div id="expand_item" class="inline relative desk"><img class="tb-menu-icon hamburger" /></div>
 
-        
+
         <!--<div id="logo_text">Powered By Akin Gump</div>-->
         <!-- Login/Profile-->
         <div class="flex flex-center right-search-holder">
@@ -67,14 +67,27 @@
             <!--<div id="profile_actions">
                 <a href="#" class="show-dialog" data-target="#dialog_login">Login</a> | <a href="#" class="show-dialog" data-target="#dialog_login">Registration</a>
             </div>-->
-            <div class="search-icon-responsive cr-p" onclick="SearchHolder()" >
-                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path
-                        d="M13.6502 12.618L17.2193 16.1863L16.0402 17.3655L12.4719 13.7963C11.1441 14.8607 9.49268 15.4396 7.79102 15.4371C3.65102 15.4371 0.291016 12.0771 0.291016 7.93713C0.291016 3.79713 3.65102 0.437134 7.79102 0.437134C11.931 0.437134 15.291 3.79713 15.291 7.93713C15.2934 9.6388 14.7145 11.2903 13.6502 12.618ZM11.9785 11.9996C13.0361 10.912 13.6267 9.45416 13.6243 7.93713C13.6243 4.7138 11.0135 2.1038 7.79102 2.1038C4.56768 2.1038 1.95768 4.7138 1.95768 7.93713C1.95768 11.1596 4.56768 13.7705 7.79102 13.7705C9.30804 13.7729 10.7659 13.1822 11.8535 12.1246L11.9785 11.9996V11.9996Z"
-                        fill="white" />
-                </svg>
-                <img src="../../img/search-white-ico.svg" alt="">
+            
+            <div class="search-icon-responsive cr-p d-flex">
+                <div onclick="SearchHolder()">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M13.6502 12.618L17.2193 16.1863L16.0402 17.3655L12.4719 13.7963C11.1441 14.8607 9.49268 15.4396 7.79102 15.4371C3.65102 15.4371 0.291016 12.0771 0.291016 7.93713C0.291016 3.79713 3.65102 0.437134 7.79102 0.437134C11.931 0.437134 15.291 3.79713 15.291 7.93713C15.2934 9.6388 14.7145 11.2903 13.6502 12.618ZM11.9785 11.9996C13.0361 10.912 13.6267 9.45416 13.6243 7.93713C13.6243 4.7138 11.0135 2.1038 7.79102 2.1038C4.56768 2.1038 1.95768 4.7138 1.95768 7.93713C1.95768 11.1596 4.56768 13.7705 7.79102 13.7705C9.30804 13.7729 10.7659 13.1822 11.8535 12.1246L11.9785 11.9996V11.9996Z"
+                            fill="white" />
+                    </svg>
+                    <img src="../../img/search-white-ico.svg" alt="">
+                </div>
+                <div onclick="NavWrapper()" class="ml-15">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M13.6502 12.618L17.2193 16.1863L16.0402 17.3655L12.4719 13.7963C11.1441 14.8607 9.49268 15.4396 7.79102 15.4371C3.65102 15.4371 0.291016 12.0771 0.291016 7.93713C0.291016 3.79713 3.65102 0.437134 7.79102 0.437134C11.931 0.437134 15.291 3.79713 15.291 7.93713C15.2934 9.6388 14.7145 11.2903 13.6502 12.618ZM11.9785 11.9996C13.0361 10.912 13.6267 9.45416 13.6243 7.93713C13.6243 4.7138 11.0135 2.1038 7.79102 2.1038C4.56768 2.1038 1.95768 4.7138 1.95768 7.93713C1.95768 11.1596 4.56768 13.7705 7.79102 13.7705C9.30804 13.7729 10.7659 13.1822 11.8535 12.1246L11.9785 11.9996V11.9996Z"
+                            fill="white" />
+                    </svg>
+                    <img src="../../img/search-white-ico.svg" alt="">
+                </div>
             </div>
+            
+
 
             <div style="margin-left: 20px;position: relative;">
 
@@ -105,9 +118,9 @@
             <img id="search-img" class="search-img" />
         </div>
 
-        
+
     </div>
-   
+
 </div>
 <div class="top-news-ticker pl-15 fixed fluid">
     <div class="new-alert-title left "> News Alert</div>
